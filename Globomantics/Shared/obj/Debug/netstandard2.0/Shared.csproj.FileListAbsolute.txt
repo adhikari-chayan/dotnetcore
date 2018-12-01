@@ -1,0 +1,9 @@
+C:\My Stuff\Practise Projects\Globomantics\Shared\bin\Debug\netstandard2.0\Shared.deps.json
+C:\My Stuff\Practise Projects\Globomantics\Shared\bin\Debug\netstandard2.0\Shared.dll
+C:\My Stuff\Practise Projects\Globomantics\Shared\bin\Debug\netstandard2.0\Shared.pdb
+C:\My Stuff\Practise Projects\Globomantics\Shared\obj\Debug\netstandard2.0\Shared.csprojAssemblyReference.cache
+C:\My Stuff\Practise Projects\Globomantics\Shared\obj\Debug\netstandard2.0\Shared.csproj.CoreCompileInputs.cache
+C:\My Stuff\Practise Projects\Globomantics\Shared\obj\Debug\netstandard2.0\Shared.AssemblyInfoInputs.cache
+C:\My Stuff\Practise Projects\Globomantics\Shared\obj\Debug\netstandard2.0\Shared.AssemblyInfo.cs
+C:\My Stuff\Practise Projects\Globomantics\Shared\obj\Debug\netstandard2.0\Shared.dll
+C:\My Stuff\Practise Projects\Globomantics\Shared\obj\Debug\netstandard2.0\Shared.pdb

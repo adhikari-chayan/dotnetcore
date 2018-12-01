@@ -1,0 +1,13 @@
+C:\My Stuff\Practise Projects\CityInfo\CityInfo.API\bin\Release\netcoreapp2.1\CityInfo.API.deps.json
+C:\My Stuff\Practise Projects\CityInfo\CityInfo.API\bin\Release\netcoreapp2.1\CityInfo.API.runtimeconfig.json
+C:\My Stuff\Practise Projects\CityInfo\CityInfo.API\bin\Release\netcoreapp2.1\CityInfo.API.runtimeconfig.dev.json
+C:\My Stuff\Practise Projects\CityInfo\CityInfo.API\bin\Release\netcoreapp2.1\CityInfo.API.dll
+C:\My Stuff\Practise Projects\CityInfo\CityInfo.API\bin\Release\netcoreapp2.1\CityInfo.API.pdb
+C:\My Stuff\Practise Projects\CityInfo\CityInfo.API\obj\Release\netcoreapp2.1\CityInfo.API.csproj.CoreCompileInputs.cache
+C:\My Stuff\Practise Projects\CityInfo\CityInfo.API\obj\Release\netcoreapp2.1\CityInfo.API.RazorAssemblyInfo.cache
+C:\My Stuff\Practise Projects\CityInfo\CityInfo.API\obj\Release\netcoreapp2.1\CityInfo.API.RazorAssemblyInfo.cs
+C:\My Stuff\Practise Projects\CityInfo\CityInfo.API\obj\Release\netcoreapp2.1\CityInfo.API.AssemblyInfoInputs.cache
+C:\My Stuff\Practise Projects\CityInfo\CityInfo.API\obj\Release\netcoreapp2.1\CityInfo.API.AssemblyInfo.cs
+C:\My Stuff\Practise Projects\CityInfo\CityInfo.API\obj\Release\netcoreapp2.1\CityInfo.API.RazorTargetAssemblyInfo.cache
+C:\My Stuff\Practise Projects\CityInfo\CityInfo.API\obj\Release\netcoreapp2.1\CityInfo.API.dll
+C:\My Stuff\Practise Projects\CityInfo\CityInfo.API\obj\Release\netcoreapp2.1\CityInfo.API.pdb

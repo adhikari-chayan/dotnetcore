@@ -1,0 +1,17 @@
+C:\My Stuff\Practise Projects\Globomantics\API\bin\Debug\netcoreapp2.1\API.deps.json
+C:\My Stuff\Practise Projects\Globomantics\API\bin\Debug\netcoreapp2.1\API.runtimeconfig.json
+C:\My Stuff\Practise Projects\Globomantics\API\bin\Debug\netcoreapp2.1\API.runtimeconfig.dev.json
+C:\My Stuff\Practise Projects\Globomantics\API\bin\Debug\netcoreapp2.1\API.dll
+C:\My Stuff\Practise Projects\Globomantics\API\obj\Debug\netcoreapp2.1\API.csprojAssemblyReference.cache
+C:\My Stuff\Practise Projects\Globomantics\API\obj\Debug\netcoreapp2.1\API.csproj.CoreCompileInputs.cache
+C:\My Stuff\Practise Projects\Globomantics\API\obj\Debug\netcoreapp2.1\API.RazorAssemblyInfo.cache
+C:\My Stuff\Practise Projects\Globomantics\API\obj\Debug\netcoreapp2.1\API.RazorAssemblyInfo.cs
+C:\My Stuff\Practise Projects\Globomantics\API\obj\Debug\netcoreapp2.1\API.AssemblyInfoInputs.cache
+C:\My Stuff\Practise Projects\Globomantics\API\obj\Debug\netcoreapp2.1\API.AssemblyInfo.cs
+C:\My Stuff\Practise Projects\Globomantics\API\obj\Debug\netcoreapp2.1\API.RazorTargetAssemblyInfo.cache
+C:\My Stuff\Practise Projects\Globomantics\API\bin\Debug\netcoreapp2.1\API.pdb
+C:\My Stuff\Practise Projects\Globomantics\API\obj\Debug\netcoreapp2.1\API.dll
+C:\My Stuff\Practise Projects\Globomantics\API\obj\Debug\netcoreapp2.1\API.pdb
+C:\My Stuff\Practise Projects\Globomantics\API\bin\Debug\netcoreapp2.1\Shared.dll
+C:\My Stuff\Practise Projects\Globomantics\API\bin\Debug\netcoreapp2.1\Shared.pdb
+C:\My Stuff\Practise Projects\Globomantics\API\obj\Debug\netcoreapp2.1\API.csproj.CopyComplete
