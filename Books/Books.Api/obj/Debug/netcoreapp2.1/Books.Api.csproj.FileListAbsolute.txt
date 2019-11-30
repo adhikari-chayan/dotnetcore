@@ -1,0 +1,28 @@
+C:\Users\u0169352\Desktop\end\Books\Books.Api\bin\Debug\netcoreapp2.1\Books.Api.deps.json
+C:\Users\u0169352\Desktop\end\Books\Books.Api\bin\Debug\netcoreapp2.1\Books.Api.runtimeconfig.json
+C:\Users\u0169352\Desktop\end\Books\Books.Api\bin\Debug\netcoreapp2.1\Books.Api.runtimeconfig.dev.json
+C:\Users\u0169352\Desktop\end\Books\Books.Api\bin\Debug\netcoreapp2.1\Books.Api.dll
+C:\Users\u0169352\Desktop\end\Books\Books.Api\bin\Debug\netcoreapp2.1\Books.Api.pdb
+C:\Users\u0169352\Desktop\end\Books\Books.Api\obj\Debug\netcoreapp2.1\Books.Api.csprojAssemblyReference.cache
+C:\Users\u0169352\Desktop\end\Books\Books.Api\obj\Debug\netcoreapp2.1\Books.Api.csproj.CoreCompileInputs.cache
+C:\Users\u0169352\Desktop\end\Books\Books.Api\obj\Debug\netcoreapp2.1\Books.Api.RazorAssemblyInfo.cache
+C:\Users\u0169352\Desktop\end\Books\Books.Api\obj\Debug\netcoreapp2.1\Books.Api.RazorAssemblyInfo.cs
+C:\Users\u0169352\Desktop\end\Books\Books.Api\obj\Debug\netcoreapp2.1\Books.Api.AssemblyInfoInputs.cache
+C:\Users\u0169352\Desktop\end\Books\Books.Api\obj\Debug\netcoreapp2.1\Books.Api.AssemblyInfo.cs
+C:\Users\u0169352\Desktop\end\Books\Books.Api\obj\Debug\netcoreapp2.1\Books.Api.RazorTargetAssemblyInfo.cache
+C:\Users\u0169352\Desktop\end\Books\Books.Api\obj\Debug\netcoreapp2.1\Books.Api.dll
+C:\Users\u0169352\Desktop\end\Books\Books.Api\obj\Debug\netcoreapp2.1\Books.Api.pdb
+C:\My Stuff\Practise Projects\Asynchronous Programming\Books\Books.Api\bin\Debug\netcoreapp2.1\Books.Api.deps.json
+C:\My Stuff\Practise Projects\Asynchronous Programming\Books\Books.Api\bin\Debug\netcoreapp2.1\Books.Api.runtimeconfig.json
+C:\My Stuff\Practise Projects\Asynchronous Programming\Books\Books.Api\bin\Debug\netcoreapp2.1\Books.Api.runtimeconfig.dev.json
+C:\My Stuff\Practise Projects\Asynchronous Programming\Books\Books.Api\bin\Debug\netcoreapp2.1\Books.Api.dll
+C:\My Stuff\Practise Projects\Asynchronous Programming\Books\Books.Api\bin\Debug\netcoreapp2.1\Books.Api.pdb
+C:\My Stuff\Practise Projects\Asynchronous Programming\Books\Books.Api\obj\Debug\netcoreapp2.1\Books.Api.csprojAssemblyReference.cache
+C:\My Stuff\Practise Projects\Asynchronous Programming\Books\Books.Api\obj\Debug\netcoreapp2.1\Books.Api.csproj.CoreCompileInputs.cache
+C:\My Stuff\Practise Projects\Asynchronous Programming\Books\Books.Api\obj\Debug\netcoreapp2.1\Books.Api.RazorAssemblyInfo.cache
+C:\My Stuff\Practise Projects\Asynchronous Programming\Books\Books.Api\obj\Debug\netcoreapp2.1\Books.Api.RazorAssemblyInfo.cs
+C:\My Stuff\Practise Projects\Asynchronous Programming\Books\Books.Api\obj\Debug\netcoreapp2.1\Books.Api.AssemblyInfoInputs.cache
+C:\My Stuff\Practise Projects\Asynchronous Programming\Books\Books.Api\obj\Debug\netcoreapp2.1\Books.Api.AssemblyInfo.cs
+C:\My Stuff\Practise Projects\Asynchronous Programming\Books\Books.Api\obj\Debug\netcoreapp2.1\Books.Api.RazorTargetAssemblyInfo.cache
+C:\My Stuff\Practise Projects\Asynchronous Programming\Books\Books.Api\obj\Debug\netcoreapp2.1\Books.Api.dll
+C:\My Stuff\Practise Projects\Asynchronous Programming\Books\Books.Api\obj\Debug\netcoreapp2.1\Books.Api.pdb
