@@ -96,5 +96,53 @@ namespace CourseLibrary.API.Services
 
             return _context.Courses.Where(c => c.AuthorId == authorId && c.Id == courseId).FirstOrDefault();
         }
+
+        public IEnumerable<Author> GetAuthors(IEnumerable<Guid> authorIds)
+        {
+            if (authorIds == null)
+            {
+                throw new ArgumentNullException(nameof(authorIds));
+            }
+
+            return _context.Authors.Where(a => authorIds.Contains(a.Id))
+                .OrderBy(a => a.FirstName)
+                .OrderBy(a => a.LastName)
+                .ToList();
+        }
+
+        public void AddAuthor(Author author)
+        {
+            if (author == null)
+                throw new ArgumentNullException(nameof(author));
+            author.Id = Guid.NewGuid();
+            foreach(var course in author.Courses)
+            {
+                course.Id = Guid.NewGuid();
+            }
+
+            _context.Authors.Add(author);
+        }
+
+        public void AddCourse(Guid authorId, Course course)
+        {
+            if (authorId == Guid.Empty)
+            {
+                throw new ArgumentNullException(nameof(authorId));
+            }
+
+            if (course == null)
+            {
+                throw new ArgumentNullException(nameof(course));
+            }
+            // always set the AuthorId to the passed-in authorId
+            course.AuthorId = authorId;
+            _context.Courses.Add(course);
+        }
+
+
+        public bool Save()
+        {
+            return (_context.SaveChanges() >= 0);
+        }
     }
 }

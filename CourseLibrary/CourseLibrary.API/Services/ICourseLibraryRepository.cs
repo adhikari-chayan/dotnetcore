@@ -17,5 +17,11 @@ namespace CourseLibrary.API.Services
         Course GetCourse(Guid authorId, Guid courseId);
         IEnumerable<Author> GetAuthors(AuthorsResourceParameters authorsResourceParameters);
 
+        IEnumerable<Author> GetAuthors(IEnumerable<Guid> authorIds);
+        void AddAuthor(Author author);
+
+        public void AddCourse(Guid authorId, Course course);
+        public bool Save();
+
     }
 }
