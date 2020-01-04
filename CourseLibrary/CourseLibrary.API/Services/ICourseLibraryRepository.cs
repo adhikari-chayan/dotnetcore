@@ -21,6 +21,8 @@ namespace CourseLibrary.API.Services
         void AddAuthor(Author author);
 
         public void AddCourse(Guid authorId, Course course);
+
+        public void UpdateCourse(Course course);
         public bool Save();
 
     }

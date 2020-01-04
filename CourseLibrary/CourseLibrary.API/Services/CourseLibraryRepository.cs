@@ -139,7 +139,10 @@ namespace CourseLibrary.API.Services
             _context.Courses.Add(course);
         }
 
+        public void UpdateCourse(Course course)
+        {
 
+        }
         public bool Save()
         {
             return (_context.SaveChanges() >= 0);
