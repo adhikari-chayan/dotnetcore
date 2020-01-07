@@ -4,6 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using CourseLibrary.API.DbContexts;
 using CourseLibrary.API.Entities;
+using CourseLibrary.API.Helpers;
 using CourseLibrary.API.ResourceParameters;
 
 namespace CourseLibrary.API.Services
@@ -11,9 +12,11 @@ namespace CourseLibrary.API.Services
     public class CourseLibraryRepository : ICourseLibraryRepository
     {
         private readonly CourseLibraryContext _context;
-        public CourseLibraryRepository(CourseLibraryContext context)
+        private readonly IPropertyMappingService _propertyMappingService;
+        public CourseLibraryRepository(CourseLibraryContext context,IPropertyMappingService propertyMappingService)
         {
             _context = context ?? throw new ArgumentNullException(nameof(context));
+            _propertyMappingService = propertyMappingService ?? throw new ArgumentNullException(nameof(propertyMappingService));
         }
         public IEnumerable<Author> GetAuthors()
         {
@@ -21,7 +24,7 @@ namespace CourseLibrary.API.Services
         }
 
 
-        public IEnumerable<Author> GetAuthors(AuthorsResourceParameters authorsResourceParameters)
+        public PagedList<Author> GetAuthors(AuthorsResourceParameters authorsResourceParameters)
         {
 
             if (authorsResourceParameters == null)
@@ -29,8 +32,10 @@ namespace CourseLibrary.API.Services
                 throw new ArgumentNullException(nameof(authorsResourceParameters));
             }
 
-            if (string.IsNullOrEmpty(authorsResourceParameters.MainCategory) && string.IsNullOrEmpty(authorsResourceParameters.SearchQuery))
-                return GetAuthors();
+            //Commenting since paging is needed when there are no filter applied as well
+            
+            //if (string.IsNullOrEmpty(authorsResourceParameters.MainCategory) && string.IsNullOrEmpty(authorsResourceParameters.SearchQuery))
+            //    return GetAuthors();
 
 
             var collection = _context.Authors as IQueryable<Author>;
@@ -46,8 +51,28 @@ namespace CourseLibrary.API.Services
                 collection = collection.Where(a => a.MainCategory.Contains(authorsResourceParameters.SearchQuery) || a.FirstName.Contains(authorsResourceParameters.SearchQuery) || a.LastName.Contains(authorsResourceParameters.SearchQuery));
             }
 
-            return collection.ToList();
 
+
+            //return collection
+            //     .Skip(authorsResourceParameters.PageSize * (authorsResourceParameters.PageNumber - 1))
+            //     .Take(authorsResourceParameters.PageSize)
+            //     .ToList();
+
+            if(!string.IsNullOrEmpty(authorsResourceParameters.OrderBy))
+            {
+                //if (authorsResourceParameters.OrderBy.ToLowerInvariant() == "name")
+                //{
+                //    collection = collection.OrderBy(a => a.FirstName).ThenBy(a => a.LastName);
+                //}
+
+                //Get property mapping dictionary
+               var authorPropertyMappingDictionary = _propertyMappingService.GetPropertyMapping<Models.AuthorDto, Author>();
+
+               collection= collection.ApplySort(authorsResourceParameters.OrderBy, authorPropertyMappingDictionary);
+
+            }
+
+            return PagedList<Author>.Create(collection, authorsResourceParameters.PageNumber, authorsResourceParameters.PageSize);
             
         }
 
@@ -143,6 +168,22 @@ namespace CourseLibrary.API.Services
         {
 
         }
+
+        public void DeleteCourse(Course course)
+        {
+            _context.Courses.Remove(course);
+        }
+
+        public void DeleteAuthor(Author author)
+        {
+            if (author == null)
+            {
+                throw new ArgumentNullException(nameof(author));
+            }
+
+            _context.Authors.Remove(author);
+        }
+
         public bool Save()
         {
             return (_context.SaveChanges() >= 0);

@@ -44,6 +44,12 @@ namespace CourseLibrary.API
             .ConfigureApiBehaviorOptions(setupAction=>{
                 setupAction.InvalidModelStateResponseFactory = context =>
                 {
+
+                    /*
+                     Here we see we have configured a new InvalidModelStateResponseFactory, and that one isn't used when returning the ValidationProblem from our controller action. It's only used when input is validated via the model binder and the ModelState on an API controller isn't valid anymore due to that.
+
+                    But this can be fixed-->Check how we override the ValidationProblem method from ControllerBase class to resolve this in CoursesController
+                     */
                     var problemDetails = new ValidationProblemDetails(context.ModelState)
                     {
                         Type = "https://courselibrary.com/modelvalidationproblem",
@@ -61,6 +67,12 @@ namespace CourseLibrary.API
                 };
                     
             });
+
+            //Register PropertyMappingService
+            services.AddTransient<IPropertyMappingService, PropertyMappingService>();
+
+            //Register PropertyCheckerService
+            services.AddTransient<IPropertyCheckerService, PropertyCheckerService>();
 
             services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
 

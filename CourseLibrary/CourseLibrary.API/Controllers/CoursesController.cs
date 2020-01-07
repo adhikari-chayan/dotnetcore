@@ -4,6 +4,10 @@ using CourseLibrary.API.Models;
 using CourseLibrary.API.Services;
 using Microsoft.AspNetCore.JsonPatch;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.Infrastructure;
+using Microsoft.AspNetCore.Mvc.ModelBinding;
+using Microsoft.Extensions.DependencyInjection;
+using Microsoft.Extensions.Options;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -108,17 +112,71 @@ namespace CourseLibrary.API.Controllers
             var courseForAuthorFromRepo = _courseLibraryRepository.GetCourse(authorId, courseId);
 
             if (courseForAuthorFromRepo == null)
-                return NotFound();
+            {
+                //Upserting
+                var courseDto = new CourseForUpdateDto();
+                patchDocument.ApplyTo(courseDto,ModelState);
+
+                if (!TryValidateModel(courseDto))
+                {
+                    return ValidationProblem(ModelState);
+                }
+
+                var courseToAdd = _mapper.Map<Entities.Course>(courseDto);
+                courseToAdd.Id = courseId;
+                _courseLibraryRepository.AddCourse(authorId, courseToAdd);
+                _courseLibraryRepository.Save();
+
+                var courseToReturn = _mapper.Map<CourseDto>(courseToAdd);
+
+                return CreatedAtRoute("GetCourseForAuthor", new { authorId, courseId = courseToReturn.Id }, courseToReturn);
+
+            }
 
             var courseToPatch = _mapper.Map<CourseForUpdateDto>(courseForAuthorFromRepo);
             //add validation
-            patchDocument.ApplyTo(courseToPatch);
+            patchDocument.ApplyTo(courseToPatch,ModelState);
+
+            if(!TryValidateModel(courseToPatch))
+            {
+                return ValidationProblem(ModelState);
+            }
 
             _mapper.Map(courseToPatch, courseForAuthorFromRepo);
             _courseLibraryRepository.UpdateCourse(courseForAuthorFromRepo);
             _courseLibraryRepository.Save();
             return NoContent(); 
         }
-        
+
+
+        [HttpDelete("{courseId}")]
+        public ActionResult DeleteCourseForAuthor(Guid authorId,Guid courseId)
+        {
+            if (!_courseLibraryRepository.AuthorExists(authorId))
+            {
+                return NotFound();
+            }
+
+            var courseForAuthorFromRepo = _courseLibraryRepository.GetCourse(authorId, courseId);
+            if (courseForAuthorFromRepo == null)
+            {
+                return NotFound();
+            }
+
+            _courseLibraryRepository.DeleteCourse(courseForAuthorFromRepo);
+            _courseLibraryRepository.Save();
+
+            return NoContent();
+        }
+
+        /*
+         So, instead of returning base.ValidationProblem, we want the InvalidModelStateResponseFactory, as we configured it in our Startup class to handle this. We don't want to write this same code in two different places. Our InvalidModelStateResponseFactory is defined on the Options for ApiBehaviorOptions. So, we get an instance of that by calling into GetRequiredServices under RequestServices. We pass through IOptions of type ApiBehaviorOptions. 
+       */
+        public override ActionResult ValidationProblem([ActionResultObjectValue] ModelStateDictionary modelStateDictionary)
+        {
+            var options = HttpContext.RequestServices.GetRequiredService<IOptions<ApiBehaviorOptions>>();
+            return (ActionResult)options.Value.InvalidModelStateResponseFactory(ControllerContext);
+        }
+
     }
 }

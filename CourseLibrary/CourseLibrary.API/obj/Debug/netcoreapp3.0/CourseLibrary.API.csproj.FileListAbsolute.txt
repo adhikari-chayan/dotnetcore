@@ -55,3 +55,7 @@ C:\My Stuff\Practise Projects\Kudvenkat\Core\CourseLibrary\CourseLibrary.API\bin
 C:\My Stuff\Practise Projects\Kudvenkat\Core\CourseLibrary\CourseLibrary.API\bin\Debug\netcoreapp3.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 C:\My Stuff\Practise Projects\Kudvenkat\Core\CourseLibrary\CourseLibrary.API\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.JsonPatch.dll
 C:\My Stuff\Practise Projects\Kudvenkat\Core\CourseLibrary\CourseLibrary.API\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\My Stuff\Practise Projects\Kudvenkat\Core\CourseLibrary\CourseLibrary.API\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\My Stuff\Practise Projects\Kudvenkat\Core\CourseLibrary\CourseLibrary.API\bin\Debug\netcoreapp3.0\Newtonsoft.Json.Bson.dll
+C:\My Stuff\Practise Projects\Kudvenkat\Core\CourseLibrary\CourseLibrary.API\bin\Debug\netcoreapp3.0\System.Linq.Dynamic.Core.dll
+C:\My Stuff\Practise Projects\Kudvenkat\Core\CourseLibrary\CourseLibrary.API\obj\Debug\netcoreapp3.0\CourseLibrary.API.MvcApplicationPartsAssemblyInfo.cache
