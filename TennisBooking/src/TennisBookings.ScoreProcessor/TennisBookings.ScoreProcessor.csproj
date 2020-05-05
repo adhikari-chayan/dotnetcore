@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk.Worker">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UserSecretsId>dotnet-TennisBookings.ScoreProcessor-A857640E-5AEE-463E-A1A1-48484846C446</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AWSSDK.Extensions.NETCore.Setup" Version="3.3.101" />
+    <PackageReference Include="AWSSDK.S3" Version="3.3.110.62" />
+    <PackageReference Include="AWSSDK.SQS" Version="3.3.102.103" />
+    <PackageReference Include="Microsoft.Extensions.Hosting" Version="3.1.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TennisBookings.ResultsProcessing\TennisBookings.ResultsProcessing.csproj" />
+  </ItemGroup>
+</Project>
