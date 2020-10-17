@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "cFz8vbl9TNA0T8NricnarGZCHyT7twg02qVjH08Ayb4+1XO6GHSw+7ixGagshV+F2fXozFTiLxB5+hPYS/ptyg==",
+  "success": true,
+  "projectFilePath": "C:\\MyStuff\\Practice Projects\\dotnetcore\\DotnetCoreCentral\\TimeManagement\\TimeManagement.Streaming.Consumer\\TimeManagement.Streaming.Consumer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chayan.adhikari\\.nuget\\packages\\confluent.kafka\\1.5.1\\confluent.kafka.1.5.1.nupkg.sha512",
+    "C:\\Users\\chayan.adhikari\\.nuget\\packages\\librdkafka.redist\\1.5.0\\librdkafka.redist.1.5.0.nupkg.sha512",
+    "C:\\Users\\chayan.adhikari\\.nuget\\packages\\system.memory\\4.5.0\\system.memory.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

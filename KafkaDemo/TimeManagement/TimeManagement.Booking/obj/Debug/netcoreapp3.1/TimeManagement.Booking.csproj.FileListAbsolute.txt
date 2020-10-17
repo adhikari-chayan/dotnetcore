@@ -1,0 +1,12 @@
+C:\MyStuff\Practice Projects\dotnetcore\DotnetCoreCentral\TimeManagement\TimeManagement.Booking\bin\Debug\netcoreapp3.1\TimeManagement.Booking.deps.json
+C:\MyStuff\Practice Projects\dotnetcore\DotnetCoreCentral\TimeManagement\TimeManagement.Booking\bin\Debug\netcoreapp3.1\TimeManagement.Booking.dll
+C:\MyStuff\Practice Projects\dotnetcore\DotnetCoreCentral\TimeManagement\TimeManagement.Booking\bin\Debug\netcoreapp3.1\TimeManagement.Booking.pdb
+C:\MyStuff\Practice Projects\dotnetcore\DotnetCoreCentral\TimeManagement\TimeManagement.Booking\bin\Debug\netcoreapp3.1\TimeManagement.Data.dll
+C:\MyStuff\Practice Projects\dotnetcore\DotnetCoreCentral\TimeManagement\TimeManagement.Booking\bin\Debug\netcoreapp3.1\TimeManagement.Data.pdb
+C:\MyStuff\Practice Projects\dotnetcore\DotnetCoreCentral\TimeManagement\TimeManagement.Booking\obj\Debug\netcoreapp3.1\TimeManagement.Booking.csprojAssemblyReference.cache
+C:\MyStuff\Practice Projects\dotnetcore\DotnetCoreCentral\TimeManagement\TimeManagement.Booking\obj\Debug\netcoreapp3.1\TimeManagement.Booking.csproj.CoreCompileInputs.cache
+C:\MyStuff\Practice Projects\dotnetcore\DotnetCoreCentral\TimeManagement\TimeManagement.Booking\obj\Debug\netcoreapp3.1\TimeManagement.Booking.AssemblyInfoInputs.cache
+C:\MyStuff\Practice Projects\dotnetcore\DotnetCoreCentral\TimeManagement\TimeManagement.Booking\obj\Debug\netcoreapp3.1\TimeManagement.Booking.AssemblyInfo.cs
+C:\MyStuff\Practice Projects\dotnetcore\DotnetCoreCentral\TimeManagement\TimeManagement.Booking\obj\Debug\netcoreapp3.1\TimeManagement.Booking.csproj.CopyComplete
+C:\MyStuff\Practice Projects\dotnetcore\DotnetCoreCentral\TimeManagement\TimeManagement.Booking\obj\Debug\netcoreapp3.1\TimeManagement.Booking.dll
+C:\MyStuff\Practice Projects\dotnetcore\DotnetCoreCentral\TimeManagement\TimeManagement.Booking\obj\Debug\netcoreapp3.1\TimeManagement.Booking.pdb

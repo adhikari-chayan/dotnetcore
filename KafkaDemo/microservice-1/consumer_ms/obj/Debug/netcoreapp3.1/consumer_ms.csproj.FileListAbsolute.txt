@@ -1,0 +1,4 @@
+C:\MyStuff\Practice Projects\dotnetcore\KafkaDemo\microservice-1\consumer_ms\bin\Debug\netcoreapp3.1\consumer_ms.exe
+C:\MyStuff\Practice Projects\dotnetcore\KafkaDemo\microservice-1\consumer_ms\obj\Debug\netcoreapp3.1\consumer_ms.csprojAssemblyReference.cache
+C:\MyStuff\Practice Projects\dotnetcore\KafkaDemo\microservice-1\consumer_ms\obj\Debug\netcoreapp3.1\consumer_ms.AssemblyInfoInputs.cache
+C:\MyStuff\Practice Projects\dotnetcore\KafkaDemo\microservice-1\consumer_ms\obj\Debug\netcoreapp3.1\consumer_ms.AssemblyInfo.cs
