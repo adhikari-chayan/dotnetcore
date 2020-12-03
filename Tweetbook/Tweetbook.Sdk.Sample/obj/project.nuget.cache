@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "wTqXaUaEN4wBUhyDOXPFXrXfrArfVYIKqhjIjOjtY5nTsrmU8fUPv/KUhLJXJpdppL0LhXGIfXSufVtWpypgEQ==",
+  "success": true,
+  "projectFilePath": "C:\\MyStuff\\Practice Projects\\dotnetcore\\Tweetbook\\Tweetbook.Sdk.Sample\\Tweetbook.Sdk.Sample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chayan.adhikari\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\chayan.adhikari\\.nuget\\packages\\refit\\4.7.51\\refit.4.7.51.nupkg.sha512",
+    "C:\\Users\\chayan.adhikari\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

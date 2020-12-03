@@ -1,0 +1,12 @@
+C:\MyStuff\Practice Projects\dotnetcore\TweetBook\Tweetbook.Sdk\bin\Debug\netstandard2.0\Tweetbook.Sdk.deps.json
+C:\MyStuff\Practice Projects\dotnetcore\TweetBook\Tweetbook.Sdk\bin\Debug\netstandard2.0\Tweetbook.Sdk.dll
+C:\MyStuff\Practice Projects\dotnetcore\TweetBook\Tweetbook.Sdk\bin\Debug\netstandard2.0\Tweetbook.Sdk.pdb
+C:\MyStuff\Practice Projects\dotnetcore\TweetBook\Tweetbook.Sdk\obj\Debug\netstandard2.0\Tweetbook.Sdk.AssemblyInfoInputs.cache
+C:\MyStuff\Practice Projects\dotnetcore\TweetBook\Tweetbook.Sdk\obj\Debug\netstandard2.0\Tweetbook.Sdk.AssemblyInfo.cs
+C:\MyStuff\Practice Projects\dotnetcore\TweetBook\Tweetbook.Sdk\obj\Debug\netstandard2.0\Tweetbook.Sdk.csproj.CoreCompileInputs.cache
+C:\MyStuff\Practice Projects\dotnetcore\TweetBook\Tweetbook.Sdk\obj\Debug\netstandard2.0\Tweetbook.Sdk.dll
+C:\MyStuff\Practice Projects\dotnetcore\TweetBook\Tweetbook.Sdk\obj\Debug\netstandard2.0\Tweetbook.Sdk.pdb
+C:\MyStuff\Practice Projects\dotnetcore\TweetBook\Tweetbook.Sdk\bin\Debug\netstandard2.0\Tweetbook.Contracts.dll
+C:\MyStuff\Practice Projects\dotnetcore\TweetBook\Tweetbook.Sdk\bin\Debug\netstandard2.0\Tweetbook.Contracts.pdb
+C:\MyStuff\Practice Projects\dotnetcore\TweetBook\Tweetbook.Sdk\obj\Debug\netstandard2.0\Tweetbook.Sdk.csprojAssemblyReference.cache
+C:\MyStuff\Practice Projects\dotnetcore\TweetBook\Tweetbook.Sdk\obj\Debug\netstandard2.0\Tweetbook.Sdk.csproj.CopyComplete

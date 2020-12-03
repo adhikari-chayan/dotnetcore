@@ -1,0 +1,8 @@
+C:\MyStuff\Practice Projects\dotnetcore\TweetBook\Tweetbook.Contracts\obj\Debug\netstandard2.0\Tweetbook.Contracts.AssemblyInfoInputs.cache
+C:\MyStuff\Practice Projects\dotnetcore\TweetBook\Tweetbook.Contracts\obj\Debug\netstandard2.0\Tweetbook.Contracts.AssemblyInfo.cs
+C:\MyStuff\Practice Projects\dotnetcore\TweetBook\Tweetbook.Contracts\obj\Debug\netstandard2.0\Tweetbook.Contracts.csproj.CoreCompileInputs.cache
+C:\MyStuff\Practice Projects\dotnetcore\TweetBook\Tweetbook.Contracts\bin\Debug\netstandard2.0\Tweetbook.Contracts.deps.json
+C:\MyStuff\Practice Projects\dotnetcore\TweetBook\Tweetbook.Contracts\bin\Debug\netstandard2.0\Tweetbook.Contracts.dll
+C:\MyStuff\Practice Projects\dotnetcore\TweetBook\Tweetbook.Contracts\bin\Debug\netstandard2.0\Tweetbook.Contracts.pdb
+C:\MyStuff\Practice Projects\dotnetcore\TweetBook\Tweetbook.Contracts\obj\Debug\netstandard2.0\Tweetbook.Contracts.dll
+C:\MyStuff\Practice Projects\dotnetcore\TweetBook\Tweetbook.Contracts\obj\Debug\netstandard2.0\Tweetbook.Contracts.pdb

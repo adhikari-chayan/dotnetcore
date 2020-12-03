@@ -1,0 +1,17 @@
+C:\MyStuff\Practice Projects\dotnetcore\TweetBook\TweetBook\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\MyStuff\Practice Projects\dotnetcore\TweetBook\TweetBook\bin\Debug\netcoreapp2.2\appsettings.json
+C:\MyStuff\Practice Projects\dotnetcore\TweetBook\TweetBook\bin\Debug\netcoreapp2.2\TweetBook.deps.json
+C:\MyStuff\Practice Projects\dotnetcore\TweetBook\TweetBook\bin\Debug\netcoreapp2.2\TweetBook.runtimeconfig.json
+C:\MyStuff\Practice Projects\dotnetcore\TweetBook\TweetBook\bin\Debug\netcoreapp2.2\TweetBook.runtimeconfig.dev.json
+C:\MyStuff\Practice Projects\dotnetcore\TweetBook\TweetBook\bin\Debug\netcoreapp2.2\TweetBook.dll
+C:\MyStuff\Practice Projects\dotnetcore\TweetBook\TweetBook\bin\Debug\netcoreapp2.2\TweetBook.pdb
+C:\MyStuff\Practice Projects\dotnetcore\TweetBook\TweetBook\obj\Debug\netcoreapp2.2\TweetBook.RazorAssemblyInfo.cache
+C:\MyStuff\Practice Projects\dotnetcore\TweetBook\TweetBook\obj\Debug\netcoreapp2.2\TweetBook.RazorAssemblyInfo.cs
+C:\MyStuff\Practice Projects\dotnetcore\TweetBook\TweetBook\obj\Debug\netcoreapp2.2\TweetBook.AssemblyInfoInputs.cache
+C:\MyStuff\Practice Projects\dotnetcore\TweetBook\TweetBook\obj\Debug\netcoreapp2.2\TweetBook.AssemblyInfo.cs
+C:\MyStuff\Practice Projects\dotnetcore\TweetBook\TweetBook\obj\Debug\netcoreapp2.2\TweetBook.RazorTargetAssemblyInfo.cache
+C:\MyStuff\Practice Projects\dotnetcore\TweetBook\TweetBook\obj\Debug\netcoreapp2.2\TweetBook.dll
+C:\MyStuff\Practice Projects\dotnetcore\TweetBook\TweetBook\obj\Debug\netcoreapp2.2\TweetBook.pdb
+C:\MyStuff\Practice Projects\dotnetcore\TweetBook\TweetBook\obj\Debug\netcoreapp2.2\TweetBook.genruntimeconfig.cache
+C:\MyStuff\Practice Projects\dotnetcore\TweetBook\TweetBook\obj\Debug\netcoreapp2.2\TweetBook.csproj.CoreCompileInputs.cache
+C:\MyStuff\Practice Projects\dotnetcore\TweetBook\TweetBook\obj\Debug\netcoreapp2.2\TweetBook.csprojAssemblyReference.cache
