@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZbfYll6RNJwJSKhMcViqcElpFQZotI2L5W2Gb2OqOC6gIS39v0GNrFfZw5dRu7jtD7hR+Pf6l/uI/jX8+tOdFQ==",
+  "success": true,
+  "projectFilePath": "C:\\MyStuff\\Practice Projects\\dotnetcore\\ReactiveExtensions\\ReactiveNumbers\\ReactiveNumbers\\ReactiveNumbers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chayan.adhikari\\.nuget\\packages\\system.reactive\\5.0.0\\system.reactive.5.0.0.nupkg.sha512",
+    "C:\\Users\\chayan.adhikari\\.nuget\\packages\\system.reactive.core\\5.0.0\\system.reactive.core.5.0.0.nupkg.sha512",
+    "C:\\Users\\chayan.adhikari\\.nuget\\packages\\system.reactive.interfaces\\5.0.0\\system.reactive.interfaces.5.0.0.nupkg.sha512",
+    "C:\\Users\\chayan.adhikari\\.nuget\\packages\\system.reactive.linq\\5.0.0\\system.reactive.linq.5.0.0.nupkg.sha512",
+    "C:\\Users\\chayan.adhikari\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}

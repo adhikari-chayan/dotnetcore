@@ -1,0 +1,8 @@
+C:\MyStuff\Practice Projects\dotnetcore\DotnetCoreCentral\TimeManagement\TimeManagement.Data\bin\Debug\netcoreapp3.1\TimeManagement.Data.deps.json
+C:\MyStuff\Practice Projects\dotnetcore\DotnetCoreCentral\TimeManagement\TimeManagement.Data\bin\Debug\netcoreapp3.1\TimeManagement.Data.dll
+C:\MyStuff\Practice Projects\dotnetcore\DotnetCoreCentral\TimeManagement\TimeManagement.Data\bin\Debug\netcoreapp3.1\TimeManagement.Data.pdb
+C:\MyStuff\Practice Projects\dotnetcore\DotnetCoreCentral\TimeManagement\TimeManagement.Data\obj\Debug\netcoreapp3.1\TimeManagement.Data.csproj.CoreCompileInputs.cache
+C:\MyStuff\Practice Projects\dotnetcore\DotnetCoreCentral\TimeManagement\TimeManagement.Data\obj\Debug\netcoreapp3.1\TimeManagement.Data.AssemblyInfoInputs.cache
+C:\MyStuff\Practice Projects\dotnetcore\DotnetCoreCentral\TimeManagement\TimeManagement.Data\obj\Debug\netcoreapp3.1\TimeManagement.Data.AssemblyInfo.cs
+C:\MyStuff\Practice Projects\dotnetcore\DotnetCoreCentral\TimeManagement\TimeManagement.Data\obj\Debug\netcoreapp3.1\TimeManagement.Data.dll
+C:\MyStuff\Practice Projects\dotnetcore\DotnetCoreCentral\TimeManagement\TimeManagement.Data\obj\Debug\netcoreapp3.1\TimeManagement.Data.pdb
