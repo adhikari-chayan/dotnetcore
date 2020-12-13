@@ -1,0 +1,13 @@
+C:\MyStuff\Practice Projects\dotnetcore\AsyncStreamDemos\Async.IEnumerable.Test\Async.IEnumerable.Test\bin\Debug\netcoreapp3.1\Async.IEnumerable.Test.exe
+C:\MyStuff\Practice Projects\dotnetcore\AsyncStreamDemos\Async.IEnumerable.Test\Async.IEnumerable.Test\bin\Debug\netcoreapp3.1\Async.IEnumerable.Test.deps.json
+C:\MyStuff\Practice Projects\dotnetcore\AsyncStreamDemos\Async.IEnumerable.Test\Async.IEnumerable.Test\bin\Debug\netcoreapp3.1\Async.IEnumerable.Test.runtimeconfig.json
+C:\MyStuff\Practice Projects\dotnetcore\AsyncStreamDemos\Async.IEnumerable.Test\Async.IEnumerable.Test\bin\Debug\netcoreapp3.1\Async.IEnumerable.Test.runtimeconfig.dev.json
+C:\MyStuff\Practice Projects\dotnetcore\AsyncStreamDemos\Async.IEnumerable.Test\Async.IEnumerable.Test\bin\Debug\netcoreapp3.1\Async.IEnumerable.Test.dll
+C:\MyStuff\Practice Projects\dotnetcore\AsyncStreamDemos\Async.IEnumerable.Test\Async.IEnumerable.Test\bin\Debug\netcoreapp3.1\Async.IEnumerable.Test.pdb
+C:\MyStuff\Practice Projects\dotnetcore\AsyncStreamDemos\Async.IEnumerable.Test\Async.IEnumerable.Test\obj\Debug\netcoreapp3.1\Async.IEnumerable.Test.csprojAssemblyReference.cache
+C:\MyStuff\Practice Projects\dotnetcore\AsyncStreamDemos\Async.IEnumerable.Test\Async.IEnumerable.Test\obj\Debug\netcoreapp3.1\Async.IEnumerable.Test.AssemblyInfoInputs.cache
+C:\MyStuff\Practice Projects\dotnetcore\AsyncStreamDemos\Async.IEnumerable.Test\Async.IEnumerable.Test\obj\Debug\netcoreapp3.1\Async.IEnumerable.Test.AssemblyInfo.cs
+C:\MyStuff\Practice Projects\dotnetcore\AsyncStreamDemos\Async.IEnumerable.Test\Async.IEnumerable.Test\obj\Debug\netcoreapp3.1\Async.IEnumerable.Test.csproj.CoreCompileInputs.cache
+C:\MyStuff\Practice Projects\dotnetcore\AsyncStreamDemos\Async.IEnumerable.Test\Async.IEnumerable.Test\obj\Debug\netcoreapp3.1\Async.IEnumerable.Test.dll
+C:\MyStuff\Practice Projects\dotnetcore\AsyncStreamDemos\Async.IEnumerable.Test\Async.IEnumerable.Test\obj\Debug\netcoreapp3.1\Async.IEnumerable.Test.pdb
+C:\MyStuff\Practice Projects\dotnetcore\AsyncStreamDemos\Async.IEnumerable.Test\Async.IEnumerable.Test\obj\Debug\netcoreapp3.1\Async.IEnumerable.Test.genruntimeconfig.cache

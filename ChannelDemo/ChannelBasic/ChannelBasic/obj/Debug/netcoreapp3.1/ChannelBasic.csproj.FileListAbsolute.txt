@@ -1,0 +1,13 @@
+C:\MyStuff\Practice Projects\dotnetcore\AsyncStreamDemos\ChannelBasic\ChannelBasic\bin\Debug\netcoreapp3.1\ChannelBasic.exe
+C:\MyStuff\Practice Projects\dotnetcore\AsyncStreamDemos\ChannelBasic\ChannelBasic\bin\Debug\netcoreapp3.1\ChannelBasic.deps.json
+C:\MyStuff\Practice Projects\dotnetcore\AsyncStreamDemos\ChannelBasic\ChannelBasic\bin\Debug\netcoreapp3.1\ChannelBasic.runtimeconfig.json
+C:\MyStuff\Practice Projects\dotnetcore\AsyncStreamDemos\ChannelBasic\ChannelBasic\bin\Debug\netcoreapp3.1\ChannelBasic.runtimeconfig.dev.json
+C:\MyStuff\Practice Projects\dotnetcore\AsyncStreamDemos\ChannelBasic\ChannelBasic\bin\Debug\netcoreapp3.1\ChannelBasic.dll
+C:\MyStuff\Practice Projects\dotnetcore\AsyncStreamDemos\ChannelBasic\ChannelBasic\bin\Debug\netcoreapp3.1\ChannelBasic.pdb
+C:\MyStuff\Practice Projects\dotnetcore\AsyncStreamDemos\ChannelBasic\ChannelBasic\obj\Debug\netcoreapp3.1\ChannelBasic.csprojAssemblyReference.cache
+C:\MyStuff\Practice Projects\dotnetcore\AsyncStreamDemos\ChannelBasic\ChannelBasic\obj\Debug\netcoreapp3.1\ChannelBasic.AssemblyInfoInputs.cache
+C:\MyStuff\Practice Projects\dotnetcore\AsyncStreamDemos\ChannelBasic\ChannelBasic\obj\Debug\netcoreapp3.1\ChannelBasic.AssemblyInfo.cs
+C:\MyStuff\Practice Projects\dotnetcore\AsyncStreamDemos\ChannelBasic\ChannelBasic\obj\Debug\netcoreapp3.1\ChannelBasic.csproj.CoreCompileInputs.cache
+C:\MyStuff\Practice Projects\dotnetcore\AsyncStreamDemos\ChannelBasic\ChannelBasic\obj\Debug\netcoreapp3.1\ChannelBasic.dll
+C:\MyStuff\Practice Projects\dotnetcore\AsyncStreamDemos\ChannelBasic\ChannelBasic\obj\Debug\netcoreapp3.1\ChannelBasic.pdb
+C:\MyStuff\Practice Projects\dotnetcore\AsyncStreamDemos\ChannelBasic\ChannelBasic\obj\Debug\netcoreapp3.1\ChannelBasic.genruntimeconfig.cache

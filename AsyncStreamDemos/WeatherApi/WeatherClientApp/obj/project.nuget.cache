@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dhBbOXdedrpXXQ/0OyodJ+zHbSF80Wyiqp4sw93+4SNDHQ1crA7TMxgbIKcz3fZeRtIxUbMgMGJW/HmYsyM12A==",
+  "success": true,
+  "projectFilePath": "C:\\MyStuff\\Practice Projects\\dotnetcore\\AsyncStreamDemos\\WeatherApi\\WeatherClientApp\\WeatherClientApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chayan.adhikari\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

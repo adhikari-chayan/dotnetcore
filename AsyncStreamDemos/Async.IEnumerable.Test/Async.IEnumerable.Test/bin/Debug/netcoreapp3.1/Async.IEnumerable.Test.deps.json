@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Async.IEnumerable.Test/1.0.0": {
+        "runtime": {
+          "Async.IEnumerable.Test.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Async.IEnumerable.Test/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

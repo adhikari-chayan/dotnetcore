@@ -1,0 +1,15 @@
+C:\MyStuff\Practice Projects\dotnetcore\AsyncStreamDemos\WeatherApi\WeatherClientApp\bin\Debug\netcoreapp3.1\WeatherClientApp.exe
+C:\MyStuff\Practice Projects\dotnetcore\AsyncStreamDemos\WeatherApi\WeatherClientApp\bin\Debug\netcoreapp3.1\WeatherClientApp.deps.json
+C:\MyStuff\Practice Projects\dotnetcore\AsyncStreamDemos\WeatherApi\WeatherClientApp\bin\Debug\netcoreapp3.1\WeatherClientApp.runtimeconfig.json
+C:\MyStuff\Practice Projects\dotnetcore\AsyncStreamDemos\WeatherApi\WeatherClientApp\bin\Debug\netcoreapp3.1\WeatherClientApp.runtimeconfig.dev.json
+C:\MyStuff\Practice Projects\dotnetcore\AsyncStreamDemos\WeatherApi\WeatherClientApp\bin\Debug\netcoreapp3.1\WeatherClientApp.dll
+C:\MyStuff\Practice Projects\dotnetcore\AsyncStreamDemos\WeatherApi\WeatherClientApp\bin\Debug\netcoreapp3.1\WeatherClientApp.pdb
+C:\MyStuff\Practice Projects\dotnetcore\AsyncStreamDemos\WeatherApi\WeatherClientApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\MyStuff\Practice Projects\dotnetcore\AsyncStreamDemos\WeatherApi\WeatherClientApp\obj\Debug\netcoreapp3.1\WeatherClientApp.csprojAssemblyReference.cache
+C:\MyStuff\Practice Projects\dotnetcore\AsyncStreamDemos\WeatherApi\WeatherClientApp\obj\Debug\netcoreapp3.1\WeatherClientApp.AssemblyInfoInputs.cache
+C:\MyStuff\Practice Projects\dotnetcore\AsyncStreamDemos\WeatherApi\WeatherClientApp\obj\Debug\netcoreapp3.1\WeatherClientApp.AssemblyInfo.cs
+C:\MyStuff\Practice Projects\dotnetcore\AsyncStreamDemos\WeatherApi\WeatherClientApp\obj\Debug\netcoreapp3.1\WeatherClientApp.csproj.CoreCompileInputs.cache
+C:\MyStuff\Practice Projects\dotnetcore\AsyncStreamDemos\WeatherApi\WeatherClientApp\obj\Debug\netcoreapp3.1\WeatherClientApp.csproj.CopyComplete
+C:\MyStuff\Practice Projects\dotnetcore\AsyncStreamDemos\WeatherApi\WeatherClientApp\obj\Debug\netcoreapp3.1\WeatherClientApp.dll
+C:\MyStuff\Practice Projects\dotnetcore\AsyncStreamDemos\WeatherApi\WeatherClientApp\obj\Debug\netcoreapp3.1\WeatherClientApp.pdb
+C:\MyStuff\Practice Projects\dotnetcore\AsyncStreamDemos\WeatherApi\WeatherClientApp\obj\Debug\netcoreapp3.1\WeatherClientApp.genruntimeconfig.cache
