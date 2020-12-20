@@ -1,0 +1,13 @@
+C:\MyStuff\Practice Projects\dotnetcore\AsyncBasics\ThreadIdAnalysis\bin\Debug\netcoreapp3.1\ThreadIdAnalysis.exe
+C:\MyStuff\Practice Projects\dotnetcore\AsyncBasics\ThreadIdAnalysis\bin\Debug\netcoreapp3.1\ThreadIdAnalysis.deps.json
+C:\MyStuff\Practice Projects\dotnetcore\AsyncBasics\ThreadIdAnalysis\bin\Debug\netcoreapp3.1\ThreadIdAnalysis.runtimeconfig.json
+C:\MyStuff\Practice Projects\dotnetcore\AsyncBasics\ThreadIdAnalysis\bin\Debug\netcoreapp3.1\ThreadIdAnalysis.runtimeconfig.dev.json
+C:\MyStuff\Practice Projects\dotnetcore\AsyncBasics\ThreadIdAnalysis\bin\Debug\netcoreapp3.1\ThreadIdAnalysis.dll
+C:\MyStuff\Practice Projects\dotnetcore\AsyncBasics\ThreadIdAnalysis\bin\Debug\netcoreapp3.1\ThreadIdAnalysis.pdb
+C:\MyStuff\Practice Projects\dotnetcore\AsyncBasics\ThreadIdAnalysis\obj\Debug\netcoreapp3.1\ThreadIdAnalysis.csprojAssemblyReference.cache
+C:\MyStuff\Practice Projects\dotnetcore\AsyncBasics\ThreadIdAnalysis\obj\Debug\netcoreapp3.1\ThreadIdAnalysis.AssemblyInfoInputs.cache
+C:\MyStuff\Practice Projects\dotnetcore\AsyncBasics\ThreadIdAnalysis\obj\Debug\netcoreapp3.1\ThreadIdAnalysis.AssemblyInfo.cs
+C:\MyStuff\Practice Projects\dotnetcore\AsyncBasics\ThreadIdAnalysis\obj\Debug\netcoreapp3.1\ThreadIdAnalysis.csproj.CoreCompileInputs.cache
+C:\MyStuff\Practice Projects\dotnetcore\AsyncBasics\ThreadIdAnalysis\obj\Debug\netcoreapp3.1\ThreadIdAnalysis.dll
+C:\MyStuff\Practice Projects\dotnetcore\AsyncBasics\ThreadIdAnalysis\obj\Debug\netcoreapp3.1\ThreadIdAnalysis.pdb
+C:\MyStuff\Practice Projects\dotnetcore\AsyncBasics\ThreadIdAnalysis\obj\Debug\netcoreapp3.1\ThreadIdAnalysis.genruntimeconfig.cache

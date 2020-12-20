@@ -1,0 +1,9 @@
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\StockAnalyzer\StockAnalyzer.Core\bin\Debug\netstandard2.0\StockAnalyzer.Core.deps.json
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\StockAnalyzer\StockAnalyzer.Core\bin\Debug\netstandard2.0\StockAnalyzer.Core.dll
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\StockAnalyzer\StockAnalyzer.Core\bin\Debug\netstandard2.0\StockAnalyzer.Core.pdb
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\StockAnalyzer\StockAnalyzer.Core\obj\Debug\netstandard2.0\StockAnalyzer.Core.AssemblyInfoInputs.cache
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\StockAnalyzer\StockAnalyzer.Core\obj\Debug\netstandard2.0\StockAnalyzer.Core.AssemblyInfo.cs
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\StockAnalyzer\StockAnalyzer.Core\obj\Debug\netstandard2.0\StockAnalyzer.Core.csproj.CoreCompileInputs.cache
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\StockAnalyzer\StockAnalyzer.Core\obj\Debug\netstandard2.0\StockAnalyzer.Core.dll
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\StockAnalyzer\StockAnalyzer.Core\obj\Debug\netstandard2.0\StockAnalyzer.Core.pdb
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\StockAnalyzer\StockAnalyzer.Core\obj\Debug\netstandard2.0\StockAnalyzer.Core.csprojAssemblyReference.cache

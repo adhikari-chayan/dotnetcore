@@ -1,0 +1,13 @@
+C:\MyStuff\Practice Projects\dotnetcore\AsyncBasics\MsdnAsyncBasics\bin\Debug\netcoreapp3.1\MsdnAsyncBasics.exe
+C:\MyStuff\Practice Projects\dotnetcore\AsyncBasics\MsdnAsyncBasics\bin\Debug\netcoreapp3.1\MsdnAsyncBasics.deps.json
+C:\MyStuff\Practice Projects\dotnetcore\AsyncBasics\MsdnAsyncBasics\bin\Debug\netcoreapp3.1\MsdnAsyncBasics.runtimeconfig.json
+C:\MyStuff\Practice Projects\dotnetcore\AsyncBasics\MsdnAsyncBasics\bin\Debug\netcoreapp3.1\MsdnAsyncBasics.runtimeconfig.dev.json
+C:\MyStuff\Practice Projects\dotnetcore\AsyncBasics\MsdnAsyncBasics\bin\Debug\netcoreapp3.1\MsdnAsyncBasics.dll
+C:\MyStuff\Practice Projects\dotnetcore\AsyncBasics\MsdnAsyncBasics\bin\Debug\netcoreapp3.1\MsdnAsyncBasics.pdb
+C:\MyStuff\Practice Projects\dotnetcore\AsyncBasics\MsdnAsyncBasics\obj\Debug\netcoreapp3.1\MsdnAsyncBasics.csprojAssemblyReference.cache
+C:\MyStuff\Practice Projects\dotnetcore\AsyncBasics\MsdnAsyncBasics\obj\Debug\netcoreapp3.1\MsdnAsyncBasics.AssemblyInfoInputs.cache
+C:\MyStuff\Practice Projects\dotnetcore\AsyncBasics\MsdnAsyncBasics\obj\Debug\netcoreapp3.1\MsdnAsyncBasics.AssemblyInfo.cs
+C:\MyStuff\Practice Projects\dotnetcore\AsyncBasics\MsdnAsyncBasics\obj\Debug\netcoreapp3.1\MsdnAsyncBasics.csproj.CoreCompileInputs.cache
+C:\MyStuff\Practice Projects\dotnetcore\AsyncBasics\MsdnAsyncBasics\obj\Debug\netcoreapp3.1\MsdnAsyncBasics.dll
+C:\MyStuff\Practice Projects\dotnetcore\AsyncBasics\MsdnAsyncBasics\obj\Debug\netcoreapp3.1\MsdnAsyncBasics.pdb
+C:\MyStuff\Practice Projects\dotnetcore\AsyncBasics\MsdnAsyncBasics\obj\Debug\netcoreapp3.1\MsdnAsyncBasics.genruntimeconfig.cache
