@@ -1,0 +1,9 @@
+C:\MyStuff\Practice Projects\dotnetcore\RedisDemo\FlightFinder\FlightFinder.Shared\bin\Debug\netstandard2.0\FlightFinder.Shared.deps.json
+C:\MyStuff\Practice Projects\dotnetcore\RedisDemo\FlightFinder\FlightFinder.Shared\bin\Debug\netstandard2.0\FlightFinder.Shared.dll
+C:\MyStuff\Practice Projects\dotnetcore\RedisDemo\FlightFinder\FlightFinder.Shared\bin\Debug\netstandard2.0\FlightFinder.Shared.pdb
+C:\MyStuff\Practice Projects\dotnetcore\RedisDemo\FlightFinder\FlightFinder.Shared\obj\Debug\netstandard2.0\FlightFinder.Shared.csprojAssemblyReference.cache
+C:\MyStuff\Practice Projects\dotnetcore\RedisDemo\FlightFinder\FlightFinder.Shared\obj\Debug\netstandard2.0\FlightFinder.Shared.AssemblyInfoInputs.cache
+C:\MyStuff\Practice Projects\dotnetcore\RedisDemo\FlightFinder\FlightFinder.Shared\obj\Debug\netstandard2.0\FlightFinder.Shared.AssemblyInfo.cs
+C:\MyStuff\Practice Projects\dotnetcore\RedisDemo\FlightFinder\FlightFinder.Shared\obj\Debug\netstandard2.0\FlightFinder.Shared.csproj.CoreCompileInputs.cache
+C:\MyStuff\Practice Projects\dotnetcore\RedisDemo\FlightFinder\FlightFinder.Shared\obj\Debug\netstandard2.0\FlightFinder.Shared.dll
+C:\MyStuff\Practice Projects\dotnetcore\RedisDemo\FlightFinder\FlightFinder.Shared\obj\Debug\netstandard2.0\FlightFinder.Shared.pdb
