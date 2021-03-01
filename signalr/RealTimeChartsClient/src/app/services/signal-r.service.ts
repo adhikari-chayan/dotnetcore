@@ -30,9 +30,22 @@ export class SignalRService {
     });
   }
 
-  public broadcastChartData=()=>{
-    this.hubConnection.invoke('broadcastchartdata',this.data)
-                      .catch(err => console.error(err));
+  // public broadcastChartData=()=>{
+  //   this.hubConnection.invoke('broadcastchartdata',this.data)
+  //                     .catch(err => console.error(err));
+  // }
+
+  public broadcastChartData = () => {
+    const data = this.data.map(m => {
+      const temp = {
+        data: m.data,
+        label: m.label
+      }
+      return temp;
+    });
+    
+    this.hubConnection.invoke('broadcastchartdata', data)
+    .catch(err => console.error(err));
   }
 
   public addBroadcastChartDataListener=()=>{
