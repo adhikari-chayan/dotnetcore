@@ -1,0 +1,15 @@
+C:\MyStuff\Practice Projects\dotnetcore\signalr\RealTimeAppDemos\WebSockets\bin\Debug\netcoreapp2.1\WiredBrain.deps.json
+C:\MyStuff\Practice Projects\dotnetcore\signalr\RealTimeAppDemos\WebSockets\bin\Debug\netcoreapp2.1\WiredBrain.runtimeconfig.json
+C:\MyStuff\Practice Projects\dotnetcore\signalr\RealTimeAppDemos\WebSockets\bin\Debug\netcoreapp2.1\WiredBrain.runtimeconfig.dev.json
+C:\MyStuff\Practice Projects\dotnetcore\signalr\RealTimeAppDemos\WebSockets\bin\Debug\netcoreapp2.1\WiredBrain.dll
+C:\MyStuff\Practice Projects\dotnetcore\signalr\RealTimeAppDemos\WebSockets\bin\Debug\netcoreapp2.1\WiredBrain.pdb
+C:\MyStuff\Practice Projects\dotnetcore\signalr\RealTimeAppDemos\WebSockets\obj\Debug\netcoreapp2.1\WiredBrain.csprojAssemblyReference.cache
+C:\MyStuff\Practice Projects\dotnetcore\signalr\RealTimeAppDemos\WebSockets\obj\Debug\netcoreapp2.1\WiredBrain.AssemblyInfoInputs.cache
+C:\MyStuff\Practice Projects\dotnetcore\signalr\RealTimeAppDemos\WebSockets\obj\Debug\netcoreapp2.1\WiredBrain.AssemblyInfo.cs
+C:\MyStuff\Practice Projects\dotnetcore\signalr\RealTimeAppDemos\WebSockets\obj\Debug\netcoreapp2.1\WiredBrain.csproj.CoreCompileInputs.cache
+C:\MyStuff\Practice Projects\dotnetcore\signalr\RealTimeAppDemos\WebSockets\obj\Debug\netcoreapp2.1\WiredBrain.RazorAssemblyInfo.cache
+C:\MyStuff\Practice Projects\dotnetcore\signalr\RealTimeAppDemos\WebSockets\obj\Debug\netcoreapp2.1\WiredBrain.RazorAssemblyInfo.cs
+C:\MyStuff\Practice Projects\dotnetcore\signalr\RealTimeAppDemos\WebSockets\obj\Debug\netcoreapp2.1\WiredBrain.RazorTargetAssemblyInfo.cache
+C:\MyStuff\Practice Projects\dotnetcore\signalr\RealTimeAppDemos\WebSockets\obj\Debug\netcoreapp2.1\WiredBrain.dll
+C:\MyStuff\Practice Projects\dotnetcore\signalr\RealTimeAppDemos\WebSockets\obj\Debug\netcoreapp2.1\WiredBrain.pdb
+C:\MyStuff\Practice Projects\dotnetcore\signalr\RealTimeAppDemos\WebSockets\obj\Debug\netcoreapp2.1\WiredBrain.genruntimeconfig.cache
