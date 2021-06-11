@@ -1,0 +1,17 @@
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\CodeMazeDemo\CompanyEmployees\Repository\bin\Debug\net5.0\Repository.deps.json
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\CodeMazeDemo\CompanyEmployees\Repository\bin\Debug\net5.0\Repository.dll
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\CodeMazeDemo\CompanyEmployees\Repository\bin\Debug\net5.0\ref\Repository.dll
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\CodeMazeDemo\CompanyEmployees\Repository\bin\Debug\net5.0\Repository.pdb
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\CodeMazeDemo\CompanyEmployees\Repository\bin\Debug\net5.0\Contracts.dll
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\CodeMazeDemo\CompanyEmployees\Repository\bin\Debug\net5.0\Entities.dll
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\CodeMazeDemo\CompanyEmployees\Repository\bin\Debug\net5.0\Contracts.pdb
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\CodeMazeDemo\CompanyEmployees\Repository\bin\Debug\net5.0\Entities.pdb
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\CodeMazeDemo\CompanyEmployees\Repository\obj\Debug\net5.0\Repository.csprojAssemblyReference.cache
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\CodeMazeDemo\CompanyEmployees\Repository\obj\Debug\net5.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\CodeMazeDemo\CompanyEmployees\Repository\obj\Debug\net5.0\Repository.AssemblyInfoInputs.cache
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\CodeMazeDemo\CompanyEmployees\Repository\obj\Debug\net5.0\Repository.AssemblyInfo.cs
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\CodeMazeDemo\CompanyEmployees\Repository\obj\Debug\net5.0\Repository.csproj.CoreCompileInputs.cache
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\CodeMazeDemo\CompanyEmployees\Repository\obj\Debug\net5.0\Repository.csproj.CopyComplete
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\CodeMazeDemo\CompanyEmployees\Repository\obj\Debug\net5.0\Repository.dll
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\CodeMazeDemo\CompanyEmployees\Repository\obj\Debug\net5.0\ref\Repository.dll
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\CodeMazeDemo\CompanyEmployees\Repository\obj\Debug\net5.0\Repository.pdb

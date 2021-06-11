@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "dgSpecHash": "aBZez0DYGiQYqqymspo2oKr1GEgpIr/SFPzSi79+FeLzJP+besyOMY5VDaqUYFagpt/yCYicB4VLOGUDqcIwUg==",
+  "success": true,
+  "projectFilePath": "C:\\MyStuff\\Practice Projects\\dotnetcore\\AsyncProgramming\\CodeMazeDemo\\CompanyEmployees\\Contracts\\Contracts.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chayan.adhikari\\.nuget\\packages\\microsoft.codeanalysis.fxcopanalyzers\\3.3.2\\microsoft.codeanalysis.fxcopanalyzers.3.3.2.nupkg.sha512",
+    "C:\\Users\\chayan.adhikari\\.nuget\\packages\\microsoft.codeanalysis.versioncheckanalyzer\\3.3.2\\microsoft.codeanalysis.versioncheckanalyzer.3.3.2.nupkg.sha512",
+    "C:\\Users\\chayan.adhikari\\.nuget\\packages\\microsoft.codequality.analyzers\\3.3.2\\microsoft.codequality.analyzers.3.3.2.nupkg.sha512",
+    "C:\\Users\\chayan.adhikari\\.nuget\\packages\\microsoft.entityframeworkcore\\5.0.4\\microsoft.entityframeworkcore.5.0.4.nupkg.sha512",
+    "C:\\Users\\chayan.adhikari\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\5.0.4\\microsoft.entityframeworkcore.abstractions.5.0.4.nupkg.sha512",
+    "C:\\Users\\chayan.adhikari\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\5.0.4\\microsoft.entityframeworkcore.analyzers.5.0.4.nupkg.sha512",
+    "C:\\Users\\chayan.adhikari\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\5.0.0\\microsoft.extensions.caching.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\chayan.adhikari\\.nuget\\packages\\microsoft.extensions.caching.memory\\5.0.0\\microsoft.extensions.caching.memory.5.0.0.nupkg.sha512",
+    "C:\\Users\\chayan.adhikari\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.1\\microsoft.extensions.dependencyinjection.5.0.1.nupkg.sha512",
+    "C:\\Users\\chayan.adhikari\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\chayan.adhikari\\.nuget\\packages\\microsoft.extensions.logging\\5.0.0\\microsoft.extensions.logging.5.0.0.nupkg.sha512",
+    "C:\\Users\\chayan.adhikari\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\chayan.adhikari\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",
+    "C:\\Users\\chayan.adhikari\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "C:\\Users\\chayan.adhikari\\.nuget\\packages\\microsoft.netcore.analyzers\\3.3.2\\microsoft.netcore.analyzers.3.3.2.nupkg.sha512",
+    "C:\\Users\\chayan.adhikari\\.nuget\\packages\\microsoft.netframework.analyzers\\3.3.2\\microsoft.netframework.analyzers.3.3.2.nupkg.sha512",
+    "C:\\Users\\chayan.adhikari\\.nuget\\packages\\system.collections.immutable\\5.0.0\\system.collections.immutable.5.0.0.nupkg.sha512",
+    "C:\\Users\\chayan.adhikari\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
+    "C:\\Users\\chayan.adhikari\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.1\\system.diagnostics.diagnosticsource.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\CodeMazeDemo\CompanyEmployees\Contracts\bin\Debug\net5.0\Contracts.deps.json
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\CodeMazeDemo\CompanyEmployees\Contracts\bin\Debug\net5.0\Contracts.dll
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\CodeMazeDemo\CompanyEmployees\Contracts\bin\Debug\net5.0\ref\Contracts.dll
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\CodeMazeDemo\CompanyEmployees\Contracts\bin\Debug\net5.0\Contracts.pdb
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\CodeMazeDemo\CompanyEmployees\Contracts\bin\Debug\net5.0\Entities.dll
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\CodeMazeDemo\CompanyEmployees\Contracts\bin\Debug\net5.0\Entities.pdb
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\CodeMazeDemo\CompanyEmployees\Contracts\obj\Debug\net5.0\Contracts.csprojAssemblyReference.cache
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\CodeMazeDemo\CompanyEmployees\Contracts\obj\Debug\net5.0\Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\CodeMazeDemo\CompanyEmployees\Contracts\obj\Debug\net5.0\Contracts.AssemblyInfoInputs.cache
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\CodeMazeDemo\CompanyEmployees\Contracts\obj\Debug\net5.0\Contracts.AssemblyInfo.cs
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\CodeMazeDemo\CompanyEmployees\Contracts\obj\Debug\net5.0\Contracts.csproj.CoreCompileInputs.cache
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\CodeMazeDemo\CompanyEmployees\Contracts\obj\Debug\net5.0\Contracts.csproj.CopyComplete
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\CodeMazeDemo\CompanyEmployees\Contracts\obj\Debug\net5.0\Contracts.dll
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\CodeMazeDemo\CompanyEmployees\Contracts\obj\Debug\net5.0\ref\Contracts.dll
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\CodeMazeDemo\CompanyEmployees\Contracts\obj\Debug\net5.0\Contracts.pdb

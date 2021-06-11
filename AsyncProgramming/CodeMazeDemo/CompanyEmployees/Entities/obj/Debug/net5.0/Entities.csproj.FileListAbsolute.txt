@@ -1,0 +1,12 @@
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\CodeMazeDemo\CompanyEmployees\Entities\bin\Debug\net5.0\Entities.deps.json
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\CodeMazeDemo\CompanyEmployees\Entities\bin\Debug\net5.0\Entities.dll
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\CodeMazeDemo\CompanyEmployees\Entities\bin\Debug\net5.0\ref\Entities.dll
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\CodeMazeDemo\CompanyEmployees\Entities\bin\Debug\net5.0\Entities.pdb
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\CodeMazeDemo\CompanyEmployees\Entities\obj\Debug\net5.0\Entities.csprojAssemblyReference.cache
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\CodeMazeDemo\CompanyEmployees\Entities\obj\Debug\net5.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\CodeMazeDemo\CompanyEmployees\Entities\obj\Debug\net5.0\Entities.AssemblyInfoInputs.cache
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\CodeMazeDemo\CompanyEmployees\Entities\obj\Debug\net5.0\Entities.AssemblyInfo.cs
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\CodeMazeDemo\CompanyEmployees\Entities\obj\Debug\net5.0\Entities.csproj.CoreCompileInputs.cache
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\CodeMazeDemo\CompanyEmployees\Entities\obj\Debug\net5.0\Entities.dll
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\CodeMazeDemo\CompanyEmployees\Entities\obj\Debug\net5.0\ref\Entities.dll
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\CodeMazeDemo\CompanyEmployees\Entities\obj\Debug\net5.0\Entities.pdb

@@ -1,0 +1,17 @@
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\CodeMazeDemo\CompanyEmployees\LoggerService\bin\Debug\net5.0\LoggerService.deps.json
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\CodeMazeDemo\CompanyEmployees\LoggerService\bin\Debug\net5.0\LoggerService.dll
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\CodeMazeDemo\CompanyEmployees\LoggerService\bin\Debug\net5.0\ref\LoggerService.dll
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\CodeMazeDemo\CompanyEmployees\LoggerService\bin\Debug\net5.0\LoggerService.pdb
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\CodeMazeDemo\CompanyEmployees\LoggerService\bin\Debug\net5.0\Contracts.dll
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\CodeMazeDemo\CompanyEmployees\LoggerService\bin\Debug\net5.0\Entities.dll
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\CodeMazeDemo\CompanyEmployees\LoggerService\bin\Debug\net5.0\Contracts.pdb
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\CodeMazeDemo\CompanyEmployees\LoggerService\bin\Debug\net5.0\Entities.pdb
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\CodeMazeDemo\CompanyEmployees\LoggerService\obj\Debug\net5.0\LoggerService.csprojAssemblyReference.cache
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\CodeMazeDemo\CompanyEmployees\LoggerService\obj\Debug\net5.0\LoggerService.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\CodeMazeDemo\CompanyEmployees\LoggerService\obj\Debug\net5.0\LoggerService.AssemblyInfoInputs.cache
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\CodeMazeDemo\CompanyEmployees\LoggerService\obj\Debug\net5.0\LoggerService.AssemblyInfo.cs
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\CodeMazeDemo\CompanyEmployees\LoggerService\obj\Debug\net5.0\LoggerService.csproj.CoreCompileInputs.cache
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\CodeMazeDemo\CompanyEmployees\LoggerService\obj\Debug\net5.0\LoggerService.csproj.CopyComplete
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\CodeMazeDemo\CompanyEmployees\LoggerService\obj\Debug\net5.0\LoggerService.dll
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\CodeMazeDemo\CompanyEmployees\LoggerService\obj\Debug\net5.0\ref\LoggerService.dll
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\CodeMazeDemo\CompanyEmployees\LoggerService\obj\Debug\net5.0\LoggerService.pdb

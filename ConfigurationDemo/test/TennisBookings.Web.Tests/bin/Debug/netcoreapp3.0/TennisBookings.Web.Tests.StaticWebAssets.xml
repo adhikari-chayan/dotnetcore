@@ -1,0 +1,4 @@
+﻿<StaticWebAssets Version="1.0">
+  <ContentRoot BasePath="/Identity" Path="C:\Users\chayan.adhikari\.nuget\packages\microsoft.aspnetcore.identity.ui\3.0.0\staticwebassets\V4\" />
+  <ContentRoot BasePath="_content/TennisBookings.Web" Path="C:\MyStuff\Practice Projects\dotnetcore\ConfigurationDemo\src\TennisBookings.Web\wwwroot\" />
+</StaticWebAssets>

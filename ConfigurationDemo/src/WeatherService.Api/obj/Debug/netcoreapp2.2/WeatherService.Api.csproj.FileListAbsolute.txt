@@ -1,0 +1,17 @@
+C:\MyStuff\Practice Projects\dotnetcore\ConfigurationDemo\src\WeatherService.Api\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\MyStuff\Practice Projects\dotnetcore\ConfigurationDemo\src\WeatherService.Api\bin\Debug\netcoreapp2.2\appsettings.json
+C:\MyStuff\Practice Projects\dotnetcore\ConfigurationDemo\src\WeatherService.Api\bin\Debug\netcoreapp2.2\WeatherService.Api.deps.json
+C:\MyStuff\Practice Projects\dotnetcore\ConfigurationDemo\src\WeatherService.Api\bin\Debug\netcoreapp2.2\WeatherService.Api.runtimeconfig.json
+C:\MyStuff\Practice Projects\dotnetcore\ConfigurationDemo\src\WeatherService.Api\bin\Debug\netcoreapp2.2\WeatherService.Api.runtimeconfig.dev.json
+C:\MyStuff\Practice Projects\dotnetcore\ConfigurationDemo\src\WeatherService.Api\bin\Debug\netcoreapp2.2\WeatherService.Api.dll
+C:\MyStuff\Practice Projects\dotnetcore\ConfigurationDemo\src\WeatherService.Api\bin\Debug\netcoreapp2.2\WeatherService.Api.pdb
+C:\MyStuff\Practice Projects\dotnetcore\ConfigurationDemo\src\WeatherService.Api\obj\Debug\netcoreapp2.2\WeatherService.Api.AssemblyInfoInputs.cache
+C:\MyStuff\Practice Projects\dotnetcore\ConfigurationDemo\src\WeatherService.Api\obj\Debug\netcoreapp2.2\WeatherService.Api.AssemblyInfo.cs
+C:\MyStuff\Practice Projects\dotnetcore\ConfigurationDemo\src\WeatherService.Api\obj\Debug\netcoreapp2.2\WeatherService.Api.csproj.CoreCompileInputs.cache
+C:\MyStuff\Practice Projects\dotnetcore\ConfigurationDemo\src\WeatherService.Api\obj\Debug\netcoreapp2.2\WeatherService.Api.RazorAssemblyInfo.cache
+C:\MyStuff\Practice Projects\dotnetcore\ConfigurationDemo\src\WeatherService.Api\obj\Debug\netcoreapp2.2\WeatherService.Api.RazorAssemblyInfo.cs
+C:\MyStuff\Practice Projects\dotnetcore\ConfigurationDemo\src\WeatherService.Api\obj\Debug\netcoreapp2.2\WeatherService.Api.RazorTargetAssemblyInfo.cache
+C:\MyStuff\Practice Projects\dotnetcore\ConfigurationDemo\src\WeatherService.Api\obj\Debug\netcoreapp2.2\WeatherService.Api.dll
+C:\MyStuff\Practice Projects\dotnetcore\ConfigurationDemo\src\WeatherService.Api\obj\Debug\netcoreapp2.2\WeatherService.Api.pdb
+C:\MyStuff\Practice Projects\dotnetcore\ConfigurationDemo\src\WeatherService.Api\obj\Debug\netcoreapp2.2\WeatherService.Api.genruntimeconfig.cache
+C:\MyStuff\Practice Projects\dotnetcore\ConfigurationDemo\src\WeatherService.Api\obj\Debug\netcoreapp2.2\WeatherService.Api.csprojAssemblyReference.cache

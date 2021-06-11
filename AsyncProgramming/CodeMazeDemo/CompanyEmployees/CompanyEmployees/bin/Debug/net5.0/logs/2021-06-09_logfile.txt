@@ -1,0 +1,1 @@
+2021-06-09 02:15:08.9135 ERROR Exception occurred with a message: Custom exception for testing purposes

@@ -1,0 +1,17 @@
+C:\MyStuff\Practice Projects\dotnetcore\ConfigurationDemo\src\BrandedProducts.Api\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\MyStuff\Practice Projects\dotnetcore\ConfigurationDemo\src\BrandedProducts.Api\bin\Debug\netcoreapp2.2\appsettings.json
+C:\MyStuff\Practice Projects\dotnetcore\ConfigurationDemo\src\BrandedProducts.Api\bin\Debug\netcoreapp2.2\BrandedProducts.Api.deps.json
+C:\MyStuff\Practice Projects\dotnetcore\ConfigurationDemo\src\BrandedProducts.Api\bin\Debug\netcoreapp2.2\BrandedProducts.Api.runtimeconfig.json
+C:\MyStuff\Practice Projects\dotnetcore\ConfigurationDemo\src\BrandedProducts.Api\bin\Debug\netcoreapp2.2\BrandedProducts.Api.runtimeconfig.dev.json
+C:\MyStuff\Practice Projects\dotnetcore\ConfigurationDemo\src\BrandedProducts.Api\bin\Debug\netcoreapp2.2\BrandedProducts.Api.dll
+C:\MyStuff\Practice Projects\dotnetcore\ConfigurationDemo\src\BrandedProducts.Api\bin\Debug\netcoreapp2.2\BrandedProducts.Api.pdb
+C:\MyStuff\Practice Projects\dotnetcore\ConfigurationDemo\src\BrandedProducts.Api\obj\Debug\netcoreapp2.2\BrandedProducts.Api.AssemblyInfoInputs.cache
+C:\MyStuff\Practice Projects\dotnetcore\ConfigurationDemo\src\BrandedProducts.Api\obj\Debug\netcoreapp2.2\BrandedProducts.Api.AssemblyInfo.cs
+C:\MyStuff\Practice Projects\dotnetcore\ConfigurationDemo\src\BrandedProducts.Api\obj\Debug\netcoreapp2.2\BrandedProducts.Api.csproj.CoreCompileInputs.cache
+C:\MyStuff\Practice Projects\dotnetcore\ConfigurationDemo\src\BrandedProducts.Api\obj\Debug\netcoreapp2.2\BrandedProducts.Api.RazorAssemblyInfo.cache
+C:\MyStuff\Practice Projects\dotnetcore\ConfigurationDemo\src\BrandedProducts.Api\obj\Debug\netcoreapp2.2\BrandedProducts.Api.RazorAssemblyInfo.cs
+C:\MyStuff\Practice Projects\dotnetcore\ConfigurationDemo\src\BrandedProducts.Api\obj\Debug\netcoreapp2.2\BrandedProducts.Api.RazorTargetAssemblyInfo.cache
+C:\MyStuff\Practice Projects\dotnetcore\ConfigurationDemo\src\BrandedProducts.Api\obj\Debug\netcoreapp2.2\BrandedProducts.Api.dll
+C:\MyStuff\Practice Projects\dotnetcore\ConfigurationDemo\src\BrandedProducts.Api\obj\Debug\netcoreapp2.2\BrandedProducts.Api.pdb
+C:\MyStuff\Practice Projects\dotnetcore\ConfigurationDemo\src\BrandedProducts.Api\obj\Debug\netcoreapp2.2\BrandedProducts.Api.genruntimeconfig.cache
+C:\MyStuff\Practice Projects\dotnetcore\ConfigurationDemo\src\BrandedProducts.Api\obj\Debug\netcoreapp2.2\BrandedProducts.Api.csprojAssemblyReference.cache
