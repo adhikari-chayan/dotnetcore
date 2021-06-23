@@ -1,0 +1,17 @@
+C:\MyStuff\Practice Projects\dotnetcore\DISample\LifetimeScopeDemo\src\LifetimeDemonstration.Web\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\MyStuff\Practice Projects\dotnetcore\DISample\LifetimeScopeDemo\src\LifetimeDemonstration.Web\bin\Debug\netcoreapp2.1\appsettings.json
+C:\MyStuff\Practice Projects\dotnetcore\DISample\LifetimeScopeDemo\src\LifetimeDemonstration.Web\bin\Debug\netcoreapp2.1\LifetimeDemonstration.Web.deps.json
+C:\MyStuff\Practice Projects\dotnetcore\DISample\LifetimeScopeDemo\src\LifetimeDemonstration.Web\bin\Debug\netcoreapp2.1\LifetimeDemonstration.Web.runtimeconfig.json
+C:\MyStuff\Practice Projects\dotnetcore\DISample\LifetimeScopeDemo\src\LifetimeDemonstration.Web\bin\Debug\netcoreapp2.1\LifetimeDemonstration.Web.runtimeconfig.dev.json
+C:\MyStuff\Practice Projects\dotnetcore\DISample\LifetimeScopeDemo\src\LifetimeDemonstration.Web\bin\Debug\netcoreapp2.1\LifetimeDemonstration.Web.dll
+C:\MyStuff\Practice Projects\dotnetcore\DISample\LifetimeScopeDemo\src\LifetimeDemonstration.Web\bin\Debug\netcoreapp2.1\LifetimeDemonstration.Web.pdb
+C:\MyStuff\Practice Projects\dotnetcore\DISample\LifetimeScopeDemo\src\LifetimeDemonstration.Web\obj\Debug\netcoreapp2.1\LifetimeDemonstration.Web.csprojAssemblyReference.cache
+C:\MyStuff\Practice Projects\dotnetcore\DISample\LifetimeScopeDemo\src\LifetimeDemonstration.Web\obj\Debug\netcoreapp2.1\LifetimeDemonstration.Web.AssemblyInfoInputs.cache
+C:\MyStuff\Practice Projects\dotnetcore\DISample\LifetimeScopeDemo\src\LifetimeDemonstration.Web\obj\Debug\netcoreapp2.1\LifetimeDemonstration.Web.AssemblyInfo.cs
+C:\MyStuff\Practice Projects\dotnetcore\DISample\LifetimeScopeDemo\src\LifetimeDemonstration.Web\obj\Debug\netcoreapp2.1\LifetimeDemonstration.Web.csproj.CoreCompileInputs.cache
+C:\MyStuff\Practice Projects\dotnetcore\DISample\LifetimeScopeDemo\src\LifetimeDemonstration.Web\obj\Debug\netcoreapp2.1\LifetimeDemonstration.Web.RazorAssemblyInfo.cache
+C:\MyStuff\Practice Projects\dotnetcore\DISample\LifetimeScopeDemo\src\LifetimeDemonstration.Web\obj\Debug\netcoreapp2.1\LifetimeDemonstration.Web.RazorAssemblyInfo.cs
+C:\MyStuff\Practice Projects\dotnetcore\DISample\LifetimeScopeDemo\src\LifetimeDemonstration.Web\obj\Debug\netcoreapp2.1\LifetimeDemonstration.Web.RazorTargetAssemblyInfo.cache
+C:\MyStuff\Practice Projects\dotnetcore\DISample\LifetimeScopeDemo\src\LifetimeDemonstration.Web\obj\Debug\netcoreapp2.1\LifetimeDemonstration.Web.dll
+C:\MyStuff\Practice Projects\dotnetcore\DISample\LifetimeScopeDemo\src\LifetimeDemonstration.Web\obj\Debug\netcoreapp2.1\LifetimeDemonstration.Web.pdb
+C:\MyStuff\Practice Projects\dotnetcore\DISample\LifetimeScopeDemo\src\LifetimeDemonstration.Web\obj\Debug\netcoreapp2.1\LifetimeDemonstration.Web.genruntimeconfig.cache
