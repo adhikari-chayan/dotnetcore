@@ -1,0 +1,154 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\MyStuff\\Practice Projects\\dotnetcore\\CQRSDemo\\MediatRResponseCaching\\MediatRResponseCaching.Infrastructure\\MediatRResponseCaching.Infrastructure.csproj": {}
+  },
+  "projects": {
+    "C:\\MyStuff\\Practice Projects\\dotnetcore\\CQRSDemo\\MediatRResponseCaching\\MediatRResponseCaching.Core\\MediatRResponseCaching.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\MyStuff\\Practice Projects\\dotnetcore\\CQRSDemo\\MediatRResponseCaching\\MediatRResponseCaching.Core\\MediatRResponseCaching.Core.csproj",
+        "projectName": "MediatRResponseCaching.Core",
+        "projectPath": "C:\\MyStuff\\Practice Projects\\dotnetcore\\CQRSDemo\\MediatRResponseCaching\\MediatRResponseCaching.Core\\MediatRResponseCaching.Core.csproj",
+        "packagesPath": "C:\\Users\\chayan.adhikari\\.nuget\\packages\\",
+        "outputPath": "C:\\MyStuff\\Practice Projects\\dotnetcore\\CQRSDemo\\MediatRResponseCaching\\MediatRResponseCaching.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\chayan.adhikari\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.Extensions.Caching.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\MyStuff\\Practice Projects\\dotnetcore\\CQRSDemo\\MediatRResponseCaching\\MediatRResponseCaching.Infrastructure\\MediatRResponseCaching.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\MyStuff\\Practice Projects\\dotnetcore\\CQRSDemo\\MediatRResponseCaching\\MediatRResponseCaching.Infrastructure\\MediatRResponseCaching.Infrastructure.csproj",
+        "projectName": "MediatRResponseCaching.Infrastructure",
+        "projectPath": "C:\\MyStuff\\Practice Projects\\dotnetcore\\CQRSDemo\\MediatRResponseCaching\\MediatRResponseCaching.Infrastructure\\MediatRResponseCaching.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\chayan.adhikari\\.nuget\\packages\\",
+        "outputPath": "C:\\MyStuff\\Practice Projects\\dotnetcore\\CQRSDemo\\MediatRResponseCaching\\MediatRResponseCaching.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\chayan.adhikari\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\MyStuff\\Practice Projects\\dotnetcore\\CQRSDemo\\MediatRResponseCaching\\MediatRResponseCaching.Core\\MediatRResponseCaching.Core.csproj": {
+                "projectPath": "C:\\MyStuff\\Practice Projects\\dotnetcore\\CQRSDemo\\MediatRResponseCaching\\MediatRResponseCaching.Core\\MediatRResponseCaching.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

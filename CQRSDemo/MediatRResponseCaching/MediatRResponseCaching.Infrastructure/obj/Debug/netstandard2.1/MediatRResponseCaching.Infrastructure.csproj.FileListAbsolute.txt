@@ -1,0 +1,12 @@
+C:\MyStuff\Practice Projects\dotnetcore\CQRSDemo\MediatRResponseCaching\MediatRResponseCaching.Infrastructure\bin\Debug\netstandard2.1\MediatRResponseCaching.Infrastructure.deps.json
+C:\MyStuff\Practice Projects\dotnetcore\CQRSDemo\MediatRResponseCaching\MediatRResponseCaching.Infrastructure\bin\Debug\netstandard2.1\MediatRResponseCaching.Infrastructure.dll
+C:\MyStuff\Practice Projects\dotnetcore\CQRSDemo\MediatRResponseCaching\MediatRResponseCaching.Infrastructure\bin\Debug\netstandard2.1\MediatRResponseCaching.Infrastructure.pdb
+C:\MyStuff\Practice Projects\dotnetcore\CQRSDemo\MediatRResponseCaching\MediatRResponseCaching.Infrastructure\bin\Debug\netstandard2.1\MediatRResponseCaching.Core.dll
+C:\MyStuff\Practice Projects\dotnetcore\CQRSDemo\MediatRResponseCaching\MediatRResponseCaching.Infrastructure\bin\Debug\netstandard2.1\MediatRResponseCaching.Core.pdb
+C:\MyStuff\Practice Projects\dotnetcore\CQRSDemo\MediatRResponseCaching\MediatRResponseCaching.Infrastructure\obj\Debug\netstandard2.1\MediatRResponseCaching.Infrastructure.csprojAssemblyReference.cache
+C:\MyStuff\Practice Projects\dotnetcore\CQRSDemo\MediatRResponseCaching\MediatRResponseCaching.Infrastructure\obj\Debug\netstandard2.1\MediatRResponseCaching.Infrastructure.AssemblyInfoInputs.cache
+C:\MyStuff\Practice Projects\dotnetcore\CQRSDemo\MediatRResponseCaching\MediatRResponseCaching.Infrastructure\obj\Debug\netstandard2.1\MediatRResponseCaching.Infrastructure.AssemblyInfo.cs
+C:\MyStuff\Practice Projects\dotnetcore\CQRSDemo\MediatRResponseCaching\MediatRResponseCaching.Infrastructure\obj\Debug\netstandard2.1\MediatRResponseCaching.Infrastructure.csproj.CoreCompileInputs.cache
+C:\MyStuff\Practice Projects\dotnetcore\CQRSDemo\MediatRResponseCaching\MediatRResponseCaching.Infrastructure\obj\Debug\netstandard2.1\MediatRResponseCaching.Infrastructure.csproj.CopyComplete
+C:\MyStuff\Practice Projects\dotnetcore\CQRSDemo\MediatRResponseCaching\MediatRResponseCaching.Infrastructure\obj\Debug\netstandard2.1\MediatRResponseCaching.Infrastructure.dll
+C:\MyStuff\Practice Projects\dotnetcore\CQRSDemo\MediatRResponseCaching\MediatRResponseCaching.Infrastructure\obj\Debug\netstandard2.1\MediatRResponseCaching.Infrastructure.pdb

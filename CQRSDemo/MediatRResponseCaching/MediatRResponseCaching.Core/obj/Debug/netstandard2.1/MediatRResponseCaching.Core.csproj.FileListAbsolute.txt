@@ -1,0 +1,9 @@
+C:\MyStuff\Practice Projects\dotnetcore\CQRSDemo\MediatRResponseCaching\MediatRResponseCaching.Core\bin\Debug\netstandard2.1\MediatRResponseCaching.Core.deps.json
+C:\MyStuff\Practice Projects\dotnetcore\CQRSDemo\MediatRResponseCaching\MediatRResponseCaching.Core\bin\Debug\netstandard2.1\MediatRResponseCaching.Core.dll
+C:\MyStuff\Practice Projects\dotnetcore\CQRSDemo\MediatRResponseCaching\MediatRResponseCaching.Core\bin\Debug\netstandard2.1\MediatRResponseCaching.Core.pdb
+C:\MyStuff\Practice Projects\dotnetcore\CQRSDemo\MediatRResponseCaching\MediatRResponseCaching.Core\obj\Debug\netstandard2.1\MediatRResponseCaching.Core.csprojAssemblyReference.cache
+C:\MyStuff\Practice Projects\dotnetcore\CQRSDemo\MediatRResponseCaching\MediatRResponseCaching.Core\obj\Debug\netstandard2.1\MediatRResponseCaching.Core.AssemblyInfoInputs.cache
+C:\MyStuff\Practice Projects\dotnetcore\CQRSDemo\MediatRResponseCaching\MediatRResponseCaching.Core\obj\Debug\netstandard2.1\MediatRResponseCaching.Core.AssemblyInfo.cs
+C:\MyStuff\Practice Projects\dotnetcore\CQRSDemo\MediatRResponseCaching\MediatRResponseCaching.Core\obj\Debug\netstandard2.1\MediatRResponseCaching.Core.csproj.CoreCompileInputs.cache
+C:\MyStuff\Practice Projects\dotnetcore\CQRSDemo\MediatRResponseCaching\MediatRResponseCaching.Core\obj\Debug\netstandard2.1\MediatRResponseCaching.Core.dll
+C:\MyStuff\Practice Projects\dotnetcore\CQRSDemo\MediatRResponseCaching\MediatRResponseCaching.Core\obj\Debug\netstandard2.1\MediatRResponseCaching.Core.pdb
