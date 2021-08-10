@@ -1,0 +1,107 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{6D0DC925-D864-4AFA-BC71-A3837503CBAB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{A9A0E106-5D00-441D-87BF-26A8BD84985D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "API", "API", "{37A6BB0A-03FC-422A-9FB6-51A20B0BA90B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{6F0C9604-76F8-4867-B136-E77199A19C37}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{8FDC29FA-3BF3-4F05-8125-B4027A992E2A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UI", "UI", "{765266CE-36FD-4952-B985-1DD0DA0BBDBD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GloboTicket.TicketManagement.Domain", "GloboTicket.TicketManagement.Domain\GloboTicket.TicketManagement.Domain.csproj", "{873715A5-828D-4889-93FB-F739B1202468}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GloboTicket.TicketManagement.Application", "GloboTicket.TicketManagement.Application\GloboTicket.TicketManagement.Application.csproj", "{0E1CC2C9-DAC9-434B-B41A-9C79E636AC10}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GloboTicket.TicketManagement.Persistence", "GloboTicket.TicketManagement.Persistence\GloboTicket.TicketManagement.Persistence.csproj", "{7D2E44D7-340F-4F66-AA66-2F3CB0E69661}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GloboTicket.TicketManagement.Infrastructure", "GloboTicket.TicketManagement.Infrastructure\GloboTicket.TicketManagement.Infrastructure.csproj", "{A8E679D1-1FED-4AED-8344-59DCC7612A49}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GloboTicket.TicketManagement.Api", "GloboTicket.TicketManagement.Api\GloboTicket.TicketManagement.Api.csproj", "{DB9183B6-4F92-4EC9-8DC3-408B494BC584}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GloboTicket.TicketManagement.Application.UnitTests", "GloboTicket.TicketManagement.Application.UnitTests\GloboTicket.TicketManagement.Application.UnitTests.csproj", "{295B9D1D-BA90-4DC2-8A70-8AC60C50D68F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GloboTicket.TicketMgmt.Persistence.IntegrationTests", "GloboTicket.TicketManagement.Persistence.IntegrationTests\GloboTicket.TicketMgmt.Persistence.IntegrationTests.csproj", "{37A6EFE3-1BDC-46D8-A436-4F7B9115DF4B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GloboTicket.TicketManagement.Api.IntegrationTests", "GloboTicket.TicketManagement.Api.IntegrationTests\GloboTicket.TicketManagement.Api.IntegrationTests.csproj", "{E9AB402D-0036-49E2-ABD8-3832120E0C7D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GloboTicket.TicketManagement.Identity", "GloboTicket.TicketManagement.Identity\GloboTicket.TicketManagement.Identity.csproj", "{3BA33814-E838-4C0D-AAD4-0248197D667B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GloboTicket.TicketManagement.App", "GloboTicket.TicketManagement.App\GloboTicket.TicketManagement.App.csproj", "{60BAA6A7-BE14-402D-A8B9-3A874EDCEE1A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{873715A5-828D-4889-93FB-F739B1202468}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{873715A5-828D-4889-93FB-F739B1202468}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{873715A5-828D-4889-93FB-F739B1202468}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{873715A5-828D-4889-93FB-F739B1202468}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E1CC2C9-DAC9-434B-B41A-9C79E636AC10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E1CC2C9-DAC9-434B-B41A-9C79E636AC10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E1CC2C9-DAC9-434B-B41A-9C79E636AC10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E1CC2C9-DAC9-434B-B41A-9C79E636AC10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D2E44D7-340F-4F66-AA66-2F3CB0E69661}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D2E44D7-340F-4F66-AA66-2F3CB0E69661}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D2E44D7-340F-4F66-AA66-2F3CB0E69661}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D2E44D7-340F-4F66-AA66-2F3CB0E69661}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8E679D1-1FED-4AED-8344-59DCC7612A49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8E679D1-1FED-4AED-8344-59DCC7612A49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8E679D1-1FED-4AED-8344-59DCC7612A49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8E679D1-1FED-4AED-8344-59DCC7612A49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB9183B6-4F92-4EC9-8DC3-408B494BC584}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB9183B6-4F92-4EC9-8DC3-408B494BC584}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB9183B6-4F92-4EC9-8DC3-408B494BC584}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB9183B6-4F92-4EC9-8DC3-408B494BC584}.Release|Any CPU.Build.0 = Release|Any CPU
+		{295B9D1D-BA90-4DC2-8A70-8AC60C50D68F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{295B9D1D-BA90-4DC2-8A70-8AC60C50D68F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{295B9D1D-BA90-4DC2-8A70-8AC60C50D68F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{295B9D1D-BA90-4DC2-8A70-8AC60C50D68F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37A6EFE3-1BDC-46D8-A436-4F7B9115DF4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37A6EFE3-1BDC-46D8-A436-4F7B9115DF4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37A6EFE3-1BDC-46D8-A436-4F7B9115DF4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37A6EFE3-1BDC-46D8-A436-4F7B9115DF4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9AB402D-0036-49E2-ABD8-3832120E0C7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9AB402D-0036-49E2-ABD8-3832120E0C7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9AB402D-0036-49E2-ABD8-3832120E0C7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9AB402D-0036-49E2-ABD8-3832120E0C7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BA33814-E838-4C0D-AAD4-0248197D667B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BA33814-E838-4C0D-AAD4-0248197D667B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BA33814-E838-4C0D-AAD4-0248197D667B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BA33814-E838-4C0D-AAD4-0248197D667B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60BAA6A7-BE14-402D-A8B9-3A874EDCEE1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60BAA6A7-BE14-402D-A8B9-3A874EDCEE1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60BAA6A7-BE14-402D-A8B9-3A874EDCEE1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60BAA6A7-BE14-402D-A8B9-3A874EDCEE1A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{37A6BB0A-03FC-422A-9FB6-51A20B0BA90B} = {6D0DC925-D864-4AFA-BC71-A3837503CBAB}
+		{6F0C9604-76F8-4867-B136-E77199A19C37} = {6D0DC925-D864-4AFA-BC71-A3837503CBAB}
+		{8FDC29FA-3BF3-4F05-8125-B4027A992E2A} = {6D0DC925-D864-4AFA-BC71-A3837503CBAB}
+		{765266CE-36FD-4952-B985-1DD0DA0BBDBD} = {6D0DC925-D864-4AFA-BC71-A3837503CBAB}
+		{873715A5-828D-4889-93FB-F739B1202468} = {6F0C9604-76F8-4867-B136-E77199A19C37}
+		{0E1CC2C9-DAC9-434B-B41A-9C79E636AC10} = {6F0C9604-76F8-4867-B136-E77199A19C37}
+		{7D2E44D7-340F-4F66-AA66-2F3CB0E69661} = {8FDC29FA-3BF3-4F05-8125-B4027A992E2A}
+		{A8E679D1-1FED-4AED-8344-59DCC7612A49} = {8FDC29FA-3BF3-4F05-8125-B4027A992E2A}
+		{DB9183B6-4F92-4EC9-8DC3-408B494BC584} = {37A6BB0A-03FC-422A-9FB6-51A20B0BA90B}
+		{295B9D1D-BA90-4DC2-8A70-8AC60C50D68F} = {A9A0E106-5D00-441D-87BF-26A8BD84985D}
+		{37A6EFE3-1BDC-46D8-A436-4F7B9115DF4B} = {A9A0E106-5D00-441D-87BF-26A8BD84985D}
+		{E9AB402D-0036-49E2-ABD8-3832120E0C7D} = {A9A0E106-5D00-441D-87BF-26A8BD84985D}
+		{3BA33814-E838-4C0D-AAD4-0248197D667B} = {8FDC29FA-3BF3-4F05-8125-B4027A992E2A}
+		{60BAA6A7-BE14-402D-A8B9-3A874EDCEE1A} = {765266CE-36FD-4952-B985-1DD0DA0BBDBD}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF879256-FDF0-4CB8-9525-D42C3B99D8B5}
+	EndGlobalSection
+EndGlobal

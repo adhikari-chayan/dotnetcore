@@ -1,0 +1,17 @@
+C:\MyStuff\Practice Projects\dotnetcore\CleanArchitectureDemo\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Identity\bin\Debug\netcoreapp3.1\GloboTicket.TicketManagement.Identity.deps.json
+C:\MyStuff\Practice Projects\dotnetcore\CleanArchitectureDemo\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Identity\bin\Debug\netcoreapp3.1\GloboTicket.TicketManagement.Identity.runtimeconfig.json
+C:\MyStuff\Practice Projects\dotnetcore\CleanArchitectureDemo\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Identity\bin\Debug\netcoreapp3.1\GloboTicket.TicketManagement.Identity.runtimeconfig.dev.json
+C:\MyStuff\Practice Projects\dotnetcore\CleanArchitectureDemo\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Identity\bin\Debug\netcoreapp3.1\GloboTicket.TicketManagement.Identity.dll
+C:\MyStuff\Practice Projects\dotnetcore\CleanArchitectureDemo\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Identity\bin\Debug\netcoreapp3.1\GloboTicket.TicketManagement.Identity.pdb
+C:\MyStuff\Practice Projects\dotnetcore\CleanArchitectureDemo\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Identity\bin\Debug\netcoreapp3.1\GloboTicket.TicketManagement.Application.dll
+C:\MyStuff\Practice Projects\dotnetcore\CleanArchitectureDemo\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Identity\bin\Debug\netcoreapp3.1\GloboTicket.TicketManagement.Domain.dll
+C:\MyStuff\Practice Projects\dotnetcore\CleanArchitectureDemo\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Identity\bin\Debug\netcoreapp3.1\GloboTicket.TicketManagement.Application.pdb
+C:\MyStuff\Practice Projects\dotnetcore\CleanArchitectureDemo\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Identity\bin\Debug\netcoreapp3.1\GloboTicket.TicketManagement.Domain.pdb
+C:\MyStuff\Practice Projects\dotnetcore\CleanArchitectureDemo\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Identity\obj\Debug\netcoreapp3.1\GloboTicket.TicketManagement.Identity.csprojAssemblyReference.cache
+C:\MyStuff\Practice Projects\dotnetcore\CleanArchitectureDemo\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Identity\obj\Debug\netcoreapp3.1\GloboTicket.TicketManagement.Identity.AssemblyInfoInputs.cache
+C:\MyStuff\Practice Projects\dotnetcore\CleanArchitectureDemo\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Identity\obj\Debug\netcoreapp3.1\GloboTicket.TicketManagement.Identity.AssemblyInfo.cs
+C:\MyStuff\Practice Projects\dotnetcore\CleanArchitectureDemo\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Identity\obj\Debug\netcoreapp3.1\GloboTicket.TicketManagement.Identity.csproj.CoreCompileInputs.cache
+C:\MyStuff\Practice Projects\dotnetcore\CleanArchitectureDemo\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Identity\obj\Debug\netcoreapp3.1\GloboTicket.TicketManagement.Identity.csproj.CopyComplete
+C:\MyStuff\Practice Projects\dotnetcore\CleanArchitectureDemo\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Identity\obj\Debug\netcoreapp3.1\GloboTicket.TicketManagement.Identity.dll
+C:\MyStuff\Practice Projects\dotnetcore\CleanArchitectureDemo\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Identity\obj\Debug\netcoreapp3.1\GloboTicket.TicketManagement.Identity.pdb
+C:\MyStuff\Practice Projects\dotnetcore\CleanArchitectureDemo\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Identity\obj\Debug\netcoreapp3.1\GloboTicket.TicketManagement.Identity.genruntimeconfig.cache

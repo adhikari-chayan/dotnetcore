@@ -1,0 +1,14 @@
+C:\MyStuff\Practice Projects\dotnetcore\CleanArchitectureDemo\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Persistence\bin\Debug\netstandard2.1\GloboTicket.TicketManagement.Persistence.deps.json
+C:\MyStuff\Practice Projects\dotnetcore\CleanArchitectureDemo\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Persistence\bin\Debug\netstandard2.1\GloboTicket.TicketManagement.Persistence.dll
+C:\MyStuff\Practice Projects\dotnetcore\CleanArchitectureDemo\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Persistence\bin\Debug\netstandard2.1\GloboTicket.TicketManagement.Persistence.pdb
+C:\MyStuff\Practice Projects\dotnetcore\CleanArchitectureDemo\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Persistence\bin\Debug\netstandard2.1\GloboTicket.TicketManagement.Application.dll
+C:\MyStuff\Practice Projects\dotnetcore\CleanArchitectureDemo\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Persistence\bin\Debug\netstandard2.1\GloboTicket.TicketManagement.Domain.dll
+C:\MyStuff\Practice Projects\dotnetcore\CleanArchitectureDemo\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Persistence\bin\Debug\netstandard2.1\GloboTicket.TicketManagement.Application.pdb
+C:\MyStuff\Practice Projects\dotnetcore\CleanArchitectureDemo\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Persistence\bin\Debug\netstandard2.1\GloboTicket.TicketManagement.Domain.pdb
+C:\MyStuff\Practice Projects\dotnetcore\CleanArchitectureDemo\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Persistence\obj\Debug\netstandard2.1\GloboTicket.TicketManagement.Persistence.csprojAssemblyReference.cache
+C:\MyStuff\Practice Projects\dotnetcore\CleanArchitectureDemo\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Persistence\obj\Debug\netstandard2.1\GloboTicket.TicketManagement.Persistence.AssemblyInfoInputs.cache
+C:\MyStuff\Practice Projects\dotnetcore\CleanArchitectureDemo\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Persistence\obj\Debug\netstandard2.1\GloboTicket.TicketManagement.Persistence.AssemblyInfo.cs
+C:\MyStuff\Practice Projects\dotnetcore\CleanArchitectureDemo\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Persistence\obj\Debug\netstandard2.1\GloboTicket.TicketManagement.Persistence.csproj.CoreCompileInputs.cache
+C:\MyStuff\Practice Projects\dotnetcore\CleanArchitectureDemo\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Persistence\obj\Debug\netstandard2.1\GloboTicket.TicketManagement.Persistence.csproj.CopyComplete
+C:\MyStuff\Practice Projects\dotnetcore\CleanArchitectureDemo\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Persistence\obj\Debug\netstandard2.1\GloboTicket.TicketManagement.Persistence.dll
+C:\MyStuff\Practice Projects\dotnetcore\CleanArchitectureDemo\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Persistence\obj\Debug\netstandard2.1\GloboTicket.TicketManagement.Persistence.pdb

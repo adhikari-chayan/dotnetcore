@@ -1,0 +1,8 @@
+C:\MyStuff\Practice Projects\dotnetcore\CleanArchitectureDemo\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Domain\bin\Debug\netstandard2.1\GloboTicket.TicketManagement.Domain.deps.json
+C:\MyStuff\Practice Projects\dotnetcore\CleanArchitectureDemo\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Domain\bin\Debug\netstandard2.1\GloboTicket.TicketManagement.Domain.dll
+C:\MyStuff\Practice Projects\dotnetcore\CleanArchitectureDemo\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Domain\bin\Debug\netstandard2.1\GloboTicket.TicketManagement.Domain.pdb
+C:\MyStuff\Practice Projects\dotnetcore\CleanArchitectureDemo\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Domain\obj\Debug\netstandard2.1\GloboTicket.TicketManagement.Domain.AssemblyInfoInputs.cache
+C:\MyStuff\Practice Projects\dotnetcore\CleanArchitectureDemo\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Domain\obj\Debug\netstandard2.1\GloboTicket.TicketManagement.Domain.AssemblyInfo.cs
+C:\MyStuff\Practice Projects\dotnetcore\CleanArchitectureDemo\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Domain\obj\Debug\netstandard2.1\GloboTicket.TicketManagement.Domain.csproj.CoreCompileInputs.cache
+C:\MyStuff\Practice Projects\dotnetcore\CleanArchitectureDemo\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Domain\obj\Debug\netstandard2.1\GloboTicket.TicketManagement.Domain.dll
+C:\MyStuff\Practice Projects\dotnetcore\CleanArchitectureDemo\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Domain\obj\Debug\netstandard2.1\GloboTicket.TicketManagement.Domain.pdb
