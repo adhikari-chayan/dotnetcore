@@ -1,0 +1,24 @@
+C:\Users\danderson\Documents\Visual Studio 2017\Projects\NET GC\NET GC\obj\Debug\IDisposable Patterns.csproj.CoreCompileInputs.cache
+C:\Users\danderson\Documents\Visual Studio 2017\Projects\NET GC\NET GC\bin\Debug\NET GC.exe.config
+C:\Users\danderson\Documents\Visual Studio 2017\Projects\NET GC\NET GC\bin\Debug\NET GC.exe
+C:\Users\danderson\Documents\Visual Studio 2017\Projects\NET GC\NET GC\bin\Debug\NET GC.pdb
+C:\Users\danderson\Documents\Visual Studio 2017\Projects\NET GC\NET GC\obj\Debug\NET GC.exe
+C:\Users\danderson\Documents\Visual Studio 2017\Projects\NET GC\NET GC\obj\Debug\NET GC.pdb
+C:\Users\danderson\Documents\Visual Studio 2017\Projects\NET GC\NET GC\bin\Debug\Sample.tif
+C:\Users\danderson\Documents\Visual Studio 2017\Projects\NET GC\NET GC\obj\Debug\IDisposable Patterns.csprojResolveAssemblyReference.cache
+C:\Users\danderson\Desktop\NET GC\NET GC\bin\Debug\Sample.tif
+C:\Users\danderson\Desktop\NET GC\NET GC\bin\Debug\NET GC.exe.config
+C:\Users\danderson\Desktop\NET GC\NET GC\bin\Debug\NET GC.exe
+C:\Users\danderson\Desktop\NET GC\NET GC\bin\Debug\NET GC.pdb
+C:\Users\danderson\Desktop\NET GC\NET GC\obj\Debug\IDisposable Patterns.csprojResolveAssemblyReference.cache
+C:\Users\danderson\Desktop\NET GC\NET GC\obj\Debug\IDisposable Patterns.csproj.CoreCompileInputs.cache
+C:\Users\danderson\Desktop\NET GC\NET GC\obj\Debug\NET GC.exe
+C:\Users\danderson\Desktop\NET GC\NET GC\obj\Debug\NET GC.pdb
+C:\MyStuff\Practice Projects\dotnetcore\IDisposableDemo\NET GC\NET GC\bin\Debug\Sample.tif
+C:\MyStuff\Practice Projects\dotnetcore\IDisposableDemo\NET GC\NET GC\bin\Debug\NET GC.exe.config
+C:\MyStuff\Practice Projects\dotnetcore\IDisposableDemo\NET GC\NET GC\bin\Debug\NET GC.exe
+C:\MyStuff\Practice Projects\dotnetcore\IDisposableDemo\NET GC\NET GC\bin\Debug\NET GC.pdb
+C:\MyStuff\Practice Projects\dotnetcore\IDisposableDemo\NET GC\NET GC\obj\Debug\IDisposable Patterns.csprojAssemblyReference.cache
+C:\MyStuff\Practice Projects\dotnetcore\IDisposableDemo\NET GC\NET GC\obj\Debug\IDisposable Patterns.csproj.CoreCompileInputs.cache
+C:\MyStuff\Practice Projects\dotnetcore\IDisposableDemo\NET GC\NET GC\obj\Debug\NET GC.exe
+C:\MyStuff\Practice Projects\dotnetcore\IDisposableDemo\NET GC\NET GC\obj\Debug\NET GC.pdb
