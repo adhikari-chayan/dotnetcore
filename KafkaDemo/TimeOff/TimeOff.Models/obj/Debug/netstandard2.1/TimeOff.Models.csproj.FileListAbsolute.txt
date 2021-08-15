@@ -1,0 +1,9 @@
+C:\MyStuff\Practice Projects\dotnetcore\KafkaDemo\TimeOff\TimeOff.Models\bin\Debug\netstandard2.1\TimeOff.Models.deps.json
+C:\MyStuff\Practice Projects\dotnetcore\KafkaDemo\TimeOff\TimeOff.Models\bin\Debug\netstandard2.1\TimeOff.Models.dll
+C:\MyStuff\Practice Projects\dotnetcore\KafkaDemo\TimeOff\TimeOff.Models\bin\Debug\netstandard2.1\TimeOff.Models.pdb
+C:\MyStuff\Practice Projects\dotnetcore\KafkaDemo\TimeOff\TimeOff.Models\obj\Debug\netstandard2.1\TimeOff.Models.csprojAssemblyReference.cache
+C:\MyStuff\Practice Projects\dotnetcore\KafkaDemo\TimeOff\TimeOff.Models\obj\Debug\netstandard2.1\TimeOff.Models.AssemblyInfoInputs.cache
+C:\MyStuff\Practice Projects\dotnetcore\KafkaDemo\TimeOff\TimeOff.Models\obj\Debug\netstandard2.1\TimeOff.Models.AssemblyInfo.cs
+C:\MyStuff\Practice Projects\dotnetcore\KafkaDemo\TimeOff\TimeOff.Models\obj\Debug\netstandard2.1\TimeOff.Models.csproj.CoreCompileInputs.cache
+C:\MyStuff\Practice Projects\dotnetcore\KafkaDemo\TimeOff\TimeOff.Models\obj\Debug\netstandard2.1\TimeOff.Models.dll
+C:\MyStuff\Practice Projects\dotnetcore\KafkaDemo\TimeOff\TimeOff.Models\obj\Debug\netstandard2.1\TimeOff.Models.pdb

@@ -1,0 +1,8 @@
+C:\MyStuff\Practice Projects\dotnetcore\KafkaDemo\OrderHandler\OrderHandler.Core\obj\Debug\netstandard2.1\OrderHandler.Core.AssemblyInfoInputs.cache
+C:\MyStuff\Practice Projects\dotnetcore\KafkaDemo\OrderHandler\OrderHandler.Core\obj\Debug\netstandard2.1\OrderHandler.Core.AssemblyInfo.cs
+C:\MyStuff\Practice Projects\dotnetcore\KafkaDemo\OrderHandler\OrderHandler.Core\obj\Debug\netstandard2.1\OrderHandler.Core.csproj.CoreCompileInputs.cache
+C:\MyStuff\Practice Projects\dotnetcore\KafkaDemo\OrderHandler\OrderHandler.Core\bin\Debug\netstandard2.1\OrderHandler.Core.deps.json
+C:\MyStuff\Practice Projects\dotnetcore\KafkaDemo\OrderHandler\OrderHandler.Core\bin\Debug\netstandard2.1\OrderHandler.Core.dll
+C:\MyStuff\Practice Projects\dotnetcore\KafkaDemo\OrderHandler\OrderHandler.Core\bin\Debug\netstandard2.1\OrderHandler.Core.pdb
+C:\MyStuff\Practice Projects\dotnetcore\KafkaDemo\OrderHandler\OrderHandler.Core\obj\Debug\netstandard2.1\OrderHandler.Core.dll
+C:\MyStuff\Practice Projects\dotnetcore\KafkaDemo\OrderHandler\OrderHandler.Core\obj\Debug\netstandard2.1\OrderHandler.Core.pdb

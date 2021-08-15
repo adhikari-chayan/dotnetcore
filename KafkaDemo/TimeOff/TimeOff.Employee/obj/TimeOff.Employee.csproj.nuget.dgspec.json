@@ -1,0 +1,229 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\MyStuff\\Practice Projects\\dotnetcore\\KafkaDemo\\TimeOff\\TimeOff.Employee\\TimeOff.Employee.csproj": {}
+  },
+  "projects": {
+    "C:\\MyStuff\\Practice Projects\\dotnetcore\\KafkaDemo\\TimeOff\\TimeOff.Core\\TimeOff.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\MyStuff\\Practice Projects\\dotnetcore\\KafkaDemo\\TimeOff\\TimeOff.Core\\TimeOff.Core.csproj",
+        "projectName": "TimeOff.Core",
+        "projectPath": "C:\\MyStuff\\Practice Projects\\dotnetcore\\KafkaDemo\\TimeOff\\TimeOff.Core\\TimeOff.Core.csproj",
+        "packagesPath": "C:\\Users\\chayan.adhikari\\.nuget\\packages\\",
+        "outputPath": "C:\\MyStuff\\Practice Projects\\dotnetcore\\KafkaDemo\\TimeOff\\TimeOff.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\chayan.adhikari\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "Confluent.Kafka": {
+              "target": "Package",
+              "version": "[1.6.3, )"
+            },
+            "Confluent.SchemaRegistry": {
+              "target": "Package",
+              "version": "[1.6.3, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\MyStuff\\Practice Projects\\dotnetcore\\KafkaDemo\\TimeOff\\TimeOff.Employee\\TimeOff.Employee.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\MyStuff\\Practice Projects\\dotnetcore\\KafkaDemo\\TimeOff\\TimeOff.Employee\\TimeOff.Employee.csproj",
+        "projectName": "TimeOff.Employee",
+        "projectPath": "C:\\MyStuff\\Practice Projects\\dotnetcore\\KafkaDemo\\TimeOff\\TimeOff.Employee\\TimeOff.Employee.csproj",
+        "packagesPath": "C:\\Users\\chayan.adhikari\\.nuget\\packages\\",
+        "outputPath": "C:\\MyStuff\\Practice Projects\\dotnetcore\\KafkaDemo\\TimeOff\\TimeOff.Employee\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\chayan.adhikari\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5",
+            "projectReferences": {
+              "C:\\MyStuff\\Practice Projects\\dotnetcore\\KafkaDemo\\TimeOff\\TimeOff.Core\\TimeOff.Core.csproj": {
+                "projectPath": "C:\\MyStuff\\Practice Projects\\dotnetcore\\KafkaDemo\\TimeOff\\TimeOff.Core\\TimeOff.Core.csproj"
+              },
+              "C:\\MyStuff\\Practice Projects\\dotnetcore\\KafkaDemo\\TimeOff\\TimeOff.Models\\TimeOff.Models.csproj": {
+                "projectPath": "C:\\MyStuff\\Practice Projects\\dotnetcore\\KafkaDemo\\TimeOff\\TimeOff.Models\\TimeOff.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5",
+          "dependencies": {
+            "Confluent.Kafka": {
+              "target": "Package",
+              "version": "[1.6.3, )"
+            },
+            "Confluent.SchemaRegistry.Serdes.Avro": {
+              "target": "Package",
+              "version": "[1.6.3, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "ReadLine": {
+              "target": "Package",
+              "version": "[2.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\MyStuff\\Practice Projects\\dotnetcore\\KafkaDemo\\TimeOff\\TimeOff.Models\\TimeOff.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\MyStuff\\Practice Projects\\dotnetcore\\KafkaDemo\\TimeOff\\TimeOff.Models\\TimeOff.Models.csproj",
+        "projectName": "TimeOff.Models",
+        "projectPath": "C:\\MyStuff\\Practice Projects\\dotnetcore\\KafkaDemo\\TimeOff\\TimeOff.Models\\TimeOff.Models.csproj",
+        "packagesPath": "C:\\Users\\chayan.adhikari\\.nuget\\packages\\",
+        "outputPath": "C:\\MyStuff\\Practice Projects\\dotnetcore\\KafkaDemo\\TimeOff\\TimeOff.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\chayan.adhikari\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "Confluent.SchemaRegistry.Serdes.Avro": {
+              "target": "Package",
+              "version": "[1.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
