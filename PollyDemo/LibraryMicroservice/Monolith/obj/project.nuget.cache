@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zXkYjHSBPdVt9z6IMeoRogJD0B7GmIGSFQvlLtTA77XlSKq6EklVPGP086deTDPyLVVpJeMliCgTX7sNtwKOyw==",
+  "success": true,
+  "projectFilePath": "C:\\MyStuff\\Practice Projects\\dotnetcore\\PollyDemo\\LibraryMicroservice\\Monolith\\Monolith.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chayan.adhikari\\.nuget\\packages\\polly\\7.2.2\\polly.7.2.2.nupkg.sha512"
+  ],
+  "logs": []
+}
