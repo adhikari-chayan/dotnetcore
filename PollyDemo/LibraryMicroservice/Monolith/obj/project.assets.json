@@ -50,11 +50,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\MyStuff\\Practice Projects\\dotnetcore\\PollyDemo\\LibraryMicroservice\\Monolith\\Monolith.csproj",
+      "projectUniqueName": "C:\\MyStuff\\Practice Projects\\GitRepos\\dotnetcore\\PollyDemo\\LibraryMicroservice\\Monolith\\Monolith.csproj",
       "projectName": "Monolith",
-      "projectPath": "C:\\MyStuff\\Practice Projects\\dotnetcore\\PollyDemo\\LibraryMicroservice\\Monolith\\Monolith.csproj",
+      "projectPath": "C:\\MyStuff\\Practice Projects\\GitRepos\\dotnetcore\\PollyDemo\\LibraryMicroservice\\Monolith\\Monolith.csproj",
       "packagesPath": "C:\\Users\\chayan.adhikari\\.nuget\\packages\\",
-      "outputPath": "C:\\MyStuff\\Practice Projects\\dotnetcore\\PollyDemo\\LibraryMicroservice\\Monolith\\obj\\",
+      "outputPath": "C:\\MyStuff\\Practice Projects\\GitRepos\\dotnetcore\\PollyDemo\\LibraryMicroservice\\Monolith\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -67,7 +67,8 @@
         "net5.0"
       ],
       "sources": {
-        "https://api.nuget.org/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {},
+        "https://artifactory.bwinparty.corp/artifactory/api/nuget/nuget-internal": {}
       },
       "frameworks": {
         "net5.0": {

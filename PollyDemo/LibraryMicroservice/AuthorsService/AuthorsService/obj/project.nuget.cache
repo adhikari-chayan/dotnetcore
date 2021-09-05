@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cRVMUtPysIwC4eYXl0PTSffsrfLuNMt3BdmC/qD9blHWSC2WkKCd5BGkeAkBH2+6l7FhgaAkHZet+JVOEGeI9A==",
+  "dgSpecHash": "1m1Z2IL06f2pG7W5d9B/HIg9XJK0Lw+Si11pYNJYRJxAm/pNP71MI6DnKpAfcWakSlfApEYx14vdr8bnCURAYA==",
   "success": true,
-  "projectFilePath": "C:\\MyStuff\\Practice Projects\\dotnetcore\\PollyDemo\\LibraryMicroservice\\AuthorsService\\AuthorsService\\AuthorsService.csproj",
+  "projectFilePath": "C:\\MyStuff\\Practice Projects\\GitRepos\\dotnetcore\\PollyDemo\\LibraryMicroservice\\AuthorsService\\AuthorsService\\AuthorsService.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
