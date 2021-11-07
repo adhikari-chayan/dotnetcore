@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Zru6MrQdmSKDiEfCAsMBgHWSj3nE1346pDou9nD45uowZjkrAJj+56kGcjIa2IsmqlkcvIyDQ7wjXqzNFqp3yg==",
+  "success": true,
+  "projectFilePath": "C:\\MyStuff\\Practice Projects\\dotnetcore\\ReactiveExtensions\\RxDemo\\RXDemo.AsyncBehavior\\RXDemo.AsyncBehavior.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chayan.adhikari\\.nuget\\packages\\system.reactive\\5.0.0\\system.reactive.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

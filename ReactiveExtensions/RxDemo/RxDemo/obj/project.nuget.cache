@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vNWmT0FPHY9d9b82C/MQ8mtWB9FCBKA4OTBUYs3YYj4MUHdr58Ezgnhi8Ystk2ut4za4ByW87ZGP+1fmC2HMfw==",
+  "success": true,
+  "projectFilePath": "C:\\MyStuff\\Practice Projects\\dotnetcore\\ReactiveExtensions\\RxDemo\\RxDemo\\RxDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chayan.adhikari\\.nuget\\packages\\system.reactive\\5.0.0\\system.reactive.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

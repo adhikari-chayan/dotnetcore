@@ -1,0 +1,71 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\MyStuff\\Practice Projects\\dotnetcore\\ReactiveExtensions\\RxDemo\\RxDemo\\RxDemo.csproj": {}
+  },
+  "projects": {
+    "C:\\MyStuff\\Practice Projects\\dotnetcore\\ReactiveExtensions\\RxDemo\\RxDemo\\RxDemo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\MyStuff\\Practice Projects\\dotnetcore\\ReactiveExtensions\\RxDemo\\RxDemo\\RxDemo.csproj",
+        "projectName": "RxDemo",
+        "projectPath": "C:\\MyStuff\\Practice Projects\\dotnetcore\\ReactiveExtensions\\RxDemo\\RxDemo\\RxDemo.csproj",
+        "packagesPath": "C:\\Users\\chayan.adhikari\\.nuget\\packages\\",
+        "outputPath": "C:\\MyStuff\\Practice Projects\\dotnetcore\\ReactiveExtensions\\RxDemo\\RxDemo\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\chayan.adhikari\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://artifactory.bwinparty.corp/artifactory/api/nuget/nuget-internal": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5",
+          "dependencies": {
+            "System.Reactive": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
