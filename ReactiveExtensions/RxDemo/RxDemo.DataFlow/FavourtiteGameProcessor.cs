@@ -46,7 +46,7 @@ namespace RxDemo.DataFlow
             {
                 //Add to recent games
                 Thread.Sleep(10000);
-                Console.WriteLine("Add to recent games");
+                Console.WriteLine($"Add {e.GameId} to recent games");
             }
             catch (Exception)
             {

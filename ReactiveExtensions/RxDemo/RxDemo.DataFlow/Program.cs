@@ -10,9 +10,13 @@ namespace RxDemo.DataFlow
         private static readonly Random rnd = new Random();
         static void Main(string[] args)
         {
-            var userId = rnd.Next(1, 100).ToString();
-            var gameId = $"Game-{userId}";
-            OpenGame(userId, gameId);
+            for (int i = 0; i < 2; i++)
+            {
+                var userId = rnd.Next(1, 100).ToString();
+                var gameId = $"Game-{userId}";
+                OpenGame(userId, gameId);
+            }
+            
             Console.ReadKey();
         }
 
@@ -24,7 +28,7 @@ namespace RxDemo.DataFlow
                 UserId = userId
             });
 
-            Console.WriteLine($"Open the game {gameId}");
+            Console.WriteLine($"Open the {gameId}");
         }
     }
 }
