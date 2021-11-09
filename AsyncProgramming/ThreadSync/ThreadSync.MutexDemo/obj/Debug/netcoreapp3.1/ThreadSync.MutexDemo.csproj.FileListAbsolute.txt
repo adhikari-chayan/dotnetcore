@@ -1,0 +1,13 @@
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\ThreadSync\ThreadSync.MutexDemo\bin\Debug\netcoreapp3.1\ThreadSync.MutexDemo.exe
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\ThreadSync\ThreadSync.MutexDemo\bin\Debug\netcoreapp3.1\ThreadSync.MutexDemo.deps.json
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\ThreadSync\ThreadSync.MutexDemo\bin\Debug\netcoreapp3.1\ThreadSync.MutexDemo.runtimeconfig.json
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\ThreadSync\ThreadSync.MutexDemo\bin\Debug\netcoreapp3.1\ThreadSync.MutexDemo.runtimeconfig.dev.json
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\ThreadSync\ThreadSync.MutexDemo\bin\Debug\netcoreapp3.1\ThreadSync.MutexDemo.dll
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\ThreadSync\ThreadSync.MutexDemo\bin\Debug\netcoreapp3.1\ThreadSync.MutexDemo.pdb
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\ThreadSync\ThreadSync.MutexDemo\obj\Debug\netcoreapp3.1\ThreadSync.MutexDemo.csprojAssemblyReference.cache
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\ThreadSync\ThreadSync.MutexDemo\obj\Debug\netcoreapp3.1\ThreadSync.MutexDemo.AssemblyInfoInputs.cache
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\ThreadSync\ThreadSync.MutexDemo\obj\Debug\netcoreapp3.1\ThreadSync.MutexDemo.AssemblyInfo.cs
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\ThreadSync\ThreadSync.MutexDemo\obj\Debug\netcoreapp3.1\ThreadSync.MutexDemo.csproj.CoreCompileInputs.cache
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\ThreadSync\ThreadSync.MutexDemo\obj\Debug\netcoreapp3.1\ThreadSync.MutexDemo.dll
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\ThreadSync\ThreadSync.MutexDemo\obj\Debug\netcoreapp3.1\ThreadSync.MutexDemo.pdb
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\ThreadSync\ThreadSync.MutexDemo\obj\Debug\netcoreapp3.1\ThreadSync.MutexDemo.genruntimeconfig.cache

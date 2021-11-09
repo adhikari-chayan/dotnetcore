@@ -1,0 +1,13 @@
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\ThreadSync\ThreadAsync.AutoResetEventDemo\bin\Debug\netcoreapp3.1\ThreadAsync.AutoResetEventDemo.exe
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\ThreadSync\ThreadAsync.AutoResetEventDemo\bin\Debug\netcoreapp3.1\ThreadAsync.AutoResetEventDemo.deps.json
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\ThreadSync\ThreadAsync.AutoResetEventDemo\bin\Debug\netcoreapp3.1\ThreadAsync.AutoResetEventDemo.runtimeconfig.json
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\ThreadSync\ThreadAsync.AutoResetEventDemo\bin\Debug\netcoreapp3.1\ThreadAsync.AutoResetEventDemo.runtimeconfig.dev.json
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\ThreadSync\ThreadAsync.AutoResetEventDemo\bin\Debug\netcoreapp3.1\ThreadAsync.AutoResetEventDemo.dll
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\ThreadSync\ThreadAsync.AutoResetEventDemo\bin\Debug\netcoreapp3.1\ThreadAsync.AutoResetEventDemo.pdb
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\ThreadSync\ThreadAsync.AutoResetEventDemo\obj\Debug\netcoreapp3.1\ThreadAsync.AutoResetEventDemo.csprojAssemblyReference.cache
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\ThreadSync\ThreadAsync.AutoResetEventDemo\obj\Debug\netcoreapp3.1\ThreadAsync.AutoResetEventDemo.AssemblyInfoInputs.cache
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\ThreadSync\ThreadAsync.AutoResetEventDemo\obj\Debug\netcoreapp3.1\ThreadAsync.AutoResetEventDemo.AssemblyInfo.cs
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\ThreadSync\ThreadAsync.AutoResetEventDemo\obj\Debug\netcoreapp3.1\ThreadAsync.AutoResetEventDemo.csproj.CoreCompileInputs.cache
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\ThreadSync\ThreadAsync.AutoResetEventDemo\obj\Debug\netcoreapp3.1\ThreadAsync.AutoResetEventDemo.dll
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\ThreadSync\ThreadAsync.AutoResetEventDemo\obj\Debug\netcoreapp3.1\ThreadAsync.AutoResetEventDemo.pdb
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\ThreadSync\ThreadAsync.AutoResetEventDemo\obj\Debug\netcoreapp3.1\ThreadAsync.AutoResetEventDemo.genruntimeconfig.cache

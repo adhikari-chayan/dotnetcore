@@ -1,0 +1,13 @@
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\ThreadSync\ThreadSync.MonitorDemo\bin\Debug\netcoreapp3.1\ThreadSync.MonitorDemo.exe
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\ThreadSync\ThreadSync.MonitorDemo\bin\Debug\netcoreapp3.1\ThreadSync.MonitorDemo.deps.json
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\ThreadSync\ThreadSync.MonitorDemo\bin\Debug\netcoreapp3.1\ThreadSync.MonitorDemo.runtimeconfig.json
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\ThreadSync\ThreadSync.MonitorDemo\bin\Debug\netcoreapp3.1\ThreadSync.MonitorDemo.runtimeconfig.dev.json
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\ThreadSync\ThreadSync.MonitorDemo\bin\Debug\netcoreapp3.1\ThreadSync.MonitorDemo.dll
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\ThreadSync\ThreadSync.MonitorDemo\bin\Debug\netcoreapp3.1\ThreadSync.MonitorDemo.pdb
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\ThreadSync\ThreadSync.MonitorDemo\obj\Debug\netcoreapp3.1\ThreadSync.MonitorDemo.csprojAssemblyReference.cache
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\ThreadSync\ThreadSync.MonitorDemo\obj\Debug\netcoreapp3.1\ThreadSync.MonitorDemo.AssemblyInfoInputs.cache
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\ThreadSync\ThreadSync.MonitorDemo\obj\Debug\netcoreapp3.1\ThreadSync.MonitorDemo.AssemblyInfo.cs
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\ThreadSync\ThreadSync.MonitorDemo\obj\Debug\netcoreapp3.1\ThreadSync.MonitorDemo.csproj.CoreCompileInputs.cache
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\ThreadSync\ThreadSync.MonitorDemo\obj\Debug\netcoreapp3.1\ThreadSync.MonitorDemo.dll
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\ThreadSync\ThreadSync.MonitorDemo\obj\Debug\netcoreapp3.1\ThreadSync.MonitorDemo.pdb
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\ThreadSync\ThreadSync.MonitorDemo\obj\Debug\netcoreapp3.1\ThreadSync.MonitorDemo.genruntimeconfig.cache

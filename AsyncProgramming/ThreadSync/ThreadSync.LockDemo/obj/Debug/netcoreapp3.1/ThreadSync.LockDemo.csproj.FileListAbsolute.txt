@@ -1,0 +1,13 @@
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\ThreadSync\ThreadSync.LockDemo\bin\Debug\netcoreapp3.1\ThreadSync.LockDemo.exe
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\ThreadSync\ThreadSync.LockDemo\bin\Debug\netcoreapp3.1\ThreadSync.LockDemo.deps.json
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\ThreadSync\ThreadSync.LockDemo\bin\Debug\netcoreapp3.1\ThreadSync.LockDemo.runtimeconfig.json
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\ThreadSync\ThreadSync.LockDemo\bin\Debug\netcoreapp3.1\ThreadSync.LockDemo.runtimeconfig.dev.json
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\ThreadSync\ThreadSync.LockDemo\bin\Debug\netcoreapp3.1\ThreadSync.LockDemo.dll
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\ThreadSync\ThreadSync.LockDemo\bin\Debug\netcoreapp3.1\ThreadSync.LockDemo.pdb
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\ThreadSync\ThreadSync.LockDemo\obj\Debug\netcoreapp3.1\ThreadSync.LockDemo.csprojAssemblyReference.cache
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\ThreadSync\ThreadSync.LockDemo\obj\Debug\netcoreapp3.1\ThreadSync.LockDemo.AssemblyInfoInputs.cache
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\ThreadSync\ThreadSync.LockDemo\obj\Debug\netcoreapp3.1\ThreadSync.LockDemo.AssemblyInfo.cs
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\ThreadSync\ThreadSync.LockDemo\obj\Debug\netcoreapp3.1\ThreadSync.LockDemo.csproj.CoreCompileInputs.cache
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\ThreadSync\ThreadSync.LockDemo\obj\Debug\netcoreapp3.1\ThreadSync.LockDemo.dll
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\ThreadSync\ThreadSync.LockDemo\obj\Debug\netcoreapp3.1\ThreadSync.LockDemo.pdb
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\ThreadSync\ThreadSync.LockDemo\obj\Debug\netcoreapp3.1\ThreadSync.LockDemo.genruntimeconfig.cache

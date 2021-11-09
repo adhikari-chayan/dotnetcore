@@ -1,0 +1,12 @@
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\ThreadSync\ThreadSync.SemaphoreDemo\bin\Debug\netcoreapp3.1\ThreadSync.SemaphoreDemo.exe
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\ThreadSync\ThreadSync.SemaphoreDemo\bin\Debug\netcoreapp3.1\ThreadSync.SemaphoreDemo.deps.json
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\ThreadSync\ThreadSync.SemaphoreDemo\bin\Debug\netcoreapp3.1\ThreadSync.SemaphoreDemo.runtimeconfig.json
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\ThreadSync\ThreadSync.SemaphoreDemo\bin\Debug\netcoreapp3.1\ThreadSync.SemaphoreDemo.runtimeconfig.dev.json
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\ThreadSync\ThreadSync.SemaphoreDemo\bin\Debug\netcoreapp3.1\ThreadSync.SemaphoreDemo.dll
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\ThreadSync\ThreadSync.SemaphoreDemo\bin\Debug\netcoreapp3.1\ThreadSync.SemaphoreDemo.pdb
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\ThreadSync\ThreadSync.SemaphoreDemo\obj\Debug\netcoreapp3.1\ThreadSync.SemaphoreDemo.AssemblyInfoInputs.cache
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\ThreadSync\ThreadSync.SemaphoreDemo\obj\Debug\netcoreapp3.1\ThreadSync.SemaphoreDemo.AssemblyInfo.cs
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\ThreadSync\ThreadSync.SemaphoreDemo\obj\Debug\netcoreapp3.1\ThreadSync.SemaphoreDemo.csproj.CoreCompileInputs.cache
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\ThreadSync\ThreadSync.SemaphoreDemo\obj\Debug\netcoreapp3.1\ThreadSync.SemaphoreDemo.dll
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\ThreadSync\ThreadSync.SemaphoreDemo\obj\Debug\netcoreapp3.1\ThreadSync.SemaphoreDemo.pdb
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\ThreadSync\ThreadSync.SemaphoreDemo\obj\Debug\netcoreapp3.1\ThreadSync.SemaphoreDemo.genruntimeconfig.cache
