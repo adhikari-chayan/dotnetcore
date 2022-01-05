@@ -1,0 +1,16 @@
+C:\MyStuff\Practice Projects\CodeMaze\DelegatesDemo\DelegatesDemo.FuncDemo\bin\Debug\net5.0\DelegatesDemo.FuncDemo.exe
+C:\MyStuff\Practice Projects\CodeMaze\DelegatesDemo\DelegatesDemo.FuncDemo\bin\Debug\net5.0\DelegatesDemo.FuncDemo.deps.json
+C:\MyStuff\Practice Projects\CodeMaze\DelegatesDemo\DelegatesDemo.FuncDemo\bin\Debug\net5.0\DelegatesDemo.FuncDemo.runtimeconfig.json
+C:\MyStuff\Practice Projects\CodeMaze\DelegatesDemo\DelegatesDemo.FuncDemo\bin\Debug\net5.0\DelegatesDemo.FuncDemo.runtimeconfig.dev.json
+C:\MyStuff\Practice Projects\CodeMaze\DelegatesDemo\DelegatesDemo.FuncDemo\bin\Debug\net5.0\DelegatesDemo.FuncDemo.dll
+C:\MyStuff\Practice Projects\CodeMaze\DelegatesDemo\DelegatesDemo.FuncDemo\bin\Debug\net5.0\ref\DelegatesDemo.FuncDemo.dll
+C:\MyStuff\Practice Projects\CodeMaze\DelegatesDemo\DelegatesDemo.FuncDemo\bin\Debug\net5.0\DelegatesDemo.FuncDemo.pdb
+C:\MyStuff\Practice Projects\CodeMaze\DelegatesDemo\DelegatesDemo.FuncDemo\obj\Debug\net5.0\DelegatesDemo.FuncDemo.csprojAssemblyReference.cache
+C:\MyStuff\Practice Projects\CodeMaze\DelegatesDemo\DelegatesDemo.FuncDemo\obj\Debug\net5.0\DelegatesDemo.FuncDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyStuff\Practice Projects\CodeMaze\DelegatesDemo\DelegatesDemo.FuncDemo\obj\Debug\net5.0\DelegatesDemo.FuncDemo.AssemblyInfoInputs.cache
+C:\MyStuff\Practice Projects\CodeMaze\DelegatesDemo\DelegatesDemo.FuncDemo\obj\Debug\net5.0\DelegatesDemo.FuncDemo.AssemblyInfo.cs
+C:\MyStuff\Practice Projects\CodeMaze\DelegatesDemo\DelegatesDemo.FuncDemo\obj\Debug\net5.0\DelegatesDemo.FuncDemo.csproj.CoreCompileInputs.cache
+C:\MyStuff\Practice Projects\CodeMaze\DelegatesDemo\DelegatesDemo.FuncDemo\obj\Debug\net5.0\DelegatesDemo.FuncDemo.dll
+C:\MyStuff\Practice Projects\CodeMaze\DelegatesDemo\DelegatesDemo.FuncDemo\obj\Debug\net5.0\ref\DelegatesDemo.FuncDemo.dll
+C:\MyStuff\Practice Projects\CodeMaze\DelegatesDemo\DelegatesDemo.FuncDemo\obj\Debug\net5.0\DelegatesDemo.FuncDemo.pdb
+C:\MyStuff\Practice Projects\CodeMaze\DelegatesDemo\DelegatesDemo.FuncDemo\obj\Debug\net5.0\DelegatesDemo.FuncDemo.genruntimeconfig.cache

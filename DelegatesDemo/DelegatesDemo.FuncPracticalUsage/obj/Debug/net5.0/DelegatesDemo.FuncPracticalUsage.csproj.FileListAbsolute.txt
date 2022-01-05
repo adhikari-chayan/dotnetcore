@@ -1,0 +1,16 @@
+C:\MyStuff\Practice Projects\CodeMaze\DelegatesDemo\DelegatesDemo.FuncPracticalUsage\bin\Debug\net5.0\DelegatesDemo.FuncPracticalUsage.exe
+C:\MyStuff\Practice Projects\CodeMaze\DelegatesDemo\DelegatesDemo.FuncPracticalUsage\bin\Debug\net5.0\DelegatesDemo.FuncPracticalUsage.deps.json
+C:\MyStuff\Practice Projects\CodeMaze\DelegatesDemo\DelegatesDemo.FuncPracticalUsage\bin\Debug\net5.0\DelegatesDemo.FuncPracticalUsage.runtimeconfig.json
+C:\MyStuff\Practice Projects\CodeMaze\DelegatesDemo\DelegatesDemo.FuncPracticalUsage\bin\Debug\net5.0\DelegatesDemo.FuncPracticalUsage.runtimeconfig.dev.json
+C:\MyStuff\Practice Projects\CodeMaze\DelegatesDemo\DelegatesDemo.FuncPracticalUsage\bin\Debug\net5.0\DelegatesDemo.FuncPracticalUsage.dll
+C:\MyStuff\Practice Projects\CodeMaze\DelegatesDemo\DelegatesDemo.FuncPracticalUsage\bin\Debug\net5.0\ref\DelegatesDemo.FuncPracticalUsage.dll
+C:\MyStuff\Practice Projects\CodeMaze\DelegatesDemo\DelegatesDemo.FuncPracticalUsage\bin\Debug\net5.0\DelegatesDemo.FuncPracticalUsage.pdb
+C:\MyStuff\Practice Projects\CodeMaze\DelegatesDemo\DelegatesDemo.FuncPracticalUsage\obj\Debug\net5.0\DelegatesDemo.FuncPracticalUsage.csprojAssemblyReference.cache
+C:\MyStuff\Practice Projects\CodeMaze\DelegatesDemo\DelegatesDemo.FuncPracticalUsage\obj\Debug\net5.0\DelegatesDemo.FuncPracticalUsage.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyStuff\Practice Projects\CodeMaze\DelegatesDemo\DelegatesDemo.FuncPracticalUsage\obj\Debug\net5.0\DelegatesDemo.FuncPracticalUsage.AssemblyInfoInputs.cache
+C:\MyStuff\Practice Projects\CodeMaze\DelegatesDemo\DelegatesDemo.FuncPracticalUsage\obj\Debug\net5.0\DelegatesDemo.FuncPracticalUsage.AssemblyInfo.cs
+C:\MyStuff\Practice Projects\CodeMaze\DelegatesDemo\DelegatesDemo.FuncPracticalUsage\obj\Debug\net5.0\DelegatesDemo.FuncPracticalUsage.csproj.CoreCompileInputs.cache
+C:\MyStuff\Practice Projects\CodeMaze\DelegatesDemo\DelegatesDemo.FuncPracticalUsage\obj\Debug\net5.0\DelegatesDemo.FuncPracticalUsage.dll
+C:\MyStuff\Practice Projects\CodeMaze\DelegatesDemo\DelegatesDemo.FuncPracticalUsage\obj\Debug\net5.0\ref\DelegatesDemo.FuncPracticalUsage.dll
+C:\MyStuff\Practice Projects\CodeMaze\DelegatesDemo\DelegatesDemo.FuncPracticalUsage\obj\Debug\net5.0\DelegatesDemo.FuncPracticalUsage.pdb
+C:\MyStuff\Practice Projects\CodeMaze\DelegatesDemo\DelegatesDemo.FuncPracticalUsage\obj\Debug\net5.0\DelegatesDemo.FuncPracticalUsage.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\MyStuff\Practice Projects\CodeMaze\DelegatesDemo\DelegatesDemo.ActionPracticalUsage\obj\Debug\net5.0\DelegatesDemo.ActionPracticalUsage.csprojAssemblyReference.cache
+C:\MyStuff\Practice Projects\CodeMaze\DelegatesDemo\DelegatesDemo.ActionPracticalUsage\obj\Debug\net5.0\DelegatesDemo.ActionPracticalUsage.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyStuff\Practice Projects\CodeMaze\DelegatesDemo\DelegatesDemo.ActionPracticalUsage\obj\Debug\net5.0\DelegatesDemo.ActionPracticalUsage.AssemblyInfoInputs.cache
+C:\MyStuff\Practice Projects\CodeMaze\DelegatesDemo\DelegatesDemo.ActionPracticalUsage\obj\Debug\net5.0\DelegatesDemo.ActionPracticalUsage.AssemblyInfo.cs
+C:\MyStuff\Practice Projects\CodeMaze\DelegatesDemo\DelegatesDemo.ActionPracticalUsage\obj\Debug\net5.0\DelegatesDemo.ActionPracticalUsage.csproj.CoreCompileInputs.cache
+C:\MyStuff\Practice Projects\CodeMaze\DelegatesDemo\DelegatesDemo.ActionPracticalUsage\bin\Debug\net5.0\DelegatesDemo.ActionPracticalUsage.exe
+C:\MyStuff\Practice Projects\CodeMaze\DelegatesDemo\DelegatesDemo.ActionPracticalUsage\bin\Debug\net5.0\DelegatesDemo.ActionPracticalUsage.deps.json
+C:\MyStuff\Practice Projects\CodeMaze\DelegatesDemo\DelegatesDemo.ActionPracticalUsage\bin\Debug\net5.0\DelegatesDemo.ActionPracticalUsage.runtimeconfig.json
+C:\MyStuff\Practice Projects\CodeMaze\DelegatesDemo\DelegatesDemo.ActionPracticalUsage\bin\Debug\net5.0\DelegatesDemo.ActionPracticalUsage.runtimeconfig.dev.json
+C:\MyStuff\Practice Projects\CodeMaze\DelegatesDemo\DelegatesDemo.ActionPracticalUsage\bin\Debug\net5.0\DelegatesDemo.ActionPracticalUsage.dll
+C:\MyStuff\Practice Projects\CodeMaze\DelegatesDemo\DelegatesDemo.ActionPracticalUsage\bin\Debug\net5.0\ref\DelegatesDemo.ActionPracticalUsage.dll
+C:\MyStuff\Practice Projects\CodeMaze\DelegatesDemo\DelegatesDemo.ActionPracticalUsage\bin\Debug\net5.0\DelegatesDemo.ActionPracticalUsage.pdb
+C:\MyStuff\Practice Projects\CodeMaze\DelegatesDemo\DelegatesDemo.ActionPracticalUsage\obj\Debug\net5.0\DelegatesDemo.ActionPracticalUsage.dll
+C:\MyStuff\Practice Projects\CodeMaze\DelegatesDemo\DelegatesDemo.ActionPracticalUsage\obj\Debug\net5.0\ref\DelegatesDemo.ActionPracticalUsage.dll
+C:\MyStuff\Practice Projects\CodeMaze\DelegatesDemo\DelegatesDemo.ActionPracticalUsage\obj\Debug\net5.0\DelegatesDemo.ActionPracticalUsage.pdb
+C:\MyStuff\Practice Projects\CodeMaze\DelegatesDemo\DelegatesDemo.ActionPracticalUsage\obj\Debug\net5.0\DelegatesDemo.ActionPracticalUsage.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\MyStuff\Practice Projects\CodeMaze\DelegatesDemo\DelegatesDemo.ActionDemo\bin\Debug\net5.0\DelegatesDemo.ActionDemo.exe
+C:\MyStuff\Practice Projects\CodeMaze\DelegatesDemo\DelegatesDemo.ActionDemo\bin\Debug\net5.0\DelegatesDemo.ActionDemo.deps.json
+C:\MyStuff\Practice Projects\CodeMaze\DelegatesDemo\DelegatesDemo.ActionDemo\bin\Debug\net5.0\DelegatesDemo.ActionDemo.runtimeconfig.json
+C:\MyStuff\Practice Projects\CodeMaze\DelegatesDemo\DelegatesDemo.ActionDemo\bin\Debug\net5.0\DelegatesDemo.ActionDemo.runtimeconfig.dev.json
+C:\MyStuff\Practice Projects\CodeMaze\DelegatesDemo\DelegatesDemo.ActionDemo\bin\Debug\net5.0\DelegatesDemo.ActionDemo.dll
+C:\MyStuff\Practice Projects\CodeMaze\DelegatesDemo\DelegatesDemo.ActionDemo\bin\Debug\net5.0\ref\DelegatesDemo.ActionDemo.dll
+C:\MyStuff\Practice Projects\CodeMaze\DelegatesDemo\DelegatesDemo.ActionDemo\bin\Debug\net5.0\DelegatesDemo.ActionDemo.pdb
+C:\MyStuff\Practice Projects\CodeMaze\DelegatesDemo\DelegatesDemo.ActionDemo\obj\Debug\net5.0\DelegatesDemo.ActionDemo.csprojAssemblyReference.cache
+C:\MyStuff\Practice Projects\CodeMaze\DelegatesDemo\DelegatesDemo.ActionDemo\obj\Debug\net5.0\DelegatesDemo.ActionDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyStuff\Practice Projects\CodeMaze\DelegatesDemo\DelegatesDemo.ActionDemo\obj\Debug\net5.0\DelegatesDemo.ActionDemo.AssemblyInfoInputs.cache
+C:\MyStuff\Practice Projects\CodeMaze\DelegatesDemo\DelegatesDemo.ActionDemo\obj\Debug\net5.0\DelegatesDemo.ActionDemo.AssemblyInfo.cs
+C:\MyStuff\Practice Projects\CodeMaze\DelegatesDemo\DelegatesDemo.ActionDemo\obj\Debug\net5.0\DelegatesDemo.ActionDemo.csproj.CoreCompileInputs.cache
+C:\MyStuff\Practice Projects\CodeMaze\DelegatesDemo\DelegatesDemo.ActionDemo\obj\Debug\net5.0\DelegatesDemo.ActionDemo.dll
+C:\MyStuff\Practice Projects\CodeMaze\DelegatesDemo\DelegatesDemo.ActionDemo\obj\Debug\net5.0\ref\DelegatesDemo.ActionDemo.dll
+C:\MyStuff\Practice Projects\CodeMaze\DelegatesDemo\DelegatesDemo.ActionDemo\obj\Debug\net5.0\DelegatesDemo.ActionDemo.pdb
+C:\MyStuff\Practice Projects\CodeMaze\DelegatesDemo\DelegatesDemo.ActionDemo\obj\Debug\net5.0\DelegatesDemo.ActionDemo.genruntimeconfig.cache

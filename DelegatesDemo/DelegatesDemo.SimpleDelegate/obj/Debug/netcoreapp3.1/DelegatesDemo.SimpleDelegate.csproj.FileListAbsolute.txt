@@ -1,0 +1,13 @@
+C:\MyStuff\Practice Projects\CodeMaze\DelegatesDemo\DelegatesDemo.SimpleDelegate\bin\Debug\netcoreapp3.1\DelegatesDemo.SimpleDelegate.exe
+C:\MyStuff\Practice Projects\CodeMaze\DelegatesDemo\DelegatesDemo.SimpleDelegate\bin\Debug\netcoreapp3.1\DelegatesDemo.SimpleDelegate.deps.json
+C:\MyStuff\Practice Projects\CodeMaze\DelegatesDemo\DelegatesDemo.SimpleDelegate\bin\Debug\netcoreapp3.1\DelegatesDemo.SimpleDelegate.runtimeconfig.json
+C:\MyStuff\Practice Projects\CodeMaze\DelegatesDemo\DelegatesDemo.SimpleDelegate\bin\Debug\netcoreapp3.1\DelegatesDemo.SimpleDelegate.runtimeconfig.dev.json
+C:\MyStuff\Practice Projects\CodeMaze\DelegatesDemo\DelegatesDemo.SimpleDelegate\bin\Debug\netcoreapp3.1\DelegatesDemo.SimpleDelegate.dll
+C:\MyStuff\Practice Projects\CodeMaze\DelegatesDemo\DelegatesDemo.SimpleDelegate\bin\Debug\netcoreapp3.1\DelegatesDemo.SimpleDelegate.pdb
+C:\MyStuff\Practice Projects\CodeMaze\DelegatesDemo\DelegatesDemo.SimpleDelegate\obj\Debug\netcoreapp3.1\DelegatesDemo.SimpleDelegate.csprojAssemblyReference.cache
+C:\MyStuff\Practice Projects\CodeMaze\DelegatesDemo\DelegatesDemo.SimpleDelegate\obj\Debug\netcoreapp3.1\DelegatesDemo.SimpleDelegate.AssemblyInfoInputs.cache
+C:\MyStuff\Practice Projects\CodeMaze\DelegatesDemo\DelegatesDemo.SimpleDelegate\obj\Debug\netcoreapp3.1\DelegatesDemo.SimpleDelegate.AssemblyInfo.cs
+C:\MyStuff\Practice Projects\CodeMaze\DelegatesDemo\DelegatesDemo.SimpleDelegate\obj\Debug\netcoreapp3.1\DelegatesDemo.SimpleDelegate.csproj.CoreCompileInputs.cache
+C:\MyStuff\Practice Projects\CodeMaze\DelegatesDemo\DelegatesDemo.SimpleDelegate\obj\Debug\netcoreapp3.1\DelegatesDemo.SimpleDelegate.dll
+C:\MyStuff\Practice Projects\CodeMaze\DelegatesDemo\DelegatesDemo.SimpleDelegate\obj\Debug\netcoreapp3.1\DelegatesDemo.SimpleDelegate.pdb
+C:\MyStuff\Practice Projects\CodeMaze\DelegatesDemo\DelegatesDemo.SimpleDelegate\obj\Debug\netcoreapp3.1\DelegatesDemo.SimpleDelegate.genruntimeconfig.cache
