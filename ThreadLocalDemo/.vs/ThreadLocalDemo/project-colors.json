@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3d7224a4-5bbf-4171-96c8-1bb304fd3000": {
+      "ProjectGuid": "3d7224a4-5bbf-4171-96c8-1bb304fd3000",
+      "DisplayName": "ThreadLocalDemo",
+      "ColorIndex": 0
+    },
+    "41c628a8-6eb3-4eb7-9286-c427997c9e60": {
+      "ProjectGuid": "41c628a8-6eb3-4eb7-9286-c427997c9e60",
+      "DisplayName": "CustomContext",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

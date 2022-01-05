@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pYCVL+aBIJQQGSLCi5CrJM0CGdxVQlITGCt/BnIf/n0urd5lq7cWCNA3TvRjNbN5WrHSKl+t47bACS/UOVEpiw==",
+  "success": true,
+  "projectFilePath": "C:\\MyStuff\\Practice Projects\\dotnetcore\\ThreadLocalDemo\\CustomContext\\CustomContext.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chayan.adhikari\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

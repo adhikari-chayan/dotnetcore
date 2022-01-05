@@ -1,0 +1,16 @@
+C:\MyStuff\Practice Projects\dotnetcore\ThreadLocalDemo\CustomContext\bin\Debug\net5.0\CustomContext.exe
+C:\MyStuff\Practice Projects\dotnetcore\ThreadLocalDemo\CustomContext\bin\Debug\net5.0\CustomContext.deps.json
+C:\MyStuff\Practice Projects\dotnetcore\ThreadLocalDemo\CustomContext\bin\Debug\net5.0\CustomContext.runtimeconfig.json
+C:\MyStuff\Practice Projects\dotnetcore\ThreadLocalDemo\CustomContext\bin\Debug\net5.0\CustomContext.runtimeconfig.dev.json
+C:\MyStuff\Practice Projects\dotnetcore\ThreadLocalDemo\CustomContext\bin\Debug\net5.0\CustomContext.dll
+C:\MyStuff\Practice Projects\dotnetcore\ThreadLocalDemo\CustomContext\bin\Debug\net5.0\ref\CustomContext.dll
+C:\MyStuff\Practice Projects\dotnetcore\ThreadLocalDemo\CustomContext\bin\Debug\net5.0\CustomContext.pdb
+C:\MyStuff\Practice Projects\dotnetcore\ThreadLocalDemo\CustomContext\obj\Debug\net5.0\CustomContext.csproj.AssemblyReference.cache
+C:\MyStuff\Practice Projects\dotnetcore\ThreadLocalDemo\CustomContext\obj\Debug\net5.0\CustomContext.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyStuff\Practice Projects\dotnetcore\ThreadLocalDemo\CustomContext\obj\Debug\net5.0\CustomContext.AssemblyInfoInputs.cache
+C:\MyStuff\Practice Projects\dotnetcore\ThreadLocalDemo\CustomContext\obj\Debug\net5.0\CustomContext.AssemblyInfo.cs
+C:\MyStuff\Practice Projects\dotnetcore\ThreadLocalDemo\CustomContext\obj\Debug\net5.0\CustomContext.csproj.CoreCompileInputs.cache
+C:\MyStuff\Practice Projects\dotnetcore\ThreadLocalDemo\CustomContext\obj\Debug\net5.0\CustomContext.dll
+C:\MyStuff\Practice Projects\dotnetcore\ThreadLocalDemo\CustomContext\obj\Debug\net5.0\ref\CustomContext.dll
+C:\MyStuff\Practice Projects\dotnetcore\ThreadLocalDemo\CustomContext\obj\Debug\net5.0\CustomContext.pdb
+C:\MyStuff\Practice Projects\dotnetcore\ThreadLocalDemo\CustomContext\obj\Debug\net5.0\CustomContext.genruntimeconfig.cache

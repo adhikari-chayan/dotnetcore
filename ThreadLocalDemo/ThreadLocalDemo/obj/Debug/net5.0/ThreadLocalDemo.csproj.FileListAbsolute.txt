@@ -1,0 +1,16 @@
+C:\MyStuff\Practice Projects\dotnetcore\ThreadLocalDemo\ThreadLocalDemo\bin\Debug\net5.0\ThreadLocalDemo.exe
+C:\MyStuff\Practice Projects\dotnetcore\ThreadLocalDemo\ThreadLocalDemo\bin\Debug\net5.0\ThreadLocalDemo.deps.json
+C:\MyStuff\Practice Projects\dotnetcore\ThreadLocalDemo\ThreadLocalDemo\bin\Debug\net5.0\ThreadLocalDemo.runtimeconfig.json
+C:\MyStuff\Practice Projects\dotnetcore\ThreadLocalDemo\ThreadLocalDemo\bin\Debug\net5.0\ThreadLocalDemo.runtimeconfig.dev.json
+C:\MyStuff\Practice Projects\dotnetcore\ThreadLocalDemo\ThreadLocalDemo\bin\Debug\net5.0\ThreadLocalDemo.dll
+C:\MyStuff\Practice Projects\dotnetcore\ThreadLocalDemo\ThreadLocalDemo\bin\Debug\net5.0\ref\ThreadLocalDemo.dll
+C:\MyStuff\Practice Projects\dotnetcore\ThreadLocalDemo\ThreadLocalDemo\bin\Debug\net5.0\ThreadLocalDemo.pdb
+C:\MyStuff\Practice Projects\dotnetcore\ThreadLocalDemo\ThreadLocalDemo\obj\Debug\net5.0\ThreadLocalDemo.csproj.AssemblyReference.cache
+C:\MyStuff\Practice Projects\dotnetcore\ThreadLocalDemo\ThreadLocalDemo\obj\Debug\net5.0\ThreadLocalDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyStuff\Practice Projects\dotnetcore\ThreadLocalDemo\ThreadLocalDemo\obj\Debug\net5.0\ThreadLocalDemo.AssemblyInfoInputs.cache
+C:\MyStuff\Practice Projects\dotnetcore\ThreadLocalDemo\ThreadLocalDemo\obj\Debug\net5.0\ThreadLocalDemo.AssemblyInfo.cs
+C:\MyStuff\Practice Projects\dotnetcore\ThreadLocalDemo\ThreadLocalDemo\obj\Debug\net5.0\ThreadLocalDemo.csproj.CoreCompileInputs.cache
+C:\MyStuff\Practice Projects\dotnetcore\ThreadLocalDemo\ThreadLocalDemo\obj\Debug\net5.0\ThreadLocalDemo.dll
+C:\MyStuff\Practice Projects\dotnetcore\ThreadLocalDemo\ThreadLocalDemo\obj\Debug\net5.0\ref\ThreadLocalDemo.dll
+C:\MyStuff\Practice Projects\dotnetcore\ThreadLocalDemo\ThreadLocalDemo\obj\Debug\net5.0\ThreadLocalDemo.pdb
+C:\MyStuff\Practice Projects\dotnetcore\ThreadLocalDemo\ThreadLocalDemo\obj\Debug\net5.0\ThreadLocalDemo.genruntimeconfig.cache
