@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZnmGPYJu6tUuqEL/k/4dHWS817OFBb4yabaQH7lGNuzpuVqig+oIt31AC14t7DBSJbgEErrNqdT8Hf0SsinGJA==",
+  "dgSpecHash": "JuAaxNeqSOUv1SCTxH0F7fvfwELSZvY5vWl+XFO5qT1DQdd9Vq4WRB+mFxkd+HMYO0lSTcB4sFIlAqCIA+DpCA==",
   "success": true,
-  "projectFilePath": "C:\\MyStuff\\Practice Projects\\CodeMaze\\DelegatesDemo\\DelegatesDemo.FuncDemo\\DelegatesDemo.FuncDemo.csproj",
+  "projectFilePath": "C:\\MyStuff\\Practice Projects\\CodeMaze\\CodeMazeGuides\\csharp-advanced-topics\\DelegatesDemo\\DelegatesDemo.FuncDemo\\DelegatesDemo.FuncDemo.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

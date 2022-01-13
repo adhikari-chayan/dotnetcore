@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CWBmLfeeIaXyKjfwpnIC/h5zjtdYppWcx8y1BqEt7aRVaiteOZ2pWXKDDbL8Ym+UT5V0OgjzuD2Mu4ldNcXswA==",
+  "dgSpecHash": "6UtFStZjfXMGSQgw6XIvAAjuOTPCcFI7vGhU/7FqtsvFLtxCeufES4A8mx18K0lBLlKSmhQsgveoThUsIqZxUQ==",
   "success": true,
-  "projectFilePath": "C:\\MyStuff\\Practice Projects\\CodeMaze\\DelegatesDemo\\DelegatesDemo.ActionPracticalUsage\\DelegatesDemo.ActionPracticalUsage.csproj",
+  "projectFilePath": "C:\\MyStuff\\Practice Projects\\CodeMaze\\CodeMazeGuides\\csharp-advanced-topics\\DelegatesDemo\\DelegatesDemo.ActionPracticalUsage\\DelegatesDemo.ActionPracticalUsage.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
