@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7QNiWcUg3yKkI4SqnaXOUPbPNaS6tf4l3tIIbdEgAo7T2AiU2nFyeO5karxj8h08RUKg1gbAERCBuO9GF17Dgw==",
+  "success": true,
+  "projectFilePath": "C:\\MyStuff\\Practice Projects\\dotnetcore\\ThreadingDemos\\AlbahariDemos\\GettingStarted\\ThreadSafe\\ThreadSafe.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chayan.adhikari\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

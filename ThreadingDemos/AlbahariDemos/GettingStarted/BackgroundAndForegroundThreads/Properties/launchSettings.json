@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "BackgroundAndForegroundThreads": {
+      "commandName": "Project",
+      "commandLineArgs": "arg1"
+    }
+  }
+}

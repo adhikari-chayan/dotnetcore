@@ -1,0 +1,15 @@
+C:\MyStuff\Practice Projects\dotnetcore\ThreadingDemos\AlbahariDemos\GettingStarted\JoinAndSleep\bin\Debug\net5.0\JoinAndSleep.exe
+C:\MyStuff\Practice Projects\dotnetcore\ThreadingDemos\AlbahariDemos\GettingStarted\JoinAndSleep\bin\Debug\net5.0\JoinAndSleep.deps.json
+C:\MyStuff\Practice Projects\dotnetcore\ThreadingDemos\AlbahariDemos\GettingStarted\JoinAndSleep\bin\Debug\net5.0\JoinAndSleep.runtimeconfig.json
+C:\MyStuff\Practice Projects\dotnetcore\ThreadingDemos\AlbahariDemos\GettingStarted\JoinAndSleep\bin\Debug\net5.0\JoinAndSleep.runtimeconfig.dev.json
+C:\MyStuff\Practice Projects\dotnetcore\ThreadingDemos\AlbahariDemos\GettingStarted\JoinAndSleep\bin\Debug\net5.0\JoinAndSleep.dll
+C:\MyStuff\Practice Projects\dotnetcore\ThreadingDemos\AlbahariDemos\GettingStarted\JoinAndSleep\bin\Debug\net5.0\ref\JoinAndSleep.dll
+C:\MyStuff\Practice Projects\dotnetcore\ThreadingDemos\AlbahariDemos\GettingStarted\JoinAndSleep\bin\Debug\net5.0\JoinAndSleep.pdb
+C:\MyStuff\Practice Projects\dotnetcore\ThreadingDemos\AlbahariDemos\GettingStarted\JoinAndSleep\obj\Debug\net5.0\JoinAndSleep.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyStuff\Practice Projects\dotnetcore\ThreadingDemos\AlbahariDemos\GettingStarted\JoinAndSleep\obj\Debug\net5.0\JoinAndSleep.AssemblyInfoInputs.cache
+C:\MyStuff\Practice Projects\dotnetcore\ThreadingDemos\AlbahariDemos\GettingStarted\JoinAndSleep\obj\Debug\net5.0\JoinAndSleep.AssemblyInfo.cs
+C:\MyStuff\Practice Projects\dotnetcore\ThreadingDemos\AlbahariDemos\GettingStarted\JoinAndSleep\obj\Debug\net5.0\JoinAndSleep.csproj.CoreCompileInputs.cache
+C:\MyStuff\Practice Projects\dotnetcore\ThreadingDemos\AlbahariDemos\GettingStarted\JoinAndSleep\obj\Debug\net5.0\JoinAndSleep.dll
+C:\MyStuff\Practice Projects\dotnetcore\ThreadingDemos\AlbahariDemos\GettingStarted\JoinAndSleep\obj\Debug\net5.0\ref\JoinAndSleep.dll
+C:\MyStuff\Practice Projects\dotnetcore\ThreadingDemos\AlbahariDemos\GettingStarted\JoinAndSleep\obj\Debug\net5.0\JoinAndSleep.pdb
+C:\MyStuff\Practice Projects\dotnetcore\ThreadingDemos\AlbahariDemos\GettingStarted\JoinAndSleep\obj\Debug\net5.0\JoinAndSleep.genruntimeconfig.cache

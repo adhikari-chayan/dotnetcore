@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ThXKBBLRtTtTpQn0OCZzGB1it8LAlCeZkD+Nxe3IJKx7hh62EI68IGTYxmyAw0CJJcxeT2Maa0B+Yjvs4t9GSQ==",
+  "success": true,
+  "projectFilePath": "C:\\MyStuff\\Practice Projects\\dotnetcore\\ThreadingDemos\\AlbahariDemos\\BasicSynchronization\\ReaderWriterLockSlimDemo\\ReaderWriterLockSlimDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chayan.adhikari\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YpFrrfPBfXOTcoFB9iTTjo1ViN1cDPd/IVQgpAoKKKJ0367KQGP+NYJR3r9gdnrYhEC8S7vzc9R5RLL8r46k+w==",
+  "success": true,
+  "projectFilePath": "C:\\MyStuff\\Practice Projects\\dotnetcore\\ThreadingDemos\\AlbahariDemos\\BasicSynchronization\\ProducerConsumerQueue\\ProducerConsumerQueue.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chayan.adhikari\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

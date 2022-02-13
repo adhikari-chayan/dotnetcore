@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6td3DAqpP5wtAn0AeIEcilJErsbZFyon3dikY1dKlYdap+iUeu8nbGwpjdznthO4gjfv17mtRO6YVL9cxUlPGA==",
+  "success": true,
+  "projectFilePath": "C:\\MyStuff\\Practice Projects\\dotnetcore\\ThreadingDemos\\AlbahariDemos\\GettingStarted\\BackgroundAndForegroundThreads\\BackgroundAndForegroundThreads.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chayan.adhikari\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

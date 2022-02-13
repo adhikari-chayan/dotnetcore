@@ -1,0 +1,16 @@
+C:\MyStuff\Practice Projects\dotnetcore\ThreadingDemos\AlbahariDemos\BasicSynchronization\AutoResetEventDemo\bin\Debug\net5.0\AutoResetEventDemo.exe
+C:\MyStuff\Practice Projects\dotnetcore\ThreadingDemos\AlbahariDemos\BasicSynchronization\AutoResetEventDemo\bin\Debug\net5.0\AutoResetEventDemo.deps.json
+C:\MyStuff\Practice Projects\dotnetcore\ThreadingDemos\AlbahariDemos\BasicSynchronization\AutoResetEventDemo\bin\Debug\net5.0\AutoResetEventDemo.runtimeconfig.json
+C:\MyStuff\Practice Projects\dotnetcore\ThreadingDemos\AlbahariDemos\BasicSynchronization\AutoResetEventDemo\bin\Debug\net5.0\AutoResetEventDemo.runtimeconfig.dev.json
+C:\MyStuff\Practice Projects\dotnetcore\ThreadingDemos\AlbahariDemos\BasicSynchronization\AutoResetEventDemo\bin\Debug\net5.0\AutoResetEventDemo.dll
+C:\MyStuff\Practice Projects\dotnetcore\ThreadingDemos\AlbahariDemos\BasicSynchronization\AutoResetEventDemo\bin\Debug\net5.0\ref\AutoResetEventDemo.dll
+C:\MyStuff\Practice Projects\dotnetcore\ThreadingDemos\AlbahariDemos\BasicSynchronization\AutoResetEventDemo\bin\Debug\net5.0\AutoResetEventDemo.pdb
+C:\MyStuff\Practice Projects\dotnetcore\ThreadingDemos\AlbahariDemos\BasicSynchronization\AutoResetEventDemo\obj\Debug\net5.0\AutoResetEventDemo.csproj.AssemblyReference.cache
+C:\MyStuff\Practice Projects\dotnetcore\ThreadingDemos\AlbahariDemos\BasicSynchronization\AutoResetEventDemo\obj\Debug\net5.0\AutoResetEventDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyStuff\Practice Projects\dotnetcore\ThreadingDemos\AlbahariDemos\BasicSynchronization\AutoResetEventDemo\obj\Debug\net5.0\AutoResetEventDemo.AssemblyInfoInputs.cache
+C:\MyStuff\Practice Projects\dotnetcore\ThreadingDemos\AlbahariDemos\BasicSynchronization\AutoResetEventDemo\obj\Debug\net5.0\AutoResetEventDemo.AssemblyInfo.cs
+C:\MyStuff\Practice Projects\dotnetcore\ThreadingDemos\AlbahariDemos\BasicSynchronization\AutoResetEventDemo\obj\Debug\net5.0\AutoResetEventDemo.csproj.CoreCompileInputs.cache
+C:\MyStuff\Practice Projects\dotnetcore\ThreadingDemos\AlbahariDemos\BasicSynchronization\AutoResetEventDemo\obj\Debug\net5.0\AutoResetEventDemo.dll
+C:\MyStuff\Practice Projects\dotnetcore\ThreadingDemos\AlbahariDemos\BasicSynchronization\AutoResetEventDemo\obj\Debug\net5.0\ref\AutoResetEventDemo.dll
+C:\MyStuff\Practice Projects\dotnetcore\ThreadingDemos\AlbahariDemos\BasicSynchronization\AutoResetEventDemo\obj\Debug\net5.0\AutoResetEventDemo.pdb
+C:\MyStuff\Practice Projects\dotnetcore\ThreadingDemos\AlbahariDemos\BasicSynchronization\AutoResetEventDemo\obj\Debug\net5.0\AutoResetEventDemo.genruntimeconfig.cache

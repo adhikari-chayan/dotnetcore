@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Xo/3deBNeT4LRhzXxnUn6Cwp6+7Fdxn7KTugctirKI6klcqbtiHFXaUgoY2qGprfmLdQThzmutVNUXgszOZCEg==",
+  "success": true,
+  "projectFilePath": "C:\\MyStuff\\Practice Projects\\dotnetcore\\ThreadingDemos\\AlbahariDemos\\GettingStarted\\ThreadsSharingData\\ThreadsSharingData.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chayan.adhikari\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

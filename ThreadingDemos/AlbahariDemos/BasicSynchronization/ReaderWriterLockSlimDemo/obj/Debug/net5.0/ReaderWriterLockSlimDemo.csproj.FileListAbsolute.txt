@@ -1,0 +1,16 @@
+C:\MyStuff\Practice Projects\dotnetcore\ThreadingDemos\AlbahariDemos\BasicSynchronization\ReaderWriterLockSlimDemo\bin\Debug\net5.0\ReaderWriterLockSlimDemo.exe
+C:\MyStuff\Practice Projects\dotnetcore\ThreadingDemos\AlbahariDemos\BasicSynchronization\ReaderWriterLockSlimDemo\bin\Debug\net5.0\ReaderWriterLockSlimDemo.deps.json
+C:\MyStuff\Practice Projects\dotnetcore\ThreadingDemos\AlbahariDemos\BasicSynchronization\ReaderWriterLockSlimDemo\bin\Debug\net5.0\ReaderWriterLockSlimDemo.runtimeconfig.json
+C:\MyStuff\Practice Projects\dotnetcore\ThreadingDemos\AlbahariDemos\BasicSynchronization\ReaderWriterLockSlimDemo\bin\Debug\net5.0\ReaderWriterLockSlimDemo.runtimeconfig.dev.json
+C:\MyStuff\Practice Projects\dotnetcore\ThreadingDemos\AlbahariDemos\BasicSynchronization\ReaderWriterLockSlimDemo\bin\Debug\net5.0\ReaderWriterLockSlimDemo.dll
+C:\MyStuff\Practice Projects\dotnetcore\ThreadingDemos\AlbahariDemos\BasicSynchronization\ReaderWriterLockSlimDemo\bin\Debug\net5.0\ref\ReaderWriterLockSlimDemo.dll
+C:\MyStuff\Practice Projects\dotnetcore\ThreadingDemos\AlbahariDemos\BasicSynchronization\ReaderWriterLockSlimDemo\bin\Debug\net5.0\ReaderWriterLockSlimDemo.pdb
+C:\MyStuff\Practice Projects\dotnetcore\ThreadingDemos\AlbahariDemos\BasicSynchronization\ReaderWriterLockSlimDemo\obj\Debug\net5.0\ReaderWriterLockSlimDemo.csproj.AssemblyReference.cache
+C:\MyStuff\Practice Projects\dotnetcore\ThreadingDemos\AlbahariDemos\BasicSynchronization\ReaderWriterLockSlimDemo\obj\Debug\net5.0\ReaderWriterLockSlimDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyStuff\Practice Projects\dotnetcore\ThreadingDemos\AlbahariDemos\BasicSynchronization\ReaderWriterLockSlimDemo\obj\Debug\net5.0\ReaderWriterLockSlimDemo.AssemblyInfoInputs.cache
+C:\MyStuff\Practice Projects\dotnetcore\ThreadingDemos\AlbahariDemos\BasicSynchronization\ReaderWriterLockSlimDemo\obj\Debug\net5.0\ReaderWriterLockSlimDemo.AssemblyInfo.cs
+C:\MyStuff\Practice Projects\dotnetcore\ThreadingDemos\AlbahariDemos\BasicSynchronization\ReaderWriterLockSlimDemo\obj\Debug\net5.0\ReaderWriterLockSlimDemo.csproj.CoreCompileInputs.cache
+C:\MyStuff\Practice Projects\dotnetcore\ThreadingDemos\AlbahariDemos\BasicSynchronization\ReaderWriterLockSlimDemo\obj\Debug\net5.0\ReaderWriterLockSlimDemo.dll
+C:\MyStuff\Practice Projects\dotnetcore\ThreadingDemos\AlbahariDemos\BasicSynchronization\ReaderWriterLockSlimDemo\obj\Debug\net5.0\ref\ReaderWriterLockSlimDemo.dll
+C:\MyStuff\Practice Projects\dotnetcore\ThreadingDemos\AlbahariDemos\BasicSynchronization\ReaderWriterLockSlimDemo\obj\Debug\net5.0\ReaderWriterLockSlimDemo.pdb
+C:\MyStuff\Practice Projects\dotnetcore\ThreadingDemos\AlbahariDemos\BasicSynchronization\ReaderWriterLockSlimDemo\obj\Debug\net5.0\ReaderWriterLockSlimDemo.genruntimeconfig.cache

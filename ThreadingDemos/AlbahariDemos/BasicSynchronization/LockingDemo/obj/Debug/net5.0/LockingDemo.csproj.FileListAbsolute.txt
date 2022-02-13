@@ -1,0 +1,16 @@
+C:\MyStuff\Practice Projects\dotnetcore\ThreadingDemos\AlbahariDemos\BasicSynchronization\LockingDemo\bin\Debug\net5.0\LockingDemo.exe
+C:\MyStuff\Practice Projects\dotnetcore\ThreadingDemos\AlbahariDemos\BasicSynchronization\LockingDemo\bin\Debug\net5.0\LockingDemo.deps.json
+C:\MyStuff\Practice Projects\dotnetcore\ThreadingDemos\AlbahariDemos\BasicSynchronization\LockingDemo\bin\Debug\net5.0\LockingDemo.runtimeconfig.json
+C:\MyStuff\Practice Projects\dotnetcore\ThreadingDemos\AlbahariDemos\BasicSynchronization\LockingDemo\bin\Debug\net5.0\LockingDemo.runtimeconfig.dev.json
+C:\MyStuff\Practice Projects\dotnetcore\ThreadingDemos\AlbahariDemos\BasicSynchronization\LockingDemo\bin\Debug\net5.0\LockingDemo.dll
+C:\MyStuff\Practice Projects\dotnetcore\ThreadingDemos\AlbahariDemos\BasicSynchronization\LockingDemo\bin\Debug\net5.0\ref\LockingDemo.dll
+C:\MyStuff\Practice Projects\dotnetcore\ThreadingDemos\AlbahariDemos\BasicSynchronization\LockingDemo\bin\Debug\net5.0\LockingDemo.pdb
+C:\MyStuff\Practice Projects\dotnetcore\ThreadingDemos\AlbahariDemos\BasicSynchronization\LockingDemo\obj\Debug\net5.0\LockingDemo.csproj.AssemblyReference.cache
+C:\MyStuff\Practice Projects\dotnetcore\ThreadingDemos\AlbahariDemos\BasicSynchronization\LockingDemo\obj\Debug\net5.0\LockingDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyStuff\Practice Projects\dotnetcore\ThreadingDemos\AlbahariDemos\BasicSynchronization\LockingDemo\obj\Debug\net5.0\LockingDemo.AssemblyInfoInputs.cache
+C:\MyStuff\Practice Projects\dotnetcore\ThreadingDemos\AlbahariDemos\BasicSynchronization\LockingDemo\obj\Debug\net5.0\LockingDemo.AssemblyInfo.cs
+C:\MyStuff\Practice Projects\dotnetcore\ThreadingDemos\AlbahariDemos\BasicSynchronization\LockingDemo\obj\Debug\net5.0\LockingDemo.csproj.CoreCompileInputs.cache
+C:\MyStuff\Practice Projects\dotnetcore\ThreadingDemos\AlbahariDemos\BasicSynchronization\LockingDemo\obj\Debug\net5.0\LockingDemo.dll
+C:\MyStuff\Practice Projects\dotnetcore\ThreadingDemos\AlbahariDemos\BasicSynchronization\LockingDemo\obj\Debug\net5.0\ref\LockingDemo.dll
+C:\MyStuff\Practice Projects\dotnetcore\ThreadingDemos\AlbahariDemos\BasicSynchronization\LockingDemo\obj\Debug\net5.0\LockingDemo.pdb
+C:\MyStuff\Practice Projects\dotnetcore\ThreadingDemos\AlbahariDemos\BasicSynchronization\LockingDemo\obj\Debug\net5.0\LockingDemo.genruntimeconfig.cache

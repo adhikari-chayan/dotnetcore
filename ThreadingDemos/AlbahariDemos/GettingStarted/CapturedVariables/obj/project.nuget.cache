@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "x9FHyIQv4WSpARthspwF4uNXjDQwI7pSnVwvdBZNiUl3wPsicvH//L0TWbBnNIMHx7hW3qAU+s/9cbswt3Gz2Q==",
+  "success": true,
+  "projectFilePath": "C:\\MyStuff\\Practice Projects\\dotnetcore\\ThreadingDemos\\AlbahariDemos\\GettingStarted\\CapturedVariables\\CapturedVariables.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chayan.adhikari\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

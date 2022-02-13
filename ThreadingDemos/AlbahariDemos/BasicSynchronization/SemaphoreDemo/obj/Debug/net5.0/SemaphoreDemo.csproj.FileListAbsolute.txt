@@ -1,0 +1,16 @@
+C:\MyStuff\Practice Projects\dotnetcore\ThreadingDemos\AlbahariDemos\BasicSynchronization\SemaphoreDemo\bin\Debug\net5.0\SemaphoreDemo.exe
+C:\MyStuff\Practice Projects\dotnetcore\ThreadingDemos\AlbahariDemos\BasicSynchronization\SemaphoreDemo\bin\Debug\net5.0\SemaphoreDemo.deps.json
+C:\MyStuff\Practice Projects\dotnetcore\ThreadingDemos\AlbahariDemos\BasicSynchronization\SemaphoreDemo\bin\Debug\net5.0\SemaphoreDemo.runtimeconfig.json
+C:\MyStuff\Practice Projects\dotnetcore\ThreadingDemos\AlbahariDemos\BasicSynchronization\SemaphoreDemo\bin\Debug\net5.0\SemaphoreDemo.runtimeconfig.dev.json
+C:\MyStuff\Practice Projects\dotnetcore\ThreadingDemos\AlbahariDemos\BasicSynchronization\SemaphoreDemo\bin\Debug\net5.0\SemaphoreDemo.dll
+C:\MyStuff\Practice Projects\dotnetcore\ThreadingDemos\AlbahariDemos\BasicSynchronization\SemaphoreDemo\bin\Debug\net5.0\ref\SemaphoreDemo.dll
+C:\MyStuff\Practice Projects\dotnetcore\ThreadingDemos\AlbahariDemos\BasicSynchronization\SemaphoreDemo\bin\Debug\net5.0\SemaphoreDemo.pdb
+C:\MyStuff\Practice Projects\dotnetcore\ThreadingDemos\AlbahariDemos\BasicSynchronization\SemaphoreDemo\obj\Debug\net5.0\SemaphoreDemo.csproj.AssemblyReference.cache
+C:\MyStuff\Practice Projects\dotnetcore\ThreadingDemos\AlbahariDemos\BasicSynchronization\SemaphoreDemo\obj\Debug\net5.0\SemaphoreDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyStuff\Practice Projects\dotnetcore\ThreadingDemos\AlbahariDemos\BasicSynchronization\SemaphoreDemo\obj\Debug\net5.0\SemaphoreDemo.AssemblyInfoInputs.cache
+C:\MyStuff\Practice Projects\dotnetcore\ThreadingDemos\AlbahariDemos\BasicSynchronization\SemaphoreDemo\obj\Debug\net5.0\SemaphoreDemo.AssemblyInfo.cs
+C:\MyStuff\Practice Projects\dotnetcore\ThreadingDemos\AlbahariDemos\BasicSynchronization\SemaphoreDemo\obj\Debug\net5.0\SemaphoreDemo.csproj.CoreCompileInputs.cache
+C:\MyStuff\Practice Projects\dotnetcore\ThreadingDemos\AlbahariDemos\BasicSynchronization\SemaphoreDemo\obj\Debug\net5.0\SemaphoreDemo.dll
+C:\MyStuff\Practice Projects\dotnetcore\ThreadingDemos\AlbahariDemos\BasicSynchronization\SemaphoreDemo\obj\Debug\net5.0\ref\SemaphoreDemo.dll
+C:\MyStuff\Practice Projects\dotnetcore\ThreadingDemos\AlbahariDemos\BasicSynchronization\SemaphoreDemo\obj\Debug\net5.0\SemaphoreDemo.pdb
+C:\MyStuff\Practice Projects\dotnetcore\ThreadingDemos\AlbahariDemos\BasicSynchronization\SemaphoreDemo\obj\Debug\net5.0\SemaphoreDemo.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rroBW2v9aQSfVNmgO/jJXCNzv15YqvSz3vHsLQCeKqys34OiKEwGE+cb6/UGK+GeFIYuaR3PmG253hqVymDWlQ==",
+  "success": true,
+  "projectFilePath": "C:\\MyStuff\\Practice Projects\\dotnetcore\\ThreadingDemos\\AlbahariDemos\\BasicSynchronization\\ThreadSafeWithLocking\\ThreadSafeWithLocking.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chayan.adhikari\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

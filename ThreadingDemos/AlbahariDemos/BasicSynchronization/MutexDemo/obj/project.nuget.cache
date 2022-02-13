@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TZf7Ggqr/8t/pEYTY2ZTd+40Sd3LujDZj45+Kv4O749hHYYR/Q8sBWBNzAASOpwrFX5nNOYZpzSanV+umeMjyA==",
+  "success": true,
+  "projectFilePath": "C:\\MyStuff\\Practice Projects\\dotnetcore\\ThreadingDemos\\AlbahariDemos\\BasicSynchronization\\MutexDemo\\MutexDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chayan.adhikari\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

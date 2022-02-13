@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6d53e99b-c9f5-4581-9b70-78a65f6e0f33": {
+      "ProjectGuid": "6d53e99b-c9f5-4581-9b70-78a65f6e0f33",
+      "DisplayName": "LockingDemo",
+      "ColorIndex": 0
+    },
+    "e8013932-94d8-40d3-8718-f39708afb56d": {
+      "ProjectGuid": "e8013932-94d8-40d3-8718-f39708afb56d",
+      "DisplayName": "MutexDemo",
+      "ColorIndex": 1
+    },
+    "b6d9b58e-4d71-48c5-86f3-2d197da81ae0": {
+      "ProjectGuid": "b6d9b58e-4d71-48c5-86f3-2d197da81ae0",
+      "DisplayName": "SemaphoreDemo",
+      "ColorIndex": 2
+    },
+    "3c231592-f435-4de6-aabe-a06b1a42603b": {
+      "ProjectGuid": "3c231592-f435-4de6-aabe-a06b1a42603b",
+      "DisplayName": "ThreadSafeWithLocking",
+      "ColorIndex": 3
+    },
+    "44e2d503-9477-42a0-874c-1233e111a0f3": {
+      "ProjectGuid": "44e2d503-9477-42a0-874c-1233e111a0f3",
+      "DisplayName": "AutoResetEventDemo",
+      "ColorIndex": 4
+    },
+    "b3d4cd6e-e4c8-40d7-9c43-82a0bceb1742": {
+      "ProjectGuid": "b3d4cd6e-e4c8-40d7-9c43-82a0bceb1742",
+      "DisplayName": "TwoWaySignaling",
+      "ColorIndex": 5
+    },
+    "301b3e1c-3c61-4a1d-a9e0-eae1d106cd5b": {
+      "ProjectGuid": "301b3e1c-3c61-4a1d-a9e0-eae1d106cd5b",
+      "DisplayName": "ProducerConsumerQueue",
+      "ColorIndex": 6
+    },
+    "5ebf6fd3-d103-4e57-904d-8301bd6b4dff": {
+      "ProjectGuid": "5ebf6fd3-d103-4e57-904d-8301bd6b4dff",
+      "DisplayName": "ReaderWriterLockSlimDemo",
+      "ColorIndex": 7
+    }
+  },
+  "NextColorIndex": 8
+}

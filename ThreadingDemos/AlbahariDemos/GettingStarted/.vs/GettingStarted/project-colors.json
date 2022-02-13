@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "bda2c831-4a54-4b32-85fc-7305b2998bd6": {
+      "ProjectGuid": "bda2c831-4a54-4b32-85fc-7305b2998bd6",
+      "DisplayName": "ThreadTest",
+      "ColorIndex": 0
+    },
+    "0c9a17cd-ca60-489f-9f3f-6aab96ff3baf": {
+      "ProjectGuid": "0c9a17cd-ca60-489f-9f3f-6aab96ff3baf",
+      "DisplayName": "SameMethodDifferentThread",
+      "ColorIndex": 1
+    },
+    "f5e600ae-9918-426f-af28-cf4612d0212b": {
+      "ProjectGuid": "f5e600ae-9918-426f-af28-cf4612d0212b",
+      "DisplayName": "ThreadsSharingData",
+      "ColorIndex": 2
+    },
+    "fbbfa1eb-0bae-4277-9235-a078c58d55c3": {
+      "ProjectGuid": "fbbfa1eb-0bae-4277-9235-a078c58d55c3",
+      "DisplayName": "ThreadSafe",
+      "ColorIndex": 3
+    },
+    "4eb929a3-d0cb-4717-8522-152464d37f3a": {
+      "ProjectGuid": "4eb929a3-d0cb-4717-8522-152464d37f3a",
+      "DisplayName": "JoinAndSleep",
+      "ColorIndex": 4
+    },
+    "57e691d5-88b0-47c4-aee2-03a68d411de6": {
+      "ProjectGuid": "57e691d5-88b0-47c4-aee2-03a68d411de6",
+      "DisplayName": "PassingDataToThread",
+      "ColorIndex": 5
+    },
+    "62a9c45c-9bc8-4a38-9297-f71d15800a9c": {
+      "ProjectGuid": "62a9c45c-9bc8-4a38-9297-f71d15800a9c",
+      "DisplayName": "CapturedVariables",
+      "ColorIndex": 6
+    },
+    "5d1df169-4560-4183-90e4-236c614c5b46": {
+      "ProjectGuid": "5d1df169-4560-4183-90e4-236c614c5b46",
+      "DisplayName": "BackgroundAndForegroundThreads",
+      "ColorIndex": 7
+    },
+    "2cc9d5f9-a338-4df5-8e56-191650e35bd1": {
+      "ProjectGuid": "2cc9d5f9-a338-4df5-8e56-191650e35bd1",
+      "DisplayName": "ExceptionHandling",
+      "ColorIndex": 8
+    },
+    "930826b2-b90f-4fbf-8937-dab1844ac6e9": {
+      "ProjectGuid": "930826b2-b90f-4fbf-8937-dab1844ac6e9",
+      "DisplayName": "ThreadPoolViaTPL",
+      "ColorIndex": 9
+    },
+    "8629ceb9-6ed1-40c5-b096-eeb204acc373": {
+      "ProjectGuid": "8629ceb9-6ed1-40c5-b096-eeb204acc373",
+      "DisplayName": "ThreadPoolWithoutTPL",
+      "ColorIndex": 10
+    }
+  },
+  "NextColorIndex": 11
+}

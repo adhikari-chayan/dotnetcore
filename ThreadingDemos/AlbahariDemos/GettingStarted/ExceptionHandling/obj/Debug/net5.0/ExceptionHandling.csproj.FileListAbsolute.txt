@@ -1,0 +1,15 @@
+C:\MyStuff\Practice Projects\dotnetcore\ThreadingDemos\AlbahariDemos\GettingStarted\ExceptionHandling\bin\Debug\net5.0\ExceptionHandling.exe
+C:\MyStuff\Practice Projects\dotnetcore\ThreadingDemos\AlbahariDemos\GettingStarted\ExceptionHandling\bin\Debug\net5.0\ExceptionHandling.deps.json
+C:\MyStuff\Practice Projects\dotnetcore\ThreadingDemos\AlbahariDemos\GettingStarted\ExceptionHandling\bin\Debug\net5.0\ExceptionHandling.runtimeconfig.json
+C:\MyStuff\Practice Projects\dotnetcore\ThreadingDemos\AlbahariDemos\GettingStarted\ExceptionHandling\bin\Debug\net5.0\ExceptionHandling.runtimeconfig.dev.json
+C:\MyStuff\Practice Projects\dotnetcore\ThreadingDemos\AlbahariDemos\GettingStarted\ExceptionHandling\bin\Debug\net5.0\ExceptionHandling.dll
+C:\MyStuff\Practice Projects\dotnetcore\ThreadingDemos\AlbahariDemos\GettingStarted\ExceptionHandling\bin\Debug\net5.0\ref\ExceptionHandling.dll
+C:\MyStuff\Practice Projects\dotnetcore\ThreadingDemos\AlbahariDemos\GettingStarted\ExceptionHandling\bin\Debug\net5.0\ExceptionHandling.pdb
+C:\MyStuff\Practice Projects\dotnetcore\ThreadingDemos\AlbahariDemos\GettingStarted\ExceptionHandling\obj\Debug\net5.0\ExceptionHandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyStuff\Practice Projects\dotnetcore\ThreadingDemos\AlbahariDemos\GettingStarted\ExceptionHandling\obj\Debug\net5.0\ExceptionHandling.AssemblyInfoInputs.cache
+C:\MyStuff\Practice Projects\dotnetcore\ThreadingDemos\AlbahariDemos\GettingStarted\ExceptionHandling\obj\Debug\net5.0\ExceptionHandling.AssemblyInfo.cs
+C:\MyStuff\Practice Projects\dotnetcore\ThreadingDemos\AlbahariDemos\GettingStarted\ExceptionHandling\obj\Debug\net5.0\ExceptionHandling.csproj.CoreCompileInputs.cache
+C:\MyStuff\Practice Projects\dotnetcore\ThreadingDemos\AlbahariDemos\GettingStarted\ExceptionHandling\obj\Debug\net5.0\ExceptionHandling.dll
+C:\MyStuff\Practice Projects\dotnetcore\ThreadingDemos\AlbahariDemos\GettingStarted\ExceptionHandling\obj\Debug\net5.0\ref\ExceptionHandling.dll
+C:\MyStuff\Practice Projects\dotnetcore\ThreadingDemos\AlbahariDemos\GettingStarted\ExceptionHandling\obj\Debug\net5.0\ExceptionHandling.pdb
+C:\MyStuff\Practice Projects\dotnetcore\ThreadingDemos\AlbahariDemos\GettingStarted\ExceptionHandling\obj\Debug\net5.0\ExceptionHandling.genruntimeconfig.cache

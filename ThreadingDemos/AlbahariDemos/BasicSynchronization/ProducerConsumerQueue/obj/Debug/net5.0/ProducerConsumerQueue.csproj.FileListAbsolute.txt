@@ -1,0 +1,16 @@
+C:\MyStuff\Practice Projects\dotnetcore\ThreadingDemos\AlbahariDemos\BasicSynchronization\ProducerConsumerQueue\bin\Debug\net5.0\ProducerConsumerQueue.exe
+C:\MyStuff\Practice Projects\dotnetcore\ThreadingDemos\AlbahariDemos\BasicSynchronization\ProducerConsumerQueue\bin\Debug\net5.0\ProducerConsumerQueue.deps.json
+C:\MyStuff\Practice Projects\dotnetcore\ThreadingDemos\AlbahariDemos\BasicSynchronization\ProducerConsumerQueue\bin\Debug\net5.0\ProducerConsumerQueue.runtimeconfig.json
+C:\MyStuff\Practice Projects\dotnetcore\ThreadingDemos\AlbahariDemos\BasicSynchronization\ProducerConsumerQueue\bin\Debug\net5.0\ProducerConsumerQueue.runtimeconfig.dev.json
+C:\MyStuff\Practice Projects\dotnetcore\ThreadingDemos\AlbahariDemos\BasicSynchronization\ProducerConsumerQueue\bin\Debug\net5.0\ProducerConsumerQueue.dll
+C:\MyStuff\Practice Projects\dotnetcore\ThreadingDemos\AlbahariDemos\BasicSynchronization\ProducerConsumerQueue\bin\Debug\net5.0\ref\ProducerConsumerQueue.dll
+C:\MyStuff\Practice Projects\dotnetcore\ThreadingDemos\AlbahariDemos\BasicSynchronization\ProducerConsumerQueue\bin\Debug\net5.0\ProducerConsumerQueue.pdb
+C:\MyStuff\Practice Projects\dotnetcore\ThreadingDemos\AlbahariDemos\BasicSynchronization\ProducerConsumerQueue\obj\Debug\net5.0\ProducerConsumerQueue.csproj.AssemblyReference.cache
+C:\MyStuff\Practice Projects\dotnetcore\ThreadingDemos\AlbahariDemos\BasicSynchronization\ProducerConsumerQueue\obj\Debug\net5.0\ProducerConsumerQueue.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyStuff\Practice Projects\dotnetcore\ThreadingDemos\AlbahariDemos\BasicSynchronization\ProducerConsumerQueue\obj\Debug\net5.0\ProducerConsumerQueue.AssemblyInfoInputs.cache
+C:\MyStuff\Practice Projects\dotnetcore\ThreadingDemos\AlbahariDemos\BasicSynchronization\ProducerConsumerQueue\obj\Debug\net5.0\ProducerConsumerQueue.AssemblyInfo.cs
+C:\MyStuff\Practice Projects\dotnetcore\ThreadingDemos\AlbahariDemos\BasicSynchronization\ProducerConsumerQueue\obj\Debug\net5.0\ProducerConsumerQueue.csproj.CoreCompileInputs.cache
+C:\MyStuff\Practice Projects\dotnetcore\ThreadingDemos\AlbahariDemos\BasicSynchronization\ProducerConsumerQueue\obj\Debug\net5.0\ProducerConsumerQueue.dll
+C:\MyStuff\Practice Projects\dotnetcore\ThreadingDemos\AlbahariDemos\BasicSynchronization\ProducerConsumerQueue\obj\Debug\net5.0\ref\ProducerConsumerQueue.dll
+C:\MyStuff\Practice Projects\dotnetcore\ThreadingDemos\AlbahariDemos\BasicSynchronization\ProducerConsumerQueue\obj\Debug\net5.0\ProducerConsumerQueue.pdb
+C:\MyStuff\Practice Projects\dotnetcore\ThreadingDemos\AlbahariDemos\BasicSynchronization\ProducerConsumerQueue\obj\Debug\net5.0\ProducerConsumerQueue.genruntimeconfig.cache

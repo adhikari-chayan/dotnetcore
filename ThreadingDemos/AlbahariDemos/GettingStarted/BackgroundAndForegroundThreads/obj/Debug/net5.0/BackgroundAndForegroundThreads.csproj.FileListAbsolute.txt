@@ -1,0 +1,15 @@
+C:\MyStuff\Practice Projects\dotnetcore\ThreadingDemos\AlbahariDemos\GettingStarted\BackgroundAndForegroundThreads\bin\Debug\net5.0\BackgroundAndForegroundThreads.exe
+C:\MyStuff\Practice Projects\dotnetcore\ThreadingDemos\AlbahariDemos\GettingStarted\BackgroundAndForegroundThreads\bin\Debug\net5.0\BackgroundAndForegroundThreads.deps.json
+C:\MyStuff\Practice Projects\dotnetcore\ThreadingDemos\AlbahariDemos\GettingStarted\BackgroundAndForegroundThreads\bin\Debug\net5.0\BackgroundAndForegroundThreads.runtimeconfig.json
+C:\MyStuff\Practice Projects\dotnetcore\ThreadingDemos\AlbahariDemos\GettingStarted\BackgroundAndForegroundThreads\bin\Debug\net5.0\BackgroundAndForegroundThreads.runtimeconfig.dev.json
+C:\MyStuff\Practice Projects\dotnetcore\ThreadingDemos\AlbahariDemos\GettingStarted\BackgroundAndForegroundThreads\bin\Debug\net5.0\BackgroundAndForegroundThreads.dll
+C:\MyStuff\Practice Projects\dotnetcore\ThreadingDemos\AlbahariDemos\GettingStarted\BackgroundAndForegroundThreads\bin\Debug\net5.0\ref\BackgroundAndForegroundThreads.dll
+C:\MyStuff\Practice Projects\dotnetcore\ThreadingDemos\AlbahariDemos\GettingStarted\BackgroundAndForegroundThreads\bin\Debug\net5.0\BackgroundAndForegroundThreads.pdb
+C:\MyStuff\Practice Projects\dotnetcore\ThreadingDemos\AlbahariDemos\GettingStarted\BackgroundAndForegroundThreads\obj\Debug\net5.0\BackgroundAndForegroundThreads.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyStuff\Practice Projects\dotnetcore\ThreadingDemos\AlbahariDemos\GettingStarted\BackgroundAndForegroundThreads\obj\Debug\net5.0\BackgroundAndForegroundThreads.AssemblyInfoInputs.cache
+C:\MyStuff\Practice Projects\dotnetcore\ThreadingDemos\AlbahariDemos\GettingStarted\BackgroundAndForegroundThreads\obj\Debug\net5.0\BackgroundAndForegroundThreads.AssemblyInfo.cs
+C:\MyStuff\Practice Projects\dotnetcore\ThreadingDemos\AlbahariDemos\GettingStarted\BackgroundAndForegroundThreads\obj\Debug\net5.0\BackgroundAndForegroundThreads.csproj.CoreCompileInputs.cache
+C:\MyStuff\Practice Projects\dotnetcore\ThreadingDemos\AlbahariDemos\GettingStarted\BackgroundAndForegroundThreads\obj\Debug\net5.0\BackgroundAndForegroundThreads.dll
+C:\MyStuff\Practice Projects\dotnetcore\ThreadingDemos\AlbahariDemos\GettingStarted\BackgroundAndForegroundThreads\obj\Debug\net5.0\ref\BackgroundAndForegroundThreads.dll
+C:\MyStuff\Practice Projects\dotnetcore\ThreadingDemos\AlbahariDemos\GettingStarted\BackgroundAndForegroundThreads\obj\Debug\net5.0\BackgroundAndForegroundThreads.pdb
+C:\MyStuff\Practice Projects\dotnetcore\ThreadingDemos\AlbahariDemos\GettingStarted\BackgroundAndForegroundThreads\obj\Debug\net5.0\BackgroundAndForegroundThreads.genruntimeconfig.cache

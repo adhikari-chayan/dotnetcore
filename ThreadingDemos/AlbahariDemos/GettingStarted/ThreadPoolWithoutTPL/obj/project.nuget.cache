@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VOdOJ11kJoVkQBdYU0clkJtCNSzGeeu4Q3GVRN4psfHuenwZGG6+CmbJ9sVzOVmSXpIPpxJQ6s9LU52mxYKnMw==",
+  "success": true,
+  "projectFilePath": "C:\\MyStuff\\Practice Projects\\dotnetcore\\ThreadingDemos\\AlbahariDemos\\GettingStarted\\ThreadPoolWithoutTPL\\ThreadPoolWithoutTPL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chayan.adhikari\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

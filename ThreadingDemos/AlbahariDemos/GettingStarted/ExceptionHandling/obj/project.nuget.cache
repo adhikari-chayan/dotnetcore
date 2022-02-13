@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3HLOBeFPw68M3EQ1lxkoK9EBR6Yug/oqouyFNeoRJxu+BCaN8ix/A9tbnSJgvqZLf6o7flJmq7DpnOtyHNOs5w==",
+  "success": true,
+  "projectFilePath": "C:\\MyStuff\\Practice Projects\\dotnetcore\\ThreadingDemos\\AlbahariDemos\\GettingStarted\\ExceptionHandling\\ExceptionHandling.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chayan.adhikari\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

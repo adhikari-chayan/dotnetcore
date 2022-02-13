@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+41huFiEZ8NGWVUjEeo2fLcAfdgQi8VCBXKW/XWTc9CU7GI1ixmeQ6mif0LxKILmPDEp6XOF5LWnj4YiSa3ULA==",
+  "success": true,
+  "projectFilePath": "C:\\MyStuff\\Practice Projects\\dotnetcore\\ThreadingDemos\\AlbahariDemos\\GettingStarted\\PassingDataToThread\\PassingDataToThread.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chayan.adhikari\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

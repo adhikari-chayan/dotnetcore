@@ -1,0 +1,16 @@
+C:\MyStuff\Practice Projects\dotnetcore\ThreadingDemos\AlbahariDemos\GettingStarted\SameMethodDifferentThread\bin\Debug\net5.0\SameMethodDifferentThread.exe
+C:\MyStuff\Practice Projects\dotnetcore\ThreadingDemos\AlbahariDemos\GettingStarted\SameMethodDifferentThread\bin\Debug\net5.0\SameMethodDifferentThread.deps.json
+C:\MyStuff\Practice Projects\dotnetcore\ThreadingDemos\AlbahariDemos\GettingStarted\SameMethodDifferentThread\bin\Debug\net5.0\SameMethodDifferentThread.runtimeconfig.json
+C:\MyStuff\Practice Projects\dotnetcore\ThreadingDemos\AlbahariDemos\GettingStarted\SameMethodDifferentThread\bin\Debug\net5.0\SameMethodDifferentThread.runtimeconfig.dev.json
+C:\MyStuff\Practice Projects\dotnetcore\ThreadingDemos\AlbahariDemos\GettingStarted\SameMethodDifferentThread\bin\Debug\net5.0\SameMethodDifferentThread.dll
+C:\MyStuff\Practice Projects\dotnetcore\ThreadingDemos\AlbahariDemos\GettingStarted\SameMethodDifferentThread\bin\Debug\net5.0\ref\SameMethodDifferentThread.dll
+C:\MyStuff\Practice Projects\dotnetcore\ThreadingDemos\AlbahariDemos\GettingStarted\SameMethodDifferentThread\bin\Debug\net5.0\SameMethodDifferentThread.pdb
+C:\MyStuff\Practice Projects\dotnetcore\ThreadingDemos\AlbahariDemos\GettingStarted\SameMethodDifferentThread\obj\Debug\net5.0\SameMethodDifferentThread.csproj.AssemblyReference.cache
+C:\MyStuff\Practice Projects\dotnetcore\ThreadingDemos\AlbahariDemos\GettingStarted\SameMethodDifferentThread\obj\Debug\net5.0\SameMethodDifferentThread.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyStuff\Practice Projects\dotnetcore\ThreadingDemos\AlbahariDemos\GettingStarted\SameMethodDifferentThread\obj\Debug\net5.0\SameMethodDifferentThread.AssemblyInfoInputs.cache
+C:\MyStuff\Practice Projects\dotnetcore\ThreadingDemos\AlbahariDemos\GettingStarted\SameMethodDifferentThread\obj\Debug\net5.0\SameMethodDifferentThread.AssemblyInfo.cs
+C:\MyStuff\Practice Projects\dotnetcore\ThreadingDemos\AlbahariDemos\GettingStarted\SameMethodDifferentThread\obj\Debug\net5.0\SameMethodDifferentThread.csproj.CoreCompileInputs.cache
+C:\MyStuff\Practice Projects\dotnetcore\ThreadingDemos\AlbahariDemos\GettingStarted\SameMethodDifferentThread\obj\Debug\net5.0\SameMethodDifferentThread.dll
+C:\MyStuff\Practice Projects\dotnetcore\ThreadingDemos\AlbahariDemos\GettingStarted\SameMethodDifferentThread\obj\Debug\net5.0\ref\SameMethodDifferentThread.dll
+C:\MyStuff\Practice Projects\dotnetcore\ThreadingDemos\AlbahariDemos\GettingStarted\SameMethodDifferentThread\obj\Debug\net5.0\SameMethodDifferentThread.pdb
+C:\MyStuff\Practice Projects\dotnetcore\ThreadingDemos\AlbahariDemos\GettingStarted\SameMethodDifferentThread\obj\Debug\net5.0\SameMethodDifferentThread.genruntimeconfig.cache
