@@ -1,0 +1,16 @@
+C:\MyStuff\Practice Projects\dotnetcore\Generics\WiredBrainCoffee.SpecialCases\WiredBrainCoffee.SpecialCases\bin\Debug\net5.0\WiredBrainCoffee.SpecialCases.exe
+C:\MyStuff\Practice Projects\dotnetcore\Generics\WiredBrainCoffee.SpecialCases\WiredBrainCoffee.SpecialCases\bin\Debug\net5.0\WiredBrainCoffee.SpecialCases.deps.json
+C:\MyStuff\Practice Projects\dotnetcore\Generics\WiredBrainCoffee.SpecialCases\WiredBrainCoffee.SpecialCases\bin\Debug\net5.0\WiredBrainCoffee.SpecialCases.runtimeconfig.json
+C:\MyStuff\Practice Projects\dotnetcore\Generics\WiredBrainCoffee.SpecialCases\WiredBrainCoffee.SpecialCases\bin\Debug\net5.0\WiredBrainCoffee.SpecialCases.runtimeconfig.dev.json
+C:\MyStuff\Practice Projects\dotnetcore\Generics\WiredBrainCoffee.SpecialCases\WiredBrainCoffee.SpecialCases\bin\Debug\net5.0\WiredBrainCoffee.SpecialCases.dll
+C:\MyStuff\Practice Projects\dotnetcore\Generics\WiredBrainCoffee.SpecialCases\WiredBrainCoffee.SpecialCases\bin\Debug\net5.0\ref\WiredBrainCoffee.SpecialCases.dll
+C:\MyStuff\Practice Projects\dotnetcore\Generics\WiredBrainCoffee.SpecialCases\WiredBrainCoffee.SpecialCases\bin\Debug\net5.0\WiredBrainCoffee.SpecialCases.pdb
+C:\MyStuff\Practice Projects\dotnetcore\Generics\WiredBrainCoffee.SpecialCases\WiredBrainCoffee.SpecialCases\obj\Debug\net5.0\WiredBrainCoffee.SpecialCases.csproj.AssemblyReference.cache
+C:\MyStuff\Practice Projects\dotnetcore\Generics\WiredBrainCoffee.SpecialCases\WiredBrainCoffee.SpecialCases\obj\Debug\net5.0\WiredBrainCoffee.SpecialCases.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyStuff\Practice Projects\dotnetcore\Generics\WiredBrainCoffee.SpecialCases\WiredBrainCoffee.SpecialCases\obj\Debug\net5.0\WiredBrainCoffee.SpecialCases.AssemblyInfoInputs.cache
+C:\MyStuff\Practice Projects\dotnetcore\Generics\WiredBrainCoffee.SpecialCases\WiredBrainCoffee.SpecialCases\obj\Debug\net5.0\WiredBrainCoffee.SpecialCases.AssemblyInfo.cs
+C:\MyStuff\Practice Projects\dotnetcore\Generics\WiredBrainCoffee.SpecialCases\WiredBrainCoffee.SpecialCases\obj\Debug\net5.0\WiredBrainCoffee.SpecialCases.csproj.CoreCompileInputs.cache
+C:\MyStuff\Practice Projects\dotnetcore\Generics\WiredBrainCoffee.SpecialCases\WiredBrainCoffee.SpecialCases\obj\Debug\net5.0\WiredBrainCoffee.SpecialCases.dll
+C:\MyStuff\Practice Projects\dotnetcore\Generics\WiredBrainCoffee.SpecialCases\WiredBrainCoffee.SpecialCases\obj\Debug\net5.0\ref\WiredBrainCoffee.SpecialCases.dll
+C:\MyStuff\Practice Projects\dotnetcore\Generics\WiredBrainCoffee.SpecialCases\WiredBrainCoffee.SpecialCases\obj\Debug\net5.0\WiredBrainCoffee.SpecialCases.pdb
+C:\MyStuff\Practice Projects\dotnetcore\Generics\WiredBrainCoffee.SpecialCases\WiredBrainCoffee.SpecialCases\obj\Debug\net5.0\WiredBrainCoffee.SpecialCases.genruntimeconfig.cache

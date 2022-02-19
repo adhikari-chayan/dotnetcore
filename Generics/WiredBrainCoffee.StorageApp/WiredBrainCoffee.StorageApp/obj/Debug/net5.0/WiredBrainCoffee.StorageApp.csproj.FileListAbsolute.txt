@@ -1,0 +1,16 @@
+C:\MyStuff\Practice Projects\dotnetcore\Generics\WiredBrainCoffee.StorageApp\WiredBrainCoffee.StorageApp\bin\Debug\net5.0\WiredBrainCoffee.StorageApp.exe
+C:\MyStuff\Practice Projects\dotnetcore\Generics\WiredBrainCoffee.StorageApp\WiredBrainCoffee.StorageApp\bin\Debug\net5.0\WiredBrainCoffee.StorageApp.deps.json
+C:\MyStuff\Practice Projects\dotnetcore\Generics\WiredBrainCoffee.StorageApp\WiredBrainCoffee.StorageApp\bin\Debug\net5.0\WiredBrainCoffee.StorageApp.runtimeconfig.json
+C:\MyStuff\Practice Projects\dotnetcore\Generics\WiredBrainCoffee.StorageApp\WiredBrainCoffee.StorageApp\bin\Debug\net5.0\WiredBrainCoffee.StorageApp.runtimeconfig.dev.json
+C:\MyStuff\Practice Projects\dotnetcore\Generics\WiredBrainCoffee.StorageApp\WiredBrainCoffee.StorageApp\bin\Debug\net5.0\WiredBrainCoffee.StorageApp.dll
+C:\MyStuff\Practice Projects\dotnetcore\Generics\WiredBrainCoffee.StorageApp\WiredBrainCoffee.StorageApp\bin\Debug\net5.0\ref\WiredBrainCoffee.StorageApp.dll
+C:\MyStuff\Practice Projects\dotnetcore\Generics\WiredBrainCoffee.StorageApp\WiredBrainCoffee.StorageApp\bin\Debug\net5.0\WiredBrainCoffee.StorageApp.pdb
+C:\MyStuff\Practice Projects\dotnetcore\Generics\WiredBrainCoffee.StorageApp\WiredBrainCoffee.StorageApp\obj\Debug\net5.0\WiredBrainCoffee.StorageApp.csprojAssemblyReference.cache
+C:\MyStuff\Practice Projects\dotnetcore\Generics\WiredBrainCoffee.StorageApp\WiredBrainCoffee.StorageApp\obj\Debug\net5.0\WiredBrainCoffee.StorageApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyStuff\Practice Projects\dotnetcore\Generics\WiredBrainCoffee.StorageApp\WiredBrainCoffee.StorageApp\obj\Debug\net5.0\WiredBrainCoffee.StorageApp.AssemblyInfoInputs.cache
+C:\MyStuff\Practice Projects\dotnetcore\Generics\WiredBrainCoffee.StorageApp\WiredBrainCoffee.StorageApp\obj\Debug\net5.0\WiredBrainCoffee.StorageApp.AssemblyInfo.cs
+C:\MyStuff\Practice Projects\dotnetcore\Generics\WiredBrainCoffee.StorageApp\WiredBrainCoffee.StorageApp\obj\Debug\net5.0\WiredBrainCoffee.StorageApp.csproj.CoreCompileInputs.cache
+C:\MyStuff\Practice Projects\dotnetcore\Generics\WiredBrainCoffee.StorageApp\WiredBrainCoffee.StorageApp\obj\Debug\net5.0\WiredBrainCoffee.StorageApp.dll
+C:\MyStuff\Practice Projects\dotnetcore\Generics\WiredBrainCoffee.StorageApp\WiredBrainCoffee.StorageApp\obj\Debug\net5.0\ref\WiredBrainCoffee.StorageApp.dll
+C:\MyStuff\Practice Projects\dotnetcore\Generics\WiredBrainCoffee.StorageApp\WiredBrainCoffee.StorageApp\obj\Debug\net5.0\WiredBrainCoffee.StorageApp.pdb
+C:\MyStuff\Practice Projects\dotnetcore\Generics\WiredBrainCoffee.StorageApp\WiredBrainCoffee.StorageApp\obj\Debug\net5.0\WiredBrainCoffee.StorageApp.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ViioyD+qvO453JH8Qf9i7rO5b+E3gjc5igpXzvPkRnFODMrddiDCbUgyucdQeBmiB7OImqnleJvOfKDSMOHXQA==",
+  "success": true,
+  "projectFilePath": "C:\\MyStuff\\Practice Projects\\dotnetcore\\Generics\\WiredBrainCoffee.SpecialCases\\WiredBrainCoffee.SpecialCases\\WiredBrainCoffee.SpecialCases.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chayan.adhikari\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
