@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "l3KGsI6gFxPN4uEmarpTidR4waYr2dFlHw6+2Q7hSUpi1f9x6yRU6oJ5pwE25BB1V0/lxzZ9uzsgcmx2c0GbUg==",
+  "success": true,
+  "projectFilePath": "C:\\MyStuff\\Practice Projects\\dotnetcore\\ReactiveExtensions\\ObserverPattern\\InMemoryMessageBus\\InMemoryMessageBus.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chayan.adhikari\\.nuget\\packages\\system.reactive\\5.0.0\\system.reactive.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{126FC7BD-4617-406D-A7E3-3ABC89EBDDC4}|Default">
+  <MonoDevelop.Ide.ItemProperties.RedisDelayedPubSub.Sender PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="RedisDelayedPubSub/Program.cs" Line="19" Column="36" />
+      <File FileName="RedisDelayedPubSub.Consumer/Program.cs" Line="18" Column="1" />
+      <File FileName="RedisDelayedPubSub/RedisDelayedPublisher.cs" Line="20" Column="57" />
+      <File FileName="RedisDelayedPubSub.Consumer/RedisDelayedConsumer.cs" Line="24" Column="97" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RedisDelayedPubSub" expanded="True">
+            <Node name="RedisDelayedPubSub.Consumer" expanded="True" selected="True" />
+            <Node name="RedisDelayedPubSub.Sender" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

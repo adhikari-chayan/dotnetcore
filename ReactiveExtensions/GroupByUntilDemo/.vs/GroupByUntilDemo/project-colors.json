@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c43b297a-a77f-439d-8908-ecef0ba0c35a": {
+      "ProjectGuid": "c43b297a-a77f-439d-8908-ecef0ba0c35a",
+      "DisplayName": "GroupByUntilDemo",
+      "ColorIndex": 0
+    },
+    "0cfc1ff0-fec7-4a4f-8a53-e80dafe2ca4f": {
+      "ProjectGuid": "0cfc1ff0-fec7-4a4f-8a53-e80dafe2ca4f",
+      "DisplayName": "TraceableObjectDemo",
+      "ColorIndex": 1
+    },
+    "c30de5db-5793-4d27-9d44-9749f6849c9a": {
+      "ProjectGuid": "c30de5db-5793-4d27-9d44-9749f6849c9a",
+      "DisplayName": "TracebleObjectDemo",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

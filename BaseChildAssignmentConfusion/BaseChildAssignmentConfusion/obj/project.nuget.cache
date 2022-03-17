@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7ZpZCzK0gpMeQxHumEsWxMWYryFHzxIpJQlkprPssoAuuQ0jZFwxF43Lob1z290oIVIByzQVNbC7pvjv0g0A5g==",
+  "success": true,
+  "projectFilePath": "C:\\MyStuff\\Practice Projects\\dotnetcore\\BaseChildAssignmentConfusion\\BaseChildAssignmentConfusion\\BaseChildAssignmentConfusion.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chayan.adhikari\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

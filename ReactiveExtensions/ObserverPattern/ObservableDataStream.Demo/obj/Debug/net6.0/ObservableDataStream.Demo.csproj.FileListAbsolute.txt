@@ -1,0 +1,17 @@
+C:\MyStuff\Practice Projects\dotnetcore\ReactiveExtensions\ObserverPattern\ObservableDataStream.Demo\bin\Debug\net6.0\ObservableDataStream.Demo.exe
+C:\MyStuff\Practice Projects\dotnetcore\ReactiveExtensions\ObserverPattern\ObservableDataStream.Demo\bin\Debug\net6.0\ObservableDataStream.Demo.deps.json
+C:\MyStuff\Practice Projects\dotnetcore\ReactiveExtensions\ObserverPattern\ObservableDataStream.Demo\bin\Debug\net6.0\ObservableDataStream.Demo.runtimeconfig.json
+C:\MyStuff\Practice Projects\dotnetcore\ReactiveExtensions\ObserverPattern\ObservableDataStream.Demo\bin\Debug\net6.0\ObservableDataStream.Demo.dll
+C:\MyStuff\Practice Projects\dotnetcore\ReactiveExtensions\ObserverPattern\ObservableDataStream.Demo\bin\Debug\net6.0\ref\ObservableDataStream.Demo.dll
+C:\MyStuff\Practice Projects\dotnetcore\ReactiveExtensions\ObserverPattern\ObservableDataStream.Demo\bin\Debug\net6.0\ObservableDataStream.Demo.pdb
+C:\MyStuff\Practice Projects\dotnetcore\ReactiveExtensions\ObserverPattern\ObservableDataStream.Demo\bin\Debug\net6.0\System.Reactive.dll
+C:\MyStuff\Practice Projects\dotnetcore\ReactiveExtensions\ObserverPattern\ObservableDataStream.Demo\obj\Debug\net6.0\ObservableDataStream.Demo.csproj.AssemblyReference.cache
+C:\MyStuff\Practice Projects\dotnetcore\ReactiveExtensions\ObserverPattern\ObservableDataStream.Demo\obj\Debug\net6.0\ObservableDataStream.Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyStuff\Practice Projects\dotnetcore\ReactiveExtensions\ObserverPattern\ObservableDataStream.Demo\obj\Debug\net6.0\ObservableDataStream.Demo.AssemblyInfoInputs.cache
+C:\MyStuff\Practice Projects\dotnetcore\ReactiveExtensions\ObserverPattern\ObservableDataStream.Demo\obj\Debug\net6.0\ObservableDataStream.Demo.AssemblyInfo.cs
+C:\MyStuff\Practice Projects\dotnetcore\ReactiveExtensions\ObserverPattern\ObservableDataStream.Demo\obj\Debug\net6.0\ObservableDataStream.Demo.csproj.CoreCompileInputs.cache
+C:\MyStuff\Practice Projects\dotnetcore\ReactiveExtensions\ObserverPattern\ObservableDataStream.Demo\obj\Debug\net6.0\ObservableDataStream.Demo.csproj.CopyComplete
+C:\MyStuff\Practice Projects\dotnetcore\ReactiveExtensions\ObserverPattern\ObservableDataStream.Demo\obj\Debug\net6.0\ObservableDataStream.Demo.dll
+C:\MyStuff\Practice Projects\dotnetcore\ReactiveExtensions\ObserverPattern\ObservableDataStream.Demo\obj\Debug\net6.0\ref\ObservableDataStream.Demo.dll
+C:\MyStuff\Practice Projects\dotnetcore\ReactiveExtensions\ObserverPattern\ObservableDataStream.Demo\obj\Debug\net6.0\ObservableDataStream.Demo.pdb
+C:\MyStuff\Practice Projects\dotnetcore\ReactiveExtensions\ObserverPattern\ObservableDataStream.Demo\obj\Debug\net6.0\ObservableDataStream.Demo.genruntimeconfig.cache

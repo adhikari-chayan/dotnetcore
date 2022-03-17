@@ -1,0 +1,16 @@
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\SpeedUpAsync\SpeedUpAsync.Console\bin\Debug\net5.0\SpeedUpAsync.Client.exe
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\SpeedUpAsync\SpeedUpAsync.Console\bin\Debug\net5.0\SpeedUpAsync.Client.deps.json
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\SpeedUpAsync\SpeedUpAsync.Console\bin\Debug\net5.0\SpeedUpAsync.Client.runtimeconfig.json
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\SpeedUpAsync\SpeedUpAsync.Console\bin\Debug\net5.0\SpeedUpAsync.Client.runtimeconfig.dev.json
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\SpeedUpAsync\SpeedUpAsync.Console\bin\Debug\net5.0\SpeedUpAsync.Client.dll
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\SpeedUpAsync\SpeedUpAsync.Console\bin\Debug\net5.0\ref\SpeedUpAsync.Client.dll
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\SpeedUpAsync\SpeedUpAsync.Console\bin\Debug\net5.0\SpeedUpAsync.Client.pdb
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\SpeedUpAsync\SpeedUpAsync.Console\obj\Debug\net5.0\SpeedUpAsync.Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\SpeedUpAsync\SpeedUpAsync.Console\obj\Debug\net5.0\SpeedUpAsync.Client.AssemblyInfoInputs.cache
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\SpeedUpAsync\SpeedUpAsync.Console\obj\Debug\net5.0\SpeedUpAsync.Client.AssemblyInfo.cs
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\SpeedUpAsync\SpeedUpAsync.Console\obj\Debug\net5.0\SpeedUpAsync.Client.csproj.CoreCompileInputs.cache
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\SpeedUpAsync\SpeedUpAsync.Console\obj\Debug\net5.0\SpeedUpAsync.Client.dll
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\SpeedUpAsync\SpeedUpAsync.Console\obj\Debug\net5.0\ref\SpeedUpAsync.Client.dll
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\SpeedUpAsync\SpeedUpAsync.Console\obj\Debug\net5.0\SpeedUpAsync.Client.pdb
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\SpeedUpAsync\SpeedUpAsync.Console\obj\Debug\net5.0\SpeedUpAsync.Client.genruntimeconfig.cache
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\SpeedUpAsync\SpeedUpAsync.Console\obj\Debug\net5.0\SpeedUpAsync.Client.csprojAssemblyReference.cache

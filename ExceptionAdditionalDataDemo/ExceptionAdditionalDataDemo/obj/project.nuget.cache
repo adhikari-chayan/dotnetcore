@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "il3q34HIx7fmx2zw5wUPs2uui19donGAJuWiaWbVqofg3RVEmanE2ShUTTLMfmbML0rTWpeUsH4Wd0iFkdZUfw==",
+  "success": true,
+  "projectFilePath": "C:\\MyStuff\\Practice Projects\\dotnetcore\\ExceptionAdditionalDataDemo\\ExceptionAdditionalDataDemo\\ExceptionAdditionalDataDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chayan.adhikari\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

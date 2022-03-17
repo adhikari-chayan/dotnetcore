@@ -1,0 +1,10 @@
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\QuestpondAsyncDemo\AsyncAwaitWithSyncContext\bin\Debug\AsyncAwaitWithSyncContext.exe.config
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\QuestpondAsyncDemo\AsyncAwaitWithSyncContext\bin\Debug\AsyncAwaitWithSyncContext.exe
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\QuestpondAsyncDemo\AsyncAwaitWithSyncContext\bin\Debug\AsyncAwaitWithSyncContext.pdb
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\QuestpondAsyncDemo\AsyncAwaitWithSyncContext\obj\Debug\AsyncAwaitWithSyncContext.csprojAssemblyReference.cache
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\QuestpondAsyncDemo\AsyncAwaitWithSyncContext\obj\Debug\AsyncAwaitWithSyncContext.Form1.resources
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\QuestpondAsyncDemo\AsyncAwaitWithSyncContext\obj\Debug\AsyncAwaitWithSyncContext.Properties.Resources.resources
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\QuestpondAsyncDemo\AsyncAwaitWithSyncContext\obj\Debug\AsyncAwaitWithSyncContext.csproj.GenerateResource.cache
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\QuestpondAsyncDemo\AsyncAwaitWithSyncContext\obj\Debug\AsyncAwaitWithSyncContext.csproj.CoreCompileInputs.cache
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\QuestpondAsyncDemo\AsyncAwaitWithSyncContext\obj\Debug\AsyncAwaitWithSyncContext.exe
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\QuestpondAsyncDemo\AsyncAwaitWithSyncContext\obj\Debug\AsyncAwaitWithSyncContext.pdb

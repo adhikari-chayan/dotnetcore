@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7b11e5a6-46f1-4157-9164-1981602a5386": {
+      "ProjectGuid": "7b11e5a6-46f1-4157-9164-1981602a5386",
+      "DisplayName": "RedisDelayedPubSub.Consumer",
+      "ColorIndex": 0
+    },
+    "126fc7bd-4617-406d-a7e3-3abc89ebddc4": {
+      "ProjectGuid": "126fc7bd-4617-406d-a7e3-3abc89ebddc4",
+      "DisplayName": "RedisDelayedPubSub.Sender",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

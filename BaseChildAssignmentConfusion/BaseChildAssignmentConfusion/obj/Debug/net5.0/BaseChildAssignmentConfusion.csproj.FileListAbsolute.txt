@@ -1,0 +1,16 @@
+C:\MyStuff\Practice Projects\dotnetcore\BaseChildAssignmentConfusion\BaseChildAssignmentConfusion\bin\Debug\net5.0\BaseChildAssignmentConfusion.exe
+C:\MyStuff\Practice Projects\dotnetcore\BaseChildAssignmentConfusion\BaseChildAssignmentConfusion\bin\Debug\net5.0\BaseChildAssignmentConfusion.deps.json
+C:\MyStuff\Practice Projects\dotnetcore\BaseChildAssignmentConfusion\BaseChildAssignmentConfusion\bin\Debug\net5.0\BaseChildAssignmentConfusion.runtimeconfig.json
+C:\MyStuff\Practice Projects\dotnetcore\BaseChildAssignmentConfusion\BaseChildAssignmentConfusion\bin\Debug\net5.0\BaseChildAssignmentConfusion.runtimeconfig.dev.json
+C:\MyStuff\Practice Projects\dotnetcore\BaseChildAssignmentConfusion\BaseChildAssignmentConfusion\bin\Debug\net5.0\BaseChildAssignmentConfusion.dll
+C:\MyStuff\Practice Projects\dotnetcore\BaseChildAssignmentConfusion\BaseChildAssignmentConfusion\bin\Debug\net5.0\ref\BaseChildAssignmentConfusion.dll
+C:\MyStuff\Practice Projects\dotnetcore\BaseChildAssignmentConfusion\BaseChildAssignmentConfusion\bin\Debug\net5.0\BaseChildAssignmentConfusion.pdb
+C:\MyStuff\Practice Projects\dotnetcore\BaseChildAssignmentConfusion\BaseChildAssignmentConfusion\obj\Debug\net5.0\BaseChildAssignmentConfusion.csproj.AssemblyReference.cache
+C:\MyStuff\Practice Projects\dotnetcore\BaseChildAssignmentConfusion\BaseChildAssignmentConfusion\obj\Debug\net5.0\BaseChildAssignmentConfusion.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyStuff\Practice Projects\dotnetcore\BaseChildAssignmentConfusion\BaseChildAssignmentConfusion\obj\Debug\net5.0\BaseChildAssignmentConfusion.AssemblyInfoInputs.cache
+C:\MyStuff\Practice Projects\dotnetcore\BaseChildAssignmentConfusion\BaseChildAssignmentConfusion\obj\Debug\net5.0\BaseChildAssignmentConfusion.AssemblyInfo.cs
+C:\MyStuff\Practice Projects\dotnetcore\BaseChildAssignmentConfusion\BaseChildAssignmentConfusion\obj\Debug\net5.0\BaseChildAssignmentConfusion.csproj.CoreCompileInputs.cache
+C:\MyStuff\Practice Projects\dotnetcore\BaseChildAssignmentConfusion\BaseChildAssignmentConfusion\obj\Debug\net5.0\BaseChildAssignmentConfusion.dll
+C:\MyStuff\Practice Projects\dotnetcore\BaseChildAssignmentConfusion\BaseChildAssignmentConfusion\obj\Debug\net5.0\ref\BaseChildAssignmentConfusion.dll
+C:\MyStuff\Practice Projects\dotnetcore\BaseChildAssignmentConfusion\BaseChildAssignmentConfusion\obj\Debug\net5.0\BaseChildAssignmentConfusion.pdb
+C:\MyStuff\Practice Projects\dotnetcore\BaseChildAssignmentConfusion\BaseChildAssignmentConfusion\obj\Debug\net5.0\BaseChildAssignmentConfusion.genruntimeconfig.cache

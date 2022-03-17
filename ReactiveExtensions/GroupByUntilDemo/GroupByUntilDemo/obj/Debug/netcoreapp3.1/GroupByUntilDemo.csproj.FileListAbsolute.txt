@@ -1,0 +1,17 @@
+C:\MyStuff\Practice Projects\dotnetcore\ReactiveExtensions\GroupByUntilDemo\GroupByUntilDemo\bin\Debug\netcoreapp3.1\GroupByUntilDemo.exe
+C:\MyStuff\Practice Projects\dotnetcore\ReactiveExtensions\GroupByUntilDemo\GroupByUntilDemo\bin\Debug\netcoreapp3.1\GroupByUntilDemo.deps.json
+C:\MyStuff\Practice Projects\dotnetcore\ReactiveExtensions\GroupByUntilDemo\GroupByUntilDemo\bin\Debug\netcoreapp3.1\GroupByUntilDemo.runtimeconfig.json
+C:\MyStuff\Practice Projects\dotnetcore\ReactiveExtensions\GroupByUntilDemo\GroupByUntilDemo\bin\Debug\netcoreapp3.1\GroupByUntilDemo.runtimeconfig.dev.json
+C:\MyStuff\Practice Projects\dotnetcore\ReactiveExtensions\GroupByUntilDemo\GroupByUntilDemo\bin\Debug\netcoreapp3.1\GroupByUntilDemo.dll
+C:\MyStuff\Practice Projects\dotnetcore\ReactiveExtensions\GroupByUntilDemo\GroupByUntilDemo\bin\Debug\netcoreapp3.1\GroupByUntilDemo.pdb
+C:\MyStuff\Practice Projects\dotnetcore\ReactiveExtensions\GroupByUntilDemo\GroupByUntilDemo\bin\Debug\netcoreapp3.1\System.Reactive.Linq.dll
+C:\MyStuff\Practice Projects\dotnetcore\ReactiveExtensions\GroupByUntilDemo\GroupByUntilDemo\bin\Debug\netcoreapp3.1\System.Reactive.dll
+C:\MyStuff\Practice Projects\dotnetcore\ReactiveExtensions\GroupByUntilDemo\GroupByUntilDemo\bin\Debug\netcoreapp3.1\System.Reactive.xml
+C:\MyStuff\Practice Projects\dotnetcore\ReactiveExtensions\GroupByUntilDemo\GroupByUntilDemo\obj\Debug\netcoreapp3.1\GroupByUntilDemo.csprojAssemblyReference.cache
+C:\MyStuff\Practice Projects\dotnetcore\ReactiveExtensions\GroupByUntilDemo\GroupByUntilDemo\obj\Debug\netcoreapp3.1\GroupByUntilDemo.AssemblyInfoInputs.cache
+C:\MyStuff\Practice Projects\dotnetcore\ReactiveExtensions\GroupByUntilDemo\GroupByUntilDemo\obj\Debug\netcoreapp3.1\GroupByUntilDemo.AssemblyInfo.cs
+C:\MyStuff\Practice Projects\dotnetcore\ReactiveExtensions\GroupByUntilDemo\GroupByUntilDemo\obj\Debug\netcoreapp3.1\GroupByUntilDemo.csproj.CoreCompileInputs.cache
+C:\MyStuff\Practice Projects\dotnetcore\ReactiveExtensions\GroupByUntilDemo\GroupByUntilDemo\obj\Debug\netcoreapp3.1\GroupByUntilDemo.csproj.CopyComplete
+C:\MyStuff\Practice Projects\dotnetcore\ReactiveExtensions\GroupByUntilDemo\GroupByUntilDemo\obj\Debug\netcoreapp3.1\GroupByUntilDemo.dll
+C:\MyStuff\Practice Projects\dotnetcore\ReactiveExtensions\GroupByUntilDemo\GroupByUntilDemo\obj\Debug\netcoreapp3.1\GroupByUntilDemo.pdb
+C:\MyStuff\Practice Projects\dotnetcore\ReactiveExtensions\GroupByUntilDemo\GroupByUntilDemo\obj\Debug\netcoreapp3.1\GroupByUntilDemo.genruntimeconfig.cache

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f68523c6-7c5a-4756-8104-15a32d3761bd": {
+      "ProjectGuid": "f68523c6-7c5a-4756-8104-15a32d3761bd",
+      "DisplayName": "Readers.Api",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,13 @@
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\QuestpondAsyncDemo\AsyncAwaitTaskT\bin\Debug\netcoreapp3.1\AsyncAwaitTaskT.exe
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\QuestpondAsyncDemo\AsyncAwaitTaskT\bin\Debug\netcoreapp3.1\AsyncAwaitTaskT.deps.json
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\QuestpondAsyncDemo\AsyncAwaitTaskT\bin\Debug\netcoreapp3.1\AsyncAwaitTaskT.runtimeconfig.json
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\QuestpondAsyncDemo\AsyncAwaitTaskT\bin\Debug\netcoreapp3.1\AsyncAwaitTaskT.runtimeconfig.dev.json
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\QuestpondAsyncDemo\AsyncAwaitTaskT\bin\Debug\netcoreapp3.1\AsyncAwaitTaskT.dll
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\QuestpondAsyncDemo\AsyncAwaitTaskT\bin\Debug\netcoreapp3.1\AsyncAwaitTaskT.pdb
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\QuestpondAsyncDemo\AsyncAwaitTaskT\obj\Debug\netcoreapp3.1\AsyncAwaitTaskT.csprojAssemblyReference.cache
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\QuestpondAsyncDemo\AsyncAwaitTaskT\obj\Debug\netcoreapp3.1\AsyncAwaitTaskT.AssemblyInfoInputs.cache
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\QuestpondAsyncDemo\AsyncAwaitTaskT\obj\Debug\netcoreapp3.1\AsyncAwaitTaskT.AssemblyInfo.cs
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\QuestpondAsyncDemo\AsyncAwaitTaskT\obj\Debug\netcoreapp3.1\AsyncAwaitTaskT.csproj.CoreCompileInputs.cache
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\QuestpondAsyncDemo\AsyncAwaitTaskT\obj\Debug\netcoreapp3.1\AsyncAwaitTaskT.dll
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\QuestpondAsyncDemo\AsyncAwaitTaskT\obj\Debug\netcoreapp3.1\AsyncAwaitTaskT.pdb
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\QuestpondAsyncDemo\AsyncAwaitTaskT\obj\Debug\netcoreapp3.1\AsyncAwaitTaskT.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\MyStuff\Practice Projects\dotnetcore\ReactiveExtensions\ObserverPattern\ObserverPattern\bin\Debug\net5.0\ObserverPattern.exe
+C:\MyStuff\Practice Projects\dotnetcore\ReactiveExtensions\ObserverPattern\ObserverPattern\bin\Debug\net5.0\ObserverPattern.deps.json
+C:\MyStuff\Practice Projects\dotnetcore\ReactiveExtensions\ObserverPattern\ObserverPattern\bin\Debug\net5.0\ObserverPattern.runtimeconfig.json
+C:\MyStuff\Practice Projects\dotnetcore\ReactiveExtensions\ObserverPattern\ObserverPattern\bin\Debug\net5.0\ObserverPattern.runtimeconfig.dev.json
+C:\MyStuff\Practice Projects\dotnetcore\ReactiveExtensions\ObserverPattern\ObserverPattern\bin\Debug\net5.0\ObserverPattern.dll
+C:\MyStuff\Practice Projects\dotnetcore\ReactiveExtensions\ObserverPattern\ObserverPattern\bin\Debug\net5.0\ref\ObserverPattern.dll
+C:\MyStuff\Practice Projects\dotnetcore\ReactiveExtensions\ObserverPattern\ObserverPattern\bin\Debug\net5.0\ObserverPattern.pdb
+C:\MyStuff\Practice Projects\dotnetcore\ReactiveExtensions\ObserverPattern\ObserverPattern\obj\Debug\net5.0\ObserverPattern.csproj.AssemblyReference.cache
+C:\MyStuff\Practice Projects\dotnetcore\ReactiveExtensions\ObserverPattern\ObserverPattern\obj\Debug\net5.0\ObserverPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyStuff\Practice Projects\dotnetcore\ReactiveExtensions\ObserverPattern\ObserverPattern\obj\Debug\net5.0\ObserverPattern.AssemblyInfoInputs.cache
+C:\MyStuff\Practice Projects\dotnetcore\ReactiveExtensions\ObserverPattern\ObserverPattern\obj\Debug\net5.0\ObserverPattern.AssemblyInfo.cs
+C:\MyStuff\Practice Projects\dotnetcore\ReactiveExtensions\ObserverPattern\ObserverPattern\obj\Debug\net5.0\ObserverPattern.csproj.CoreCompileInputs.cache
+C:\MyStuff\Practice Projects\dotnetcore\ReactiveExtensions\ObserverPattern\ObserverPattern\obj\Debug\net5.0\ObserverPattern.dll
+C:\MyStuff\Practice Projects\dotnetcore\ReactiveExtensions\ObserverPattern\ObserverPattern\obj\Debug\net5.0\ref\ObserverPattern.dll
+C:\MyStuff\Practice Projects\dotnetcore\ReactiveExtensions\ObserverPattern\ObserverPattern\obj\Debug\net5.0\ObserverPattern.pdb
+C:\MyStuff\Practice Projects\dotnetcore\ReactiveExtensions\ObserverPattern\ObserverPattern\obj\Debug\net5.0\ObserverPattern.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\MyStuff\Practice Projects\dotnetcore\ReactiveExtensions\ObserverPattern\AnotherExample\bin\Debug\net6.0\AnotherExample.exe
+C:\MyStuff\Practice Projects\dotnetcore\ReactiveExtensions\ObserverPattern\AnotherExample\bin\Debug\net6.0\AnotherExample.deps.json
+C:\MyStuff\Practice Projects\dotnetcore\ReactiveExtensions\ObserverPattern\AnotherExample\bin\Debug\net6.0\AnotherExample.runtimeconfig.json
+C:\MyStuff\Practice Projects\dotnetcore\ReactiveExtensions\ObserverPattern\AnotherExample\bin\Debug\net6.0\AnotherExample.dll
+C:\MyStuff\Practice Projects\dotnetcore\ReactiveExtensions\ObserverPattern\AnotherExample\bin\Debug\net6.0\ref\AnotherExample.dll
+C:\MyStuff\Practice Projects\dotnetcore\ReactiveExtensions\ObserverPattern\AnotherExample\bin\Debug\net6.0\AnotherExample.pdb
+C:\MyStuff\Practice Projects\dotnetcore\ReactiveExtensions\ObserverPattern\AnotherExample\obj\Debug\net6.0\AnotherExample.csproj.AssemblyReference.cache
+C:\MyStuff\Practice Projects\dotnetcore\ReactiveExtensions\ObserverPattern\AnotherExample\obj\Debug\net6.0\AnotherExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyStuff\Practice Projects\dotnetcore\ReactiveExtensions\ObserverPattern\AnotherExample\obj\Debug\net6.0\AnotherExample.AssemblyInfoInputs.cache
+C:\MyStuff\Practice Projects\dotnetcore\ReactiveExtensions\ObserverPattern\AnotherExample\obj\Debug\net6.0\AnotherExample.AssemblyInfo.cs
+C:\MyStuff\Practice Projects\dotnetcore\ReactiveExtensions\ObserverPattern\AnotherExample\obj\Debug\net6.0\AnotherExample.csproj.CoreCompileInputs.cache
+C:\MyStuff\Practice Projects\dotnetcore\ReactiveExtensions\ObserverPattern\AnotherExample\obj\Debug\net6.0\AnotherExample.dll
+C:\MyStuff\Practice Projects\dotnetcore\ReactiveExtensions\ObserverPattern\AnotherExample\obj\Debug\net6.0\ref\AnotherExample.dll
+C:\MyStuff\Practice Projects\dotnetcore\ReactiveExtensions\ObserverPattern\AnotherExample\obj\Debug\net6.0\AnotherExample.pdb
+C:\MyStuff\Practice Projects\dotnetcore\ReactiveExtensions\ObserverPattern\AnotherExample\obj\Debug\net6.0\AnotherExample.genruntimeconfig.cache

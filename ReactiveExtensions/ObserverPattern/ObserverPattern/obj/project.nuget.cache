@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sHAzqeB2jjieiF5vsn74c/pnShsmH/1eDK4/qP1MUmiMPGVAwcoCuAqHso8RQFX8pcjFMKPA6aHuw4AzU+JPLg==",
+  "success": true,
+  "projectFilePath": "C:\\MyStuff\\Practice Projects\\dotnetcore\\ReactiveExtensions\\ObserverPattern\\ObserverPattern\\ObserverPattern.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chayan.adhikari\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+/Users/bearbo/Projects/RedisDelayedPubSub/RedisDelayedPubSub/bin/Debug/net5.0/RedisDelayedPubSub.deps.json
+/Users/bearbo/Projects/RedisDelayedPubSub/RedisDelayedPubSub/bin/Debug/net5.0/RedisDelayedPubSub.runtimeconfig.json
+/Users/bearbo/Projects/RedisDelayedPubSub/RedisDelayedPubSub/bin/Debug/net5.0/RedisDelayedPubSub.runtimeconfig.dev.json
+/Users/bearbo/Projects/RedisDelayedPubSub/RedisDelayedPubSub/bin/Debug/net5.0/RedisDelayedPubSub.dll
+/Users/bearbo/Projects/RedisDelayedPubSub/RedisDelayedPubSub/bin/Debug/net5.0/ref/RedisDelayedPubSub.dll
+/Users/bearbo/Projects/RedisDelayedPubSub/RedisDelayedPubSub/bin/Debug/net5.0/RedisDelayedPubSub.pdb
+/Users/bearbo/Projects/RedisDelayedPubSub/RedisDelayedPubSub/obj/Debug/net5.0/RedisDelayedPubSub.csproj.AssemblyReference.cache
+/Users/bearbo/Projects/RedisDelayedPubSub/RedisDelayedPubSub/obj/Debug/net5.0/RedisDelayedPubSub.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bearbo/Projects/RedisDelayedPubSub/RedisDelayedPubSub/obj/Debug/net5.0/RedisDelayedPubSub.AssemblyInfoInputs.cache
+/Users/bearbo/Projects/RedisDelayedPubSub/RedisDelayedPubSub/obj/Debug/net5.0/RedisDelayedPubSub.AssemblyInfo.cs
+/Users/bearbo/Projects/RedisDelayedPubSub/RedisDelayedPubSub/obj/Debug/net5.0/RedisDelayedPubSub.csproj.CoreCompileInputs.cache
+/Users/bearbo/Projects/RedisDelayedPubSub/RedisDelayedPubSub/obj/Debug/net5.0/RedisDelayedPubSub.dll
+/Users/bearbo/Projects/RedisDelayedPubSub/RedisDelayedPubSub/obj/Debug/net5.0/ref/RedisDelayedPubSub.dll
+/Users/bearbo/Projects/RedisDelayedPubSub/RedisDelayedPubSub/obj/Debug/net5.0/RedisDelayedPubSub.pdb
+/Users/bearbo/Projects/RedisDelayedPubSub/RedisDelayedPubSub/obj/Debug/net5.0/RedisDelayedPubSub.genruntimeconfig.cache

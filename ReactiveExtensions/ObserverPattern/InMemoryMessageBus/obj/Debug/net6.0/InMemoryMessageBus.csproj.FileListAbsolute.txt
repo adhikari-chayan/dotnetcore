@@ -1,0 +1,17 @@
+C:\MyStuff\Practice Projects\dotnetcore\ReactiveExtensions\ObserverPattern\InMemoryMessageBus\bin\Debug\net6.0\InMemoryMessageBus.exe
+C:\MyStuff\Practice Projects\dotnetcore\ReactiveExtensions\ObserverPattern\InMemoryMessageBus\bin\Debug\net6.0\InMemoryMessageBus.deps.json
+C:\MyStuff\Practice Projects\dotnetcore\ReactiveExtensions\ObserverPattern\InMemoryMessageBus\bin\Debug\net6.0\InMemoryMessageBus.runtimeconfig.json
+C:\MyStuff\Practice Projects\dotnetcore\ReactiveExtensions\ObserverPattern\InMemoryMessageBus\bin\Debug\net6.0\InMemoryMessageBus.dll
+C:\MyStuff\Practice Projects\dotnetcore\ReactiveExtensions\ObserverPattern\InMemoryMessageBus\bin\Debug\net6.0\ref\InMemoryMessageBus.dll
+C:\MyStuff\Practice Projects\dotnetcore\ReactiveExtensions\ObserverPattern\InMemoryMessageBus\bin\Debug\net6.0\InMemoryMessageBus.pdb
+C:\MyStuff\Practice Projects\dotnetcore\ReactiveExtensions\ObserverPattern\InMemoryMessageBus\bin\Debug\net6.0\System.Reactive.dll
+C:\MyStuff\Practice Projects\dotnetcore\ReactiveExtensions\ObserverPattern\InMemoryMessageBus\obj\Debug\net6.0\InMemoryMessageBus.csproj.AssemblyReference.cache
+C:\MyStuff\Practice Projects\dotnetcore\ReactiveExtensions\ObserverPattern\InMemoryMessageBus\obj\Debug\net6.0\InMemoryMessageBus.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyStuff\Practice Projects\dotnetcore\ReactiveExtensions\ObserverPattern\InMemoryMessageBus\obj\Debug\net6.0\InMemoryMessageBus.AssemblyInfoInputs.cache
+C:\MyStuff\Practice Projects\dotnetcore\ReactiveExtensions\ObserverPattern\InMemoryMessageBus\obj\Debug\net6.0\InMemoryMessageBus.AssemblyInfo.cs
+C:\MyStuff\Practice Projects\dotnetcore\ReactiveExtensions\ObserverPattern\InMemoryMessageBus\obj\Debug\net6.0\InMemoryMessageBus.csproj.CoreCompileInputs.cache
+C:\MyStuff\Practice Projects\dotnetcore\ReactiveExtensions\ObserverPattern\InMemoryMessageBus\obj\Debug\net6.0\InMemoryMessageBus.csproj.CopyComplete
+C:\MyStuff\Practice Projects\dotnetcore\ReactiveExtensions\ObserverPattern\InMemoryMessageBus\obj\Debug\net6.0\InMemoryMessageBus.dll
+C:\MyStuff\Practice Projects\dotnetcore\ReactiveExtensions\ObserverPattern\InMemoryMessageBus\obj\Debug\net6.0\ref\InMemoryMessageBus.dll
+C:\MyStuff\Practice Projects\dotnetcore\ReactiveExtensions\ObserverPattern\InMemoryMessageBus\obj\Debug\net6.0\InMemoryMessageBus.pdb
+C:\MyStuff\Practice Projects\dotnetcore\ReactiveExtensions\ObserverPattern\InMemoryMessageBus\obj\Debug\net6.0\InMemoryMessageBus.genruntimeconfig.cache

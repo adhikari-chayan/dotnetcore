@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "bc4ccfb0-653f-4b2f-ae65-f53c3c42affb": {
+      "ProjectGuid": "bc4ccfb0-653f-4b2f-ae65-f53c3c42affb",
+      "DisplayName": "ObserverPattern",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "e4573481-a2bd-4a34-bccc-5ff3f9668363": {
+      "ProjectGuid": "e4573481-a2bd-4a34-bccc-5ff3f9668363",
+      "DisplayName": "AnotherExample",
+      "ColorIndex": 1
+    },
+    "e2873d9b-a331-4091-b2d2-b4635b5da37e": {
+      "ProjectGuid": "e2873d9b-a331-4091-b2d2-b4635b5da37e",
+      "DisplayName": "ObservableDataStream.Demo",
+      "ColorIndex": 2
+    },
+    "e1e6efe0-b6d9-4168-8618-5d99dc2de8ad": {
+      "ProjectGuid": "e1e6efe0-b6d9-4168-8618-5d99dc2de8ad",
+      "DisplayName": "InMemoryMessageBus",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

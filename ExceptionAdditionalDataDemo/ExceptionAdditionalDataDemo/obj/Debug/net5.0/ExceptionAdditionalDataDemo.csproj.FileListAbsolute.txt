@@ -1,0 +1,16 @@
+C:\MyStuff\Practice Projects\dotnetcore\ExceptionAdditionalDataDemo\ExceptionAdditionalDataDemo\bin\Debug\net5.0\ExceptionAdditionalDataDemo.exe
+C:\MyStuff\Practice Projects\dotnetcore\ExceptionAdditionalDataDemo\ExceptionAdditionalDataDemo\bin\Debug\net5.0\ExceptionAdditionalDataDemo.deps.json
+C:\MyStuff\Practice Projects\dotnetcore\ExceptionAdditionalDataDemo\ExceptionAdditionalDataDemo\bin\Debug\net5.0\ExceptionAdditionalDataDemo.runtimeconfig.json
+C:\MyStuff\Practice Projects\dotnetcore\ExceptionAdditionalDataDemo\ExceptionAdditionalDataDemo\bin\Debug\net5.0\ExceptionAdditionalDataDemo.runtimeconfig.dev.json
+C:\MyStuff\Practice Projects\dotnetcore\ExceptionAdditionalDataDemo\ExceptionAdditionalDataDemo\bin\Debug\net5.0\ExceptionAdditionalDataDemo.dll
+C:\MyStuff\Practice Projects\dotnetcore\ExceptionAdditionalDataDemo\ExceptionAdditionalDataDemo\bin\Debug\net5.0\ref\ExceptionAdditionalDataDemo.dll
+C:\MyStuff\Practice Projects\dotnetcore\ExceptionAdditionalDataDemo\ExceptionAdditionalDataDemo\bin\Debug\net5.0\ExceptionAdditionalDataDemo.pdb
+C:\MyStuff\Practice Projects\dotnetcore\ExceptionAdditionalDataDemo\ExceptionAdditionalDataDemo\obj\Debug\net5.0\ExceptionAdditionalDataDemo.csproj.AssemblyReference.cache
+C:\MyStuff\Practice Projects\dotnetcore\ExceptionAdditionalDataDemo\ExceptionAdditionalDataDemo\obj\Debug\net5.0\ExceptionAdditionalDataDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyStuff\Practice Projects\dotnetcore\ExceptionAdditionalDataDemo\ExceptionAdditionalDataDemo\obj\Debug\net5.0\ExceptionAdditionalDataDemo.AssemblyInfoInputs.cache
+C:\MyStuff\Practice Projects\dotnetcore\ExceptionAdditionalDataDemo\ExceptionAdditionalDataDemo\obj\Debug\net5.0\ExceptionAdditionalDataDemo.AssemblyInfo.cs
+C:\MyStuff\Practice Projects\dotnetcore\ExceptionAdditionalDataDemo\ExceptionAdditionalDataDemo\obj\Debug\net5.0\ExceptionAdditionalDataDemo.csproj.CoreCompileInputs.cache
+C:\MyStuff\Practice Projects\dotnetcore\ExceptionAdditionalDataDemo\ExceptionAdditionalDataDemo\obj\Debug\net5.0\ExceptionAdditionalDataDemo.dll
+C:\MyStuff\Practice Projects\dotnetcore\ExceptionAdditionalDataDemo\ExceptionAdditionalDataDemo\obj\Debug\net5.0\ref\ExceptionAdditionalDataDemo.dll
+C:\MyStuff\Practice Projects\dotnetcore\ExceptionAdditionalDataDemo\ExceptionAdditionalDataDemo\obj\Debug\net5.0\ExceptionAdditionalDataDemo.pdb
+C:\MyStuff\Practice Projects\dotnetcore\ExceptionAdditionalDataDemo\ExceptionAdditionalDataDemo\obj\Debug\net5.0\ExceptionAdditionalDataDemo.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\QuestpondAsyncDemo\QuestpondAsyncDemo\bin\Debug\netcoreapp3.1\QuestpondAsyncDemo.exe
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\QuestpondAsyncDemo\QuestpondAsyncDemo\bin\Debug\netcoreapp3.1\QuestpondAsyncDemo.deps.json
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\QuestpondAsyncDemo\QuestpondAsyncDemo\bin\Debug\netcoreapp3.1\QuestpondAsyncDemo.runtimeconfig.json
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\QuestpondAsyncDemo\QuestpondAsyncDemo\bin\Debug\netcoreapp3.1\QuestpondAsyncDemo.runtimeconfig.dev.json
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\QuestpondAsyncDemo\QuestpondAsyncDemo\bin\Debug\netcoreapp3.1\QuestpondAsyncDemo.dll
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\QuestpondAsyncDemo\QuestpondAsyncDemo\bin\Debug\netcoreapp3.1\QuestpondAsyncDemo.pdb
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\QuestpondAsyncDemo\QuestpondAsyncDemo\obj\Debug\netcoreapp3.1\QuestpondAsyncDemo.csprojAssemblyReference.cache
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\QuestpondAsyncDemo\QuestpondAsyncDemo\obj\Debug\netcoreapp3.1\QuestpondAsyncDemo.AssemblyInfoInputs.cache
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\QuestpondAsyncDemo\QuestpondAsyncDemo\obj\Debug\netcoreapp3.1\QuestpondAsyncDemo.AssemblyInfo.cs
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\QuestpondAsyncDemo\QuestpondAsyncDemo\obj\Debug\netcoreapp3.1\QuestpondAsyncDemo.csproj.CoreCompileInputs.cache
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\QuestpondAsyncDemo\QuestpondAsyncDemo\obj\Debug\netcoreapp3.1\QuestpondAsyncDemo.dll
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\QuestpondAsyncDemo\QuestpondAsyncDemo\obj\Debug\netcoreapp3.1\QuestpondAsyncDemo.pdb
+C:\MyStuff\Practice Projects\dotnetcore\AsyncProgramming\QuestpondAsyncDemo\QuestpondAsyncDemo\obj\Debug\netcoreapp3.1\QuestpondAsyncDemo.genruntimeconfig.cache

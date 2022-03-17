@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "04768769-2312-4fc9-a2c0-cde1956c7963": {
+      "ProjectGuid": "04768769-2312-4fc9-a2c0-cde1956c7963",
+      "DisplayName": "Tests",
+      "ColorIndex": 0
+    },
+    "611a4e73-eabc-4d3c-8c27-32256c5cb9d8": {
+      "ProjectGuid": "611a4e73-eabc-4d3c-8c27-32256c5cb9d8",
+      "DisplayName": "RateLimitingDemo.UsingAspNetCoreRateLimitPackage",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

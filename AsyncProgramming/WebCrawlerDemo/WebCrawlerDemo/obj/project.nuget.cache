@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LD227dD/62Yj7J71LB+jsYSkIW4kYL7Vp6PhZE+tUPAfWBz1b9cZ0PVRVegfggGiNgvbbztxxeUnITftZ6Ah4Q==",
+  "success": true,
+  "projectFilePath": "C:\\MyStuff\\Practice Projects\\dotnetcore\\AsyncProgramming\\WebCrawlerDemo\\WebCrawlerDemo\\WebCrawlerDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chayan.adhikari\\.nuget\\packages\\htmlagilitypack\\1.11.37\\htmlagilitypack.1.11.37.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uQ7hsM17rv3yFW1WIHpjn/cAeE6+o0pSnrPYvXsfn7CeE5+QYRakebCHAnhju2rn3ngO9rgAXCHe19yEWI7RFg==",
+  "success": true,
+  "projectFilePath": "C:\\MyStuff\\Practice Projects\\dotnetcore\\ReactiveExtensions\\ObserverPattern\\ObservableDataStream.Demo\\ObservableDataStream.Demo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chayan.adhikari\\.nuget\\packages\\system.reactive\\5.0.0\\system.reactive.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

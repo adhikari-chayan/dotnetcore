@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "g5NMlMBKzD+qsn0EuYjPIi4rrpAS1x9Iob6ZwSM+y1LhqR9lt5/Dv9q1x45aztCbadeuJSAUVQOupvg+PlC3Ug==",
+  "success": true,
+  "projectFilePath": "C:\\MyStuff\\Practice Projects\\dotnetcore\\ReactiveExtensions\\GroupByUntilDemo\\GroupByUntilDemo\\GroupByUntilDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chayan.adhikari\\.nuget\\packages\\system.reactive\\5.0.0\\system.reactive.5.0.0.nupkg.sha512",
+    "C:\\Users\\chayan.adhikari\\.nuget\\packages\\system.reactive.linq\\5.0.0\\system.reactive.linq.5.0.0.nupkg.sha512",
+    "C:\\Users\\chayan.adhikari\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}
