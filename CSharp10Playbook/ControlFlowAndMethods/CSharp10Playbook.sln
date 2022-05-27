@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ControlFlow", "ControlFlow\ControlFlow.csproj", "{EFF0DA1D-97A1-44E4-9B13-74BB5EA2A2BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodsAndProperties", "MethodsAndProperties\MethodsAndProperties.csproj", "{085F9503-E0CD-42F4-969F-2AFA93ADC9B2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFF0DA1D-97A1-44E4-9B13-74BB5EA2A2BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFF0DA1D-97A1-44E4-9B13-74BB5EA2A2BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFF0DA1D-97A1-44E4-9B13-74BB5EA2A2BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFF0DA1D-97A1-44E4-9B13-74BB5EA2A2BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{085F9503-E0CD-42F4-969F-2AFA93ADC9B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{085F9503-E0CD-42F4-969F-2AFA93ADC9B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{085F9503-E0CD-42F4-969F-2AFA93ADC9B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{085F9503-E0CD-42F4-969F-2AFA93ADC9B2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3DED923F-5113-41DB-92F0-0FD2C1C35FD6}
+	EndGlobalSection
+EndGlobal

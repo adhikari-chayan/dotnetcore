@@ -1,0 +1,15 @@
+C:\MyStuff\Practice Projects\dotnetcore\CSharp10Playbook\Interfaces\GardenStore\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\MyStuff\Practice Projects\dotnetcore\CSharp10Playbook\Interfaces\GardenStore\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\MyStuff\Practice Projects\dotnetcore\CSharp10Playbook\Interfaces\GardenStore\DataAccess\bin\Debug\net6.0\ref\DataAccess.dll
+C:\MyStuff\Practice Projects\dotnetcore\CSharp10Playbook\Interfaces\GardenStore\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\MyStuff\Practice Projects\dotnetcore\CSharp10Playbook\Interfaces\GardenStore\DataAccess\bin\Debug\net6.0\BusinessObjects.dll
+C:\MyStuff\Practice Projects\dotnetcore\CSharp10Playbook\Interfaces\GardenStore\DataAccess\bin\Debug\net6.0\BusinessObjects.pdb
+C:\MyStuff\Practice Projects\dotnetcore\CSharp10Playbook\Interfaces\GardenStore\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\MyStuff\Practice Projects\dotnetcore\CSharp10Playbook\Interfaces\GardenStore\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyStuff\Practice Projects\dotnetcore\CSharp10Playbook\Interfaces\GardenStore\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\MyStuff\Practice Projects\dotnetcore\CSharp10Playbook\Interfaces\GardenStore\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\MyStuff\Practice Projects\dotnetcore\CSharp10Playbook\Interfaces\GardenStore\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\MyStuff\Practice Projects\dotnetcore\CSharp10Playbook\Interfaces\GardenStore\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+C:\MyStuff\Practice Projects\dotnetcore\CSharp10Playbook\Interfaces\GardenStore\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\MyStuff\Practice Projects\dotnetcore\CSharp10Playbook\Interfaces\GardenStore\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+C:\MyStuff\Practice Projects\dotnetcore\CSharp10Playbook\Interfaces\GardenStore\DataAccess\obj\Debug\net6.0\DataAccess.pdb

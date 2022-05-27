@@ -1,0 +1,15 @@
+C:\MyStuff\Practice Projects\dotnetcore\CSharp10Playbook\NullValues\Deliveries\bin\Debug\net6.0\DeliveryPlanner.exe
+C:\MyStuff\Practice Projects\dotnetcore\CSharp10Playbook\NullValues\Deliveries\bin\Debug\net6.0\DeliveryPlanner.deps.json
+C:\MyStuff\Practice Projects\dotnetcore\CSharp10Playbook\NullValues\Deliveries\bin\Debug\net6.0\DeliveryPlanner.runtimeconfig.json
+C:\MyStuff\Practice Projects\dotnetcore\CSharp10Playbook\NullValues\Deliveries\bin\Debug\net6.0\DeliveryPlanner.dll
+C:\MyStuff\Practice Projects\dotnetcore\CSharp10Playbook\NullValues\Deliveries\bin\Debug\net6.0\ref\DeliveryPlanner.dll
+C:\MyStuff\Practice Projects\dotnetcore\CSharp10Playbook\NullValues\Deliveries\bin\Debug\net6.0\DeliveryPlanner.pdb
+C:\MyStuff\Practice Projects\dotnetcore\CSharp10Playbook\NullValues\Deliveries\obj\Debug\net6.0\DeliveryPlanner.csproj.AssemblyReference.cache
+C:\MyStuff\Practice Projects\dotnetcore\CSharp10Playbook\NullValues\Deliveries\obj\Debug\net6.0\DeliveryPlanner.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyStuff\Practice Projects\dotnetcore\CSharp10Playbook\NullValues\Deliveries\obj\Debug\net6.0\DeliveryPlanner.AssemblyInfoInputs.cache
+C:\MyStuff\Practice Projects\dotnetcore\CSharp10Playbook\NullValues\Deliveries\obj\Debug\net6.0\DeliveryPlanner.AssemblyInfo.cs
+C:\MyStuff\Practice Projects\dotnetcore\CSharp10Playbook\NullValues\Deliveries\obj\Debug\net6.0\DeliveryPlanner.csproj.CoreCompileInputs.cache
+C:\MyStuff\Practice Projects\dotnetcore\CSharp10Playbook\NullValues\Deliveries\obj\Debug\net6.0\DeliveryPlanner.dll
+C:\MyStuff\Practice Projects\dotnetcore\CSharp10Playbook\NullValues\Deliveries\obj\Debug\net6.0\ref\DeliveryPlanner.dll
+C:\MyStuff\Practice Projects\dotnetcore\CSharp10Playbook\NullValues\Deliveries\obj\Debug\net6.0\DeliveryPlanner.pdb
+C:\MyStuff\Practice Projects\dotnetcore\CSharp10Playbook\NullValues\Deliveries\obj\Debug\net6.0\DeliveryPlanner.genruntimeconfig.cache

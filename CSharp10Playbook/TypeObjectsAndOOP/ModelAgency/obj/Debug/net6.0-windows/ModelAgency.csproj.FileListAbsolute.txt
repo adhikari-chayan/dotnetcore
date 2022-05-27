@@ -1,0 +1,17 @@
+C:\MyStuff\Practice Projects\dotnetcore\CSharp10Playbook\TypeObjectsAndOOP\ModelAgency\bin\Debug\net6.0-windows\ModelAgency.exe
+C:\MyStuff\Practice Projects\dotnetcore\CSharp10Playbook\TypeObjectsAndOOP\ModelAgency\bin\Debug\net6.0-windows\ModelAgency.deps.json
+C:\MyStuff\Practice Projects\dotnetcore\CSharp10Playbook\TypeObjectsAndOOP\ModelAgency\bin\Debug\net6.0-windows\ModelAgency.runtimeconfig.json
+C:\MyStuff\Practice Projects\dotnetcore\CSharp10Playbook\TypeObjectsAndOOP\ModelAgency\bin\Debug\net6.0-windows\ModelAgency.dll
+C:\MyStuff\Practice Projects\dotnetcore\CSharp10Playbook\TypeObjectsAndOOP\ModelAgency\bin\Debug\net6.0-windows\ref\ModelAgency.dll
+C:\MyStuff\Practice Projects\dotnetcore\CSharp10Playbook\TypeObjectsAndOOP\ModelAgency\bin\Debug\net6.0-windows\ModelAgency.pdb
+C:\MyStuff\Practice Projects\dotnetcore\CSharp10Playbook\TypeObjectsAndOOP\ModelAgency\obj\Debug\net6.0-windows\ModelAgency.csproj.AssemblyReference.cache
+C:\MyStuff\Practice Projects\dotnetcore\CSharp10Playbook\TypeObjectsAndOOP\ModelAgency\obj\Debug\net6.0-windows\Pluralsight.CShPlaybook.Oop.Form1.resources
+C:\MyStuff\Practice Projects\dotnetcore\CSharp10Playbook\TypeObjectsAndOOP\ModelAgency\obj\Debug\net6.0-windows\ModelAgency.csproj.GenerateResource.cache
+C:\MyStuff\Practice Projects\dotnetcore\CSharp10Playbook\TypeObjectsAndOOP\ModelAgency\obj\Debug\net6.0-windows\ModelAgency.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyStuff\Practice Projects\dotnetcore\CSharp10Playbook\TypeObjectsAndOOP\ModelAgency\obj\Debug\net6.0-windows\ModelAgency.AssemblyInfoInputs.cache
+C:\MyStuff\Practice Projects\dotnetcore\CSharp10Playbook\TypeObjectsAndOOP\ModelAgency\obj\Debug\net6.0-windows\ModelAgency.AssemblyInfo.cs
+C:\MyStuff\Practice Projects\dotnetcore\CSharp10Playbook\TypeObjectsAndOOP\ModelAgency\obj\Debug\net6.0-windows\ModelAgency.csproj.CoreCompileInputs.cache
+C:\MyStuff\Practice Projects\dotnetcore\CSharp10Playbook\TypeObjectsAndOOP\ModelAgency\obj\Debug\net6.0-windows\ModelAgency.dll
+C:\MyStuff\Practice Projects\dotnetcore\CSharp10Playbook\TypeObjectsAndOOP\ModelAgency\obj\Debug\net6.0-windows\ref\ModelAgency.dll
+C:\MyStuff\Practice Projects\dotnetcore\CSharp10Playbook\TypeObjectsAndOOP\ModelAgency\obj\Debug\net6.0-windows\ModelAgency.pdb
+C:\MyStuff\Practice Projects\dotnetcore\CSharp10Playbook\TypeObjectsAndOOP\ModelAgency\obj\Debug\net6.0-windows\ModelAgency.genruntimeconfig.cache

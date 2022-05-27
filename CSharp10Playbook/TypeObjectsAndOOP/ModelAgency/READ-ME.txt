@@ -1,0 +1,9 @@
+Unfortunately, for licensing reasons, we cannot include the pictures of dogs
+with this download.  To get the code to work as shown in the video course, you must add your own pictures to the Data folder. You'll need to give the picture files the names:
+
+missing.jpg
+dog_1_Josie.jpg
+dog_2_Bouncy.jpg
+dog_4_Lazy.jpg
+
+There's a near-copy of this READ-ME.txt in the data folder.

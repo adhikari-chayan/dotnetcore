@@ -1,0 +1,12 @@
+C:\MyStuff\Practice Projects\dotnetcore\CSharp10Playbook\Interfaces\GardenStore\BusinessObjects\bin\Debug\net6.0\BusinessObjects.deps.json
+C:\MyStuff\Practice Projects\dotnetcore\CSharp10Playbook\Interfaces\GardenStore\BusinessObjects\bin\Debug\net6.0\BusinessObjects.dll
+C:\MyStuff\Practice Projects\dotnetcore\CSharp10Playbook\Interfaces\GardenStore\BusinessObjects\bin\Debug\net6.0\ref\BusinessObjects.dll
+C:\MyStuff\Practice Projects\dotnetcore\CSharp10Playbook\Interfaces\GardenStore\BusinessObjects\bin\Debug\net6.0\BusinessObjects.pdb
+C:\MyStuff\Practice Projects\dotnetcore\CSharp10Playbook\Interfaces\GardenStore\BusinessObjects\obj\Debug\net6.0\BusinessObjects.csproj.AssemblyReference.cache
+C:\MyStuff\Practice Projects\dotnetcore\CSharp10Playbook\Interfaces\GardenStore\BusinessObjects\obj\Debug\net6.0\BusinessObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyStuff\Practice Projects\dotnetcore\CSharp10Playbook\Interfaces\GardenStore\BusinessObjects\obj\Debug\net6.0\BusinessObjects.AssemblyInfoInputs.cache
+C:\MyStuff\Practice Projects\dotnetcore\CSharp10Playbook\Interfaces\GardenStore\BusinessObjects\obj\Debug\net6.0\BusinessObjects.AssemblyInfo.cs
+C:\MyStuff\Practice Projects\dotnetcore\CSharp10Playbook\Interfaces\GardenStore\BusinessObjects\obj\Debug\net6.0\BusinessObjects.csproj.CoreCompileInputs.cache
+C:\MyStuff\Practice Projects\dotnetcore\CSharp10Playbook\Interfaces\GardenStore\BusinessObjects\obj\Debug\net6.0\BusinessObjects.dll
+C:\MyStuff\Practice Projects\dotnetcore\CSharp10Playbook\Interfaces\GardenStore\BusinessObjects\obj\Debug\net6.0\ref\BusinessObjects.dll
+C:\MyStuff\Practice Projects\dotnetcore\CSharp10Playbook\Interfaces\GardenStore\BusinessObjects\obj\Debug\net6.0\BusinessObjects.pdb

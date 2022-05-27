@@ -1,0 +1,15 @@
+C:\MyStuff\Practice Projects\dotnetcore\CSharp10Playbook\ControlFlow\bin\Debug\net6.0\ControlFlow.exe
+C:\MyStuff\Practice Projects\dotnetcore\CSharp10Playbook\ControlFlow\bin\Debug\net6.0\ControlFlow.deps.json
+C:\MyStuff\Practice Projects\dotnetcore\CSharp10Playbook\ControlFlow\bin\Debug\net6.0\ControlFlow.runtimeconfig.json
+C:\MyStuff\Practice Projects\dotnetcore\CSharp10Playbook\ControlFlow\bin\Debug\net6.0\ControlFlow.dll
+C:\MyStuff\Practice Projects\dotnetcore\CSharp10Playbook\ControlFlow\bin\Debug\net6.0\ref\ControlFlow.dll
+C:\MyStuff\Practice Projects\dotnetcore\CSharp10Playbook\ControlFlow\bin\Debug\net6.0\ControlFlow.pdb
+C:\MyStuff\Practice Projects\dotnetcore\CSharp10Playbook\ControlFlow\obj\Debug\net6.0\ControlFlow.csproj.AssemblyReference.cache
+C:\MyStuff\Practice Projects\dotnetcore\CSharp10Playbook\ControlFlow\obj\Debug\net6.0\ControlFlow.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyStuff\Practice Projects\dotnetcore\CSharp10Playbook\ControlFlow\obj\Debug\net6.0\ControlFlow.AssemblyInfoInputs.cache
+C:\MyStuff\Practice Projects\dotnetcore\CSharp10Playbook\ControlFlow\obj\Debug\net6.0\ControlFlow.AssemblyInfo.cs
+C:\MyStuff\Practice Projects\dotnetcore\CSharp10Playbook\ControlFlow\obj\Debug\net6.0\ControlFlow.csproj.CoreCompileInputs.cache
+C:\MyStuff\Practice Projects\dotnetcore\CSharp10Playbook\ControlFlow\obj\Debug\net6.0\ControlFlow.dll
+C:\MyStuff\Practice Projects\dotnetcore\CSharp10Playbook\ControlFlow\obj\Debug\net6.0\ref\ControlFlow.dll
+C:\MyStuff\Practice Projects\dotnetcore\CSharp10Playbook\ControlFlow\obj\Debug\net6.0\ControlFlow.pdb
+C:\MyStuff\Practice Projects\dotnetcore\CSharp10Playbook\ControlFlow\obj\Debug\net6.0\ControlFlow.genruntimeconfig.cache

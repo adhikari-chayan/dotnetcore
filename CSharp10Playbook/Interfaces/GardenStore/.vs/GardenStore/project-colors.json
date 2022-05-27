@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "39754d49-d9a7-4636-8915-fbdb97450b4d": {
+      "ProjectGuid": "39754d49-d9a7-4636-8915-fbdb97450b4d",
+      "DisplayName": "DataAccess",
+      "ColorIndex": 0
+    },
+    "a5acf6ec-5514-4564-af9a-71f3c6b96237": {
+      "ProjectGuid": "a5acf6ec-5514-4564-af9a-71f3c6b96237",
+      "DisplayName": "BusinessObjects",
+      "ColorIndex": 1
+    },
+    "18d76a54-fdf0-46ee-b7ce-adb46ad8c223": {
+      "ProjectGuid": "18d76a54-fdf0-46ee-b7ce-adb46ad8c223",
+      "DisplayName": "ConsoleUi",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

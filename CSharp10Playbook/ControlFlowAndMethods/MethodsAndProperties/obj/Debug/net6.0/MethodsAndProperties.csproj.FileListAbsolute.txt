@@ -1,0 +1,15 @@
+C:\MyStuff\Practice Projects\dotnetcore\CSharp10Playbook\MethodsAndProperties\bin\Debug\net6.0\MethodsAndProperties.exe
+C:\MyStuff\Practice Projects\dotnetcore\CSharp10Playbook\MethodsAndProperties\bin\Debug\net6.0\MethodsAndProperties.deps.json
+C:\MyStuff\Practice Projects\dotnetcore\CSharp10Playbook\MethodsAndProperties\bin\Debug\net6.0\MethodsAndProperties.runtimeconfig.json
+C:\MyStuff\Practice Projects\dotnetcore\CSharp10Playbook\MethodsAndProperties\bin\Debug\net6.0\MethodsAndProperties.dll
+C:\MyStuff\Practice Projects\dotnetcore\CSharp10Playbook\MethodsAndProperties\bin\Debug\net6.0\ref\MethodsAndProperties.dll
+C:\MyStuff\Practice Projects\dotnetcore\CSharp10Playbook\MethodsAndProperties\bin\Debug\net6.0\MethodsAndProperties.pdb
+C:\MyStuff\Practice Projects\dotnetcore\CSharp10Playbook\MethodsAndProperties\obj\Debug\net6.0\MethodsAndProperties.csproj.AssemblyReference.cache
+C:\MyStuff\Practice Projects\dotnetcore\CSharp10Playbook\MethodsAndProperties\obj\Debug\net6.0\MethodsAndProperties.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyStuff\Practice Projects\dotnetcore\CSharp10Playbook\MethodsAndProperties\obj\Debug\net6.0\MethodsAndProperties.AssemblyInfoInputs.cache
+C:\MyStuff\Practice Projects\dotnetcore\CSharp10Playbook\MethodsAndProperties\obj\Debug\net6.0\MethodsAndProperties.AssemblyInfo.cs
+C:\MyStuff\Practice Projects\dotnetcore\CSharp10Playbook\MethodsAndProperties\obj\Debug\net6.0\MethodsAndProperties.csproj.CoreCompileInputs.cache
+C:\MyStuff\Practice Projects\dotnetcore\CSharp10Playbook\MethodsAndProperties\obj\Debug\net6.0\MethodsAndProperties.dll
+C:\MyStuff\Practice Projects\dotnetcore\CSharp10Playbook\MethodsAndProperties\obj\Debug\net6.0\ref\MethodsAndProperties.dll
+C:\MyStuff\Practice Projects\dotnetcore\CSharp10Playbook\MethodsAndProperties\obj\Debug\net6.0\MethodsAndProperties.pdb
+C:\MyStuff\Practice Projects\dotnetcore\CSharp10Playbook\MethodsAndProperties\obj\Debug\net6.0\MethodsAndProperties.genruntimeconfig.cache

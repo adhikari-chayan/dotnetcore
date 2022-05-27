@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "eff0da1d-97a1-44e4-9b13-74bb5ea2a2ba": {
+      "ProjectGuid": "eff0da1d-97a1-44e4-9b13-74bb5ea2a2ba",
+      "DisplayName": "ControlFlow",
+      "ColorIndex": 0
+    },
+    "085f9503-e0cd-42f4-969f-2afa93adc9b2": {
+      "ProjectGuid": "085f9503-e0cd-42f4-969f-2afa93adc9b2",
+      "DisplayName": "MethodsAndProperties",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
