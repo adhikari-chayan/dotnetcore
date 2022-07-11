@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "BDkjmyCcsd6VpPVWYj38PC9ikY3Xh06XHkun7H+bLlY=",
+  "Source": "DemandManagement.Api",
+  "BasePath": "_content/DemandManagement.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

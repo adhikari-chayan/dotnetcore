@@ -1,0 +1,12 @@
+C:\MyStuff\Practice Projects\dotnetcore\MassTransitDemo\DemandMenagement\DemandManagement.MessageContracts\bin\Debug\net6.0\DemandManagement.MessageContracts.deps.json
+C:\MyStuff\Practice Projects\dotnetcore\MassTransitDemo\DemandMenagement\DemandManagement.MessageContracts\bin\Debug\net6.0\DemandManagement.MessageContracts.dll
+C:\MyStuff\Practice Projects\dotnetcore\MassTransitDemo\DemandMenagement\DemandManagement.MessageContracts\bin\Debug\net6.0\ref\DemandManagement.MessageContracts.dll
+C:\MyStuff\Practice Projects\dotnetcore\MassTransitDemo\DemandMenagement\DemandManagement.MessageContracts\bin\Debug\net6.0\DemandManagement.MessageContracts.pdb
+C:\MyStuff\Practice Projects\dotnetcore\MassTransitDemo\DemandMenagement\DemandManagement.MessageContracts\obj\Debug\net6.0\DemandManagement.MessageContracts.csproj.AssemblyReference.cache
+C:\MyStuff\Practice Projects\dotnetcore\MassTransitDemo\DemandMenagement\DemandManagement.MessageContracts\obj\Debug\net6.0\DemandManagement.MessageContracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyStuff\Practice Projects\dotnetcore\MassTransitDemo\DemandMenagement\DemandManagement.MessageContracts\obj\Debug\net6.0\DemandManagement.MessageContracts.AssemblyInfoInputs.cache
+C:\MyStuff\Practice Projects\dotnetcore\MassTransitDemo\DemandMenagement\DemandManagement.MessageContracts\obj\Debug\net6.0\DemandManagement.MessageContracts.AssemblyInfo.cs
+C:\MyStuff\Practice Projects\dotnetcore\MassTransitDemo\DemandMenagement\DemandManagement.MessageContracts\obj\Debug\net6.0\DemandManagement.MessageContracts.csproj.CoreCompileInputs.cache
+C:\MyStuff\Practice Projects\dotnetcore\MassTransitDemo\DemandMenagement\DemandManagement.MessageContracts\obj\Debug\net6.0\DemandManagement.MessageContracts.dll
+C:\MyStuff\Practice Projects\dotnetcore\MassTransitDemo\DemandMenagement\DemandManagement.MessageContracts\obj\Debug\net6.0\ref\DemandManagement.MessageContracts.dll
+C:\MyStuff\Practice Projects\dotnetcore\MassTransitDemo\DemandMenagement\DemandManagement.MessageContracts\obj\Debug\net6.0\DemandManagement.MessageContracts.pdb

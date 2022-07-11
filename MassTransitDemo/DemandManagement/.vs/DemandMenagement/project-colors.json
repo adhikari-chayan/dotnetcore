@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "106ed1b9-bd3d-4aae-a743-79d3b55c8edc": {
+      "ProjectGuid": "106ed1b9-bd3d-4aae-a743-79d3b55c8edc",
+      "DisplayName": "DemandManagement.MessageContracts",
+      "ColorIndex": 0
+    },
+    "818d19bb-cae5-4328-97b0-72a58630f5b5": {
+      "ProjectGuid": "818d19bb-cae5-4328-97b0-72a58630f5b5",
+      "DisplayName": "DemandManagement.Api",
+      "ColorIndex": 1
+    },
+    "82ca3d60-ab61-4632-867c-6501953f11fc": {
+      "ProjectGuid": "82ca3d60-ab61-4632-867c-6501953f11fc",
+      "DisplayName": "DemandManagement.Registration",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
