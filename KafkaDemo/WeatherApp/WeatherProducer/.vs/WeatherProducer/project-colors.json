@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d09d2ab5-5ff4-4d7a-98d0-403ea3bcf954": {
+      "ProjectGuid": "d09d2ab5-5ff4-4d7a-98d0-403ea3bcf954",
+      "DisplayName": "WeatherProducer",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "663db04b-d337-4a02-b65c-0a7f7f39e7ea": {
+      "ProjectGuid": "663db04b-d337-4a02-b65c-0a7f7f39e7ea",
+      "DisplayName": "WeatherConsumer",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
