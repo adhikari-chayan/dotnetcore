@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/LCvq9LlWhb4TSv/EHE36dr6FfmDUNOyxiiE79rh2BLOEAdwAMqdy6oLrG6/3kDV8olpncZ1I7UCF2cK2VqsRg==",
+  "success": true,
+  "projectFilePath": "C:\\MyStuff\\Practice Projects\\dotnetcore\\EnumFlagDemo\\EnumFlagDemo\\EnumFlagDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chayan.adhikari\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

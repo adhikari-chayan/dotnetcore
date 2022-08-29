@@ -1,0 +1,17 @@
+C:\MyStuff\Practice Projects\dotnetcore\EnumFlagDemo\EnumFlagDemo\bin\Debug\net6.0\EnumFlagDemo.exe
+C:\MyStuff\Practice Projects\dotnetcore\EnumFlagDemo\EnumFlagDemo\bin\Debug\net6.0\EnumFlagDemo.deps.json
+C:\MyStuff\Practice Projects\dotnetcore\EnumFlagDemo\EnumFlagDemo\bin\Debug\net6.0\EnumFlagDemo.runtimeconfig.json
+C:\MyStuff\Practice Projects\dotnetcore\EnumFlagDemo\EnumFlagDemo\bin\Debug\net6.0\EnumFlagDemo.dll
+C:\MyStuff\Practice Projects\dotnetcore\EnumFlagDemo\EnumFlagDemo\bin\Debug\net6.0\ref\EnumFlagDemo.dll
+C:\MyStuff\Practice Projects\dotnetcore\EnumFlagDemo\EnumFlagDemo\bin\Debug\net6.0\EnumFlagDemo.pdb
+C:\MyStuff\Practice Projects\dotnetcore\EnumFlagDemo\EnumFlagDemo\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\MyStuff\Practice Projects\dotnetcore\EnumFlagDemo\EnumFlagDemo\obj\Debug\net6.0\EnumFlagDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyStuff\Practice Projects\dotnetcore\EnumFlagDemo\EnumFlagDemo\obj\Debug\net6.0\EnumFlagDemo.AssemblyInfoInputs.cache
+C:\MyStuff\Practice Projects\dotnetcore\EnumFlagDemo\EnumFlagDemo\obj\Debug\net6.0\EnumFlagDemo.AssemblyInfo.cs
+C:\MyStuff\Practice Projects\dotnetcore\EnumFlagDemo\EnumFlagDemo\obj\Debug\net6.0\EnumFlagDemo.csproj.CoreCompileInputs.cache
+C:\MyStuff\Practice Projects\dotnetcore\EnumFlagDemo\EnumFlagDemo\obj\Debug\net6.0\EnumFlagDemo.csproj.CopyComplete
+C:\MyStuff\Practice Projects\dotnetcore\EnumFlagDemo\EnumFlagDemo\obj\Debug\net6.0\EnumFlagDemo.dll
+C:\MyStuff\Practice Projects\dotnetcore\EnumFlagDemo\EnumFlagDemo\obj\Debug\net6.0\ref\EnumFlagDemo.dll
+C:\MyStuff\Practice Projects\dotnetcore\EnumFlagDemo\EnumFlagDemo\obj\Debug\net6.0\EnumFlagDemo.pdb
+C:\MyStuff\Practice Projects\dotnetcore\EnumFlagDemo\EnumFlagDemo\obj\Debug\net6.0\EnumFlagDemo.genruntimeconfig.cache
+C:\MyStuff\Practice Projects\dotnetcore\EnumFlagDemo\EnumFlagDemo\obj\Debug\net6.0\EnumFlagDemo.csproj.AssemblyReference.cache
