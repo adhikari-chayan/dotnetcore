@@ -1,0 +1,15 @@
+C:\MyStuff\Practice Projects\dotnetcore\IDisposableDemo\DisposableSample\DisposableSample\bin\Debug\net6.0\DisposableSample.exe
+C:\MyStuff\Practice Projects\dotnetcore\IDisposableDemo\DisposableSample\DisposableSample\bin\Debug\net6.0\DisposableSample.deps.json
+C:\MyStuff\Practice Projects\dotnetcore\IDisposableDemo\DisposableSample\DisposableSample\bin\Debug\net6.0\DisposableSample.runtimeconfig.json
+C:\MyStuff\Practice Projects\dotnetcore\IDisposableDemo\DisposableSample\DisposableSample\bin\Debug\net6.0\DisposableSample.dll
+C:\MyStuff\Practice Projects\dotnetcore\IDisposableDemo\DisposableSample\DisposableSample\bin\Debug\net6.0\DisposableSample.pdb
+C:\MyStuff\Practice Projects\dotnetcore\IDisposableDemo\DisposableSample\DisposableSample\obj\Debug\net6.0\DisposableSample.csproj.AssemblyReference.cache
+C:\MyStuff\Practice Projects\dotnetcore\IDisposableDemo\DisposableSample\DisposableSample\obj\Debug\net6.0\DisposableSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyStuff\Practice Projects\dotnetcore\IDisposableDemo\DisposableSample\DisposableSample\obj\Debug\net6.0\DisposableSample.AssemblyInfoInputs.cache
+C:\MyStuff\Practice Projects\dotnetcore\IDisposableDemo\DisposableSample\DisposableSample\obj\Debug\net6.0\DisposableSample.AssemblyInfo.cs
+C:\MyStuff\Practice Projects\dotnetcore\IDisposableDemo\DisposableSample\DisposableSample\obj\Debug\net6.0\DisposableSample.csproj.CoreCompileInputs.cache
+C:\MyStuff\Practice Projects\dotnetcore\IDisposableDemo\DisposableSample\DisposableSample\obj\Debug\net6.0\DisposableSample.dll
+C:\MyStuff\Practice Projects\dotnetcore\IDisposableDemo\DisposableSample\DisposableSample\obj\Debug\net6.0\refint\DisposableSample.dll
+C:\MyStuff\Practice Projects\dotnetcore\IDisposableDemo\DisposableSample\DisposableSample\obj\Debug\net6.0\DisposableSample.pdb
+C:\MyStuff\Practice Projects\dotnetcore\IDisposableDemo\DisposableSample\DisposableSample\obj\Debug\net6.0\DisposableSample.genruntimeconfig.cache
+C:\MyStuff\Practice Projects\dotnetcore\IDisposableDemo\DisposableSample\DisposableSample\obj\Debug\net6.0\ref\DisposableSample.dll

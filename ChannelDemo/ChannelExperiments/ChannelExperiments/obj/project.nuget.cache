@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ACAWyR/LoyZVeWmdJyq+TZuwNKWIFBuj66fHY2aS8rDVoAYKiHItqvxE9LLYwm9QnV45yW0CLJRpJfIGPB/gIA==",
+  "success": true,
+  "projectFilePath": "C:\\MyStuff\\Practice Projects\\dotnetcore\\ChannelDemo\\ChannelExperiments\\ChannelExperiments\\ChannelExperiments.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chayan.adhikari\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
+    "C:\\Users\\chayan.adhikari\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\chayan.adhikari\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

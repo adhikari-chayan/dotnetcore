@@ -1,0 +1,15 @@
+C:\MyStuff\Practice Projects\dotnetcore\ChannelDemo\ChannelDemo\ThreadsafeChannelDemo\bin\Debug\net6.0\ThreadsafeChannelDemo.exe
+C:\MyStuff\Practice Projects\dotnetcore\ChannelDemo\ChannelDemo\ThreadsafeChannelDemo\bin\Debug\net6.0\ThreadsafeChannelDemo.deps.json
+C:\MyStuff\Practice Projects\dotnetcore\ChannelDemo\ChannelDemo\ThreadsafeChannelDemo\bin\Debug\net6.0\ThreadsafeChannelDemo.runtimeconfig.json
+C:\MyStuff\Practice Projects\dotnetcore\ChannelDemo\ChannelDemo\ThreadsafeChannelDemo\bin\Debug\net6.0\ThreadsafeChannelDemo.dll
+C:\MyStuff\Practice Projects\dotnetcore\ChannelDemo\ChannelDemo\ThreadsafeChannelDemo\bin\Debug\net6.0\ThreadsafeChannelDemo.pdb
+C:\MyStuff\Practice Projects\dotnetcore\ChannelDemo\ChannelDemo\ThreadsafeChannelDemo\obj\Debug\net6.0\ThreadsafeChannelDemo.csproj.AssemblyReference.cache
+C:\MyStuff\Practice Projects\dotnetcore\ChannelDemo\ChannelDemo\ThreadsafeChannelDemo\obj\Debug\net6.0\ThreadsafeChannelDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyStuff\Practice Projects\dotnetcore\ChannelDemo\ChannelDemo\ThreadsafeChannelDemo\obj\Debug\net6.0\ThreadsafeChannelDemo.AssemblyInfoInputs.cache
+C:\MyStuff\Practice Projects\dotnetcore\ChannelDemo\ChannelDemo\ThreadsafeChannelDemo\obj\Debug\net6.0\ThreadsafeChannelDemo.AssemblyInfo.cs
+C:\MyStuff\Practice Projects\dotnetcore\ChannelDemo\ChannelDemo\ThreadsafeChannelDemo\obj\Debug\net6.0\ThreadsafeChannelDemo.csproj.CoreCompileInputs.cache
+C:\MyStuff\Practice Projects\dotnetcore\ChannelDemo\ChannelDemo\ThreadsafeChannelDemo\obj\Debug\net6.0\ThreadsafeChannelDemo.dll
+C:\MyStuff\Practice Projects\dotnetcore\ChannelDemo\ChannelDemo\ThreadsafeChannelDemo\obj\Debug\net6.0\ref\ThreadsafeChannelDemo.dll
+C:\MyStuff\Practice Projects\dotnetcore\ChannelDemo\ChannelDemo\ThreadsafeChannelDemo\obj\Debug\net6.0\ThreadsafeChannelDemo.pdb
+C:\MyStuff\Practice Projects\dotnetcore\ChannelDemo\ChannelDemo\ThreadsafeChannelDemo\obj\Debug\net6.0\ThreadsafeChannelDemo.genruntimeconfig.cache
+C:\MyStuff\Practice Projects\dotnetcore\ChannelDemo\ChannelDemo\ThreadsafeChannelDemo\obj\Debug\net6.0\refint\ThreadsafeChannelDemo.dll

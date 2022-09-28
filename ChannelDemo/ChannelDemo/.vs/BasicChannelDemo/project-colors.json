@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "471dfa14-6b52-4f39-9541-9d4bd786defa": {
+      "ProjectGuid": "471dfa14-6b52-4f39-9541-9d4bd786defa",
+      "DisplayName": "BasicChannelDemo",
+      "ColorIndex": 0
+    },
+    "4d080ba7-cf08-49be-abf3-50dbed042dae": {
+      "ProjectGuid": "4d080ba7-cf08-49be-abf3-50dbed042dae",
+      "DisplayName": "ThreadsafeChannelDemo",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
