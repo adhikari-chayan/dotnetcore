@@ -1,0 +1,46 @@
+<h2>Add a Document to the Search Index</h2>
+
+<form [formGroup]="fileUploadForm" (ngSubmit)="onSubmit()">
+    <div fxLayout="column" class="file-input-container">
+        <div fxLayout="column">
+            <mat-form-field fxFlex>
+                <input matInput formControlName="title" type="text" placeholder="Document Title">
+            </mat-form-field>
+        </div>
+        <div fxLayout="column">
+            <mat-form-field fxFlex>
+                <mat-chip-list #chipList aria-label="Suggestions" formControlName="suggestions">
+                  <mat-chip *ngFor="let suggestion of fileUploadForm.get('suggestions').value" [selectable]="true" [removable]="true" (removed)="onRemoveSuggestion(suggestion)">
+                    {{suggestion}}
+                    <mat-icon matChipRemove>cancel</mat-icon>
+                  </mat-chip>
+                  <input class="min-chips-height" placeholder="Suggestions"
+                         [matChipInputFor]="chipList"
+                         [matChipInputSeparatorKeyCodes]="separatorKeysCodes"
+                         [matChipInputAddOnBlur]="true"
+                         (matChipInputTokenEnd)="onAddSuggestion($event)">
+                </mat-chip-list>
+              </mat-form-field>
+        </div>
+        <!-- Upload Item -->
+        <div fxLayout="row">
+            <input #fileInput id="fileInput" type="file" [hidden]="true" (change)="onFileInputChange($event)">
+            <mat-form-field fxFlex [floatLabel]="'never'">
+                <input matInput type="text" formControlName="file" (click)="fileInput.click()"
+                    placeholder="Please Select a File ..." readonly>
+            </mat-form-field>
+            <button mat-mini-fab aria-label="Upload Button with Attachment Icon" (click)="fileInput.click()">
+                <mat-icon>attach_file</mat-icon>
+            </button>
+        </div>
+        <div fxLayout="column" fxLayoutAlign="center start">
+
+            <div style="margin: 20px">
+                <mat-checkbox color="primary" formControlName="ocr">Add OCR Data to Search Index</mat-checkbox>
+            </div>
+        </div>
+        <div fxLayout="column">
+            <button type="submit" mat-raised-button color="accent" [disabled]="isFileUploading">Index Document</button>
+        </div>
+    </div>
+</form>
